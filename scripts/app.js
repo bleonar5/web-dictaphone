@@ -1,7 +1,51 @@
+function downloadBlob(blob, name = './file') {
+  // Convert your blob into a Blob URL (a special url that points to an object in the browser's memory)
+  const blobUrl = URL.createObjectURL(blob);
+
+  // Create a link element
+  const link = document.createElement("a");
+
+  // Set link's href to point to the Blob URL
+  link.href = blobUrl;
+  link.download = name;
+
+  // Append link to the body
+  document.body.appendChild(link);
+
+  // Dispatch click event on the link
+  // This is necessary as link.click() does not work on the latest firefox
+  link.dispatchEvent(
+    new MouseEvent('click', { 
+      bubbles: true, 
+      cancelable: true, 
+      view: window 
+    })
+  );
+
+  // Remove link from body
+  document.body.removeChild(link);
+}
+
+$( document ).ready(function() {
+  if (localStorage.getItem('stim_idx'))
+    stim_idx = parseInt(localStorage.getItem('stim_idx'));
+  else
+    stim_idx = 0;
+  $('#stim_idx').text(stim_idx);
+  $('#stim_len').text(stim_data.length);
+
+  trial = stim_data[stim_idx];
+  $('#sentence').text(trial['sentence']);
+
+
+
+  console.log(stim_data);
+});
 // set up basic variables for app
 
 const record = document.querySelector('.record');
 const stop = document.querySelector('.stop');
+const confirm = document.querySelector('.confirm');
 const soundClips = document.querySelector('.sound-clips');
 const canvas = document.querySelector('.visualizer');
 const mainSection = document.querySelector('.main-controls');
@@ -9,6 +53,7 @@ const mainSection = document.querySelector('.main-controls');
 // disable stop button while not recording
 
 stop.disabled = true;
+confirm.disabled = true;
 
 // visualiser setup - create web audio api context and canvas
 
@@ -44,21 +89,25 @@ if (navigator.mediaDevices.getUserMedia) {
       console.log("recorder stopped");
       record.style.background = "";
       record.style.color = "";
-      // mediaRecorder.requestData();
+      //mediaRecorder.requestData();
 
       stop.disabled = true;
       record.disabled = false;
+      confirm.disabled = false;
     }
+
+
 
     mediaRecorder.onstop = function(e) {
       console.log("data available after MediaRecorder.stop() called.");
 
-      const clipName = prompt('Enter a name for your sound clip?','My unnamed clip');
-
+      //const clipName = prompt('Enter a name for your sound clip?','My unnamed clip');
+      const clipName = null;
       const clipContainer = document.createElement('article');
       const clipLabel = document.createElement('p');
       const audio = document.createElement('audio');
       const deleteButton = document.createElement('button');
+
 
       clipContainer.classList.add('clip');
       audio.setAttribute('controls', '');
@@ -66,7 +115,7 @@ if (navigator.mediaDevices.getUserMedia) {
       deleteButton.className = 'delete';
 
       if(clipName === null) {
-        clipLabel.textContent = 'My unnamed clip';
+        clipLabel.textContent = sentence;
       } else {
         clipLabel.textContent = clipName;
       }
@@ -78,10 +127,26 @@ if (navigator.mediaDevices.getUserMedia) {
 
       audio.controls = true;
       const blob = new Blob(chunks, { 'type' : 'audio/ogg; codecs=opus' });
+
       chunks = [];
       const audioURL = window.URL.createObjectURL(blob);
       audio.src = audioURL;
       console.log("recorder stopped");
+      
+      confirm.onclick = function() {
+        console.log('confirm');
+        saveAs(blob,stim_data[stim_idx]['filename']);
+        stim_idx += 1;
+        localStorage.setItem('stim_idx',stim_idx)
+        $('#stim_idx').text(stim_idx);
+        $('#stim_len').text(stim_data.length);
+
+        trial = stim_data[stim_idx];
+        $('#sentence').text(trial['sentence']);
+        $('#audiolink').attr('download',trial['filename'])
+        $('#clips').empty();
+
+    }
 
       deleteButton.onclick = function(e) {
         let evtTgt = e.target;
