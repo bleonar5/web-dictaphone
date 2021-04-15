@@ -1,42 +1,30 @@
-function downloadBlob(blob, name = './file') {
-  // Convert your blob into a Blob URL (a special url that points to an object in the browser's memory)
-  const blobUrl = URL.createObjectURL(blob);
 
-  // Create a link element
-  const link = document.createElement("a");
-
-  // Set link's href to point to the Blob URL
-  link.href = blobUrl;
-  link.download = name;
-
-  // Append link to the body
-  document.body.appendChild(link);
-
-  // Dispatch click event on the link
-  // This is necessary as link.click() does not work on the latest firefox
-  link.dispatchEvent(
-    new MouseEvent('click', { 
-      bubbles: true, 
-      cancelable: true, 
-      view: window 
-    })
-  );
-
-  // Remove link from body
-  document.body.removeChild(link);
-}
+const confirm = document.querySelector('.confirm');
 
 $( document ).ready(function() {
+  confirm.disabled=true;
   if (localStorage.getItem('stim_idx'))
     stim_idx = parseInt(localStorage.getItem('stim_idx'));
   else
     stim_idx = 0;
-  $('#stim_idx').text(stim_idx);
+  for(var i = 0; i < stim_data.length; i++){
+    $('#stim_idx').append('<option val="'+i.toString+'">'+i.toString()+'</option>');
+  }
+  $('#stim_idx').val(stim_idx);
   $('#stim_len').text(stim_data.length);
 
   trial = stim_data[stim_idx];
   $('#sentence').text(trial['sentence']);
 
+  $('#stim_idx').on('change',function(e){
+    console.log('change');
+    stim_idx = parseInt($(this).val());
+      localStorage.setItem('stim_idx',stim_idx);
+      trial = stim_data[stim_idx];
+      $('#sentence').text(trial['sentence']);
+      $('#clips').empty();
+      confirm.disabled=true;
+  });
 
 
   console.log(stim_data);
@@ -45,7 +33,6 @@ $( document ).ready(function() {
 
 const record = document.querySelector('.record');
 const stop = document.querySelector('.stop');
-const confirm = document.querySelector('.confirm');
 const soundClips = document.querySelector('.sound-clips');
 const canvas = document.querySelector('.visualizer');
 const mainSection = document.querySelector('.main-controls');
@@ -131,13 +118,14 @@ if (navigator.mediaDevices.getUserMedia) {
         saveAs(blob,stim_data[stim_idx]['filename']);
         stim_idx += 1;
         localStorage.setItem('stim_idx',stim_idx)
-        $('#stim_idx').text(stim_idx);
+        $('#stim_idx').val(stim_idx);
         $('#stim_len').text(stim_data.length);
 
         trial = stim_data[stim_idx];
         $('#sentence').text(trial['sentence']);
         $('#audiolink').attr('download',trial['filename'])
         $('#clips').empty();
+        confirm.disabled = true;
 
     }
 
@@ -146,15 +134,6 @@ if (navigator.mediaDevices.getUserMedia) {
         evtTgt.parentNode.parentNode.removeChild(evtTgt.parentNode);
       }
 
-      clipLabel.onclick = function() {
-        const existingName = clipLabel.textContent;
-        const newClipName = prompt('Enter a new name for your sound clip?');
-        if(newClipName === null) {
-          clipLabel.textContent = existingName;
-        } else {
-          clipLabel.textContent = newClipName;
-        }
-      }
     }
 
     mediaRecorder.ondataavailable = function(e) {
