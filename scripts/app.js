@@ -114,14 +114,8 @@ if (navigator.mediaDevices.getUserMedia) {
       deleteButton.textContent = 'Delete';
       deleteButton.className = 'delete';
 
-      if(clipName === null) {
-        clipLabel.textContent = sentence;
-      } else {
-        clipLabel.textContent = clipName;
-      }
 
       clipContainer.appendChild(audio);
-      clipContainer.appendChild(clipLabel);
       clipContainer.appendChild(deleteButton);
       soundClips.appendChild(clipContainer);
 
