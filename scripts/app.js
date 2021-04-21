@@ -1,8 +1,28 @@
 
 const confirm = document.querySelector('.confirm');
 
+var getUrlParameter = function getUrlParameter(sParam) {
+    var sPageURL = window.location.search.substring(1),
+        sURLVariables = sPageURL.split('&'),
+        sParameterName,
+        i;
+
+    for (i = 0; i < sURLVariables.length; i++) {
+        sParameterName = sURLVariables[i].split('=');
+
+        if (sParameterName[0] === sParam) {
+            return typeof sParameterName[1] === undefined ? true : decodeURIComponent(sParameterName[1]);
+        }
+    }
+    return false;
+};
+
 $( document ).ready(function() {
+  lang = getUrlParameter('lang');
+  if(!lang)
+    lang='eng';
   confirm.disabled=true;
+  stim_data = stim_data[lang];
   if (localStorage.getItem('stim_idx'))
     stim_idx = parseInt(localStorage.getItem('stim_idx'));
   else
