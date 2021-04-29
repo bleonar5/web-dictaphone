@@ -4835,7 +4835,7 @@ stim_data = {
         "filename": "deu_pastsentence1_2"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtoːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtaːtən",
         "filename": "deu_pastsentence2_2"
     },
     {
