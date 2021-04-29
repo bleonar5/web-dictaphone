@@ -2417,7 +2417,7 @@ stim_data = {
         "filename": "nld_pastsentence1_1"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vərzoːptə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərzoːptə",
         "filename": "nld_pastsentence2_1"
     },
     {
@@ -2433,7 +2433,7 @@ stim_data = {
         "filename": "nld_pastsentence1_2"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɔntweːnə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɔntweːnə",
         "filename": "nld_pastsentence2_2"
     },
     {
@@ -2449,7 +2449,7 @@ stim_data = {
         "filename": "nld_pastsentence1_3"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vərzeːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərzeːzə",
         "filename": "nld_pastsentence2_3"
     },
     {
@@ -2465,7 +2465,7 @@ stim_data = {
         "filename": "nld_pastsentence1_4"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vərhiːvə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərhiːvə",
         "filename": "nld_pastsentence2_4"
     },
     {
@@ -2481,7 +2481,7 @@ stim_data = {
         "filename": "nld_pastsentence1_5"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɔntrɔŋkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɔntrɔŋkə",
         "filename": "nld_pastsentence2_5"
     },
     {
@@ -2497,7 +2497,7 @@ stim_data = {
         "filename": "nld_pastsentence1_6"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn striːpə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə striːpə",
         "filename": "nld_pastsentence2_6"
     },
     {
@@ -2513,7 +2513,7 @@ stim_data = {
         "filename": "nld_pastsentence1_7"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vərhaːkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərhaːkə",
         "filename": "nld_pastsentence2_7"
     },
     {
@@ -2529,7 +2529,7 @@ stim_data = {
         "filename": "nld_pastsentence1_8"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vərboːnə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərboːnə",
         "filename": "nld_pastsentence2_8"
     },
     {
@@ -2545,7 +2545,7 @@ stim_data = {
         "filename": "nld_pastsentence1_9"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vərdrɔkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərdrɔkə",
         "filename": "nld_pastsentence2_9"
     },
     {
@@ -2561,7 +2561,7 @@ stim_data = {
         "filename": "nld_pastsentence1_10"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vərzeːkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərzeːkə",
         "filename": "nld_pastsentence2_10"
     },
     {
@@ -2577,7 +2577,7 @@ stim_data = {
         "filename": "nld_pastsentence1_11"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vərdaːvə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərdaːvə",
         "filename": "nld_pastsentence2_11"
     },
     {
@@ -2593,7 +2593,7 @@ stim_data = {
         "filename": "nld_pastsentence1_12"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vərliːvə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərliːvə",
         "filename": "nld_pastsentence2_12"
     },
     {
@@ -2609,7 +2609,7 @@ stim_data = {
         "filename": "nld_pastsentence1_13"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bəzaːlə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bəzaːlə",
         "filename": "nld_pastsentence2_13"
     },
     {
@@ -2625,7 +2625,7 @@ stim_data = {
         "filename": "nld_pastsentence1_14"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vərwɔŋkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərwɔŋkə",
         "filename": "nld_pastsentence2_14"
     },
     {
@@ -2641,7 +2641,7 @@ stim_data = {
         "filename": "nld_pastsentence1_15"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vərhʊɪktə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərhʊɪktə",
         "filename": "nld_pastsentence2_15"
     },
     {
@@ -2657,7 +2657,7 @@ stim_data = {
         "filename": "nld_pastsentence1_16"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bəleːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bəleːzə",
         "filename": "nld_pastsentence2_16"
     },
     {
@@ -2673,7 +2673,7 @@ stim_data = {
         "filename": "nld_pastsentence1_17"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɔntriːrə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɔntriːrə",
         "filename": "nld_pastsentence2_17"
     },
     {
@@ -2689,7 +2689,7 @@ stim_data = {
         "filename": "nld_pastsentence1_18"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vərheːnə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərheːnə",
         "filename": "nld_pastsentence2_18"
     },
     {
@@ -2705,7 +2705,7 @@ stim_data = {
         "filename": "nld_pastsentence1_19"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɔntrʊɪktə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɔntrʊɪktə",
         "filename": "nld_pastsentence2_19"
     },
     {
@@ -2721,7 +2721,7 @@ stim_data = {
         "filename": "nld_pastsentence1_20"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn meːzdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə meːzdə",
         "filename": "nld_pastsentence2_20"
     },
     {
@@ -2737,7 +2737,7 @@ stim_data = {
         "filename": "nld_pastsentence1_21"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bɛɪzdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bɛɪzdə",
         "filename": "nld_pastsentence2_21"
     },
     {
@@ -2753,7 +2753,7 @@ stim_data = {
         "filename": "nld_pastsentence1_22"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ʃɔŋkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ʃɔŋkə",
         "filename": "nld_pastsentence2_22"
     },
     {
@@ -2769,7 +2769,7 @@ stim_data = {
         "filename": "nld_pastsentence1_23"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn toːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə toːzə",
         "filename": "nld_pastsentence2_23"
     },
     {
@@ -2785,7 +2785,7 @@ stim_data = {
         "filename": "nld_pastsentence1_24"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn drɑʊwdəstə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə drɑʊwdəstə",
         "filename": "nld_pastsentence2_24"
     },
     {
@@ -2801,7 +2801,7 @@ stim_data = {
         "filename": "nld_pastsentence1_25"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn zʊɪvdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zʊɪvdə",
         "filename": "nld_pastsentence2_25"
     },
     {
@@ -2817,7 +2817,7 @@ stim_data = {
         "filename": "nld_pastsentence1_26"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn krɪŋdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə krɪŋdə",
         "filename": "nld_pastsentence2_26"
     },
     {
@@ -2833,7 +2833,7 @@ stim_data = {
         "filename": "nld_pastsentence1_27"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn nɛɪvdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə nɛɪvdə",
         "filename": "nld_pastsentence2_27"
     },
     {
@@ -2849,7 +2849,7 @@ stim_data = {
         "filename": "nld_pastsentence1_28"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn tiːrvə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə tiːrvə",
         "filename": "nld_pastsentence2_28"
     },
     {
@@ -2865,7 +2865,7 @@ stim_data = {
         "filename": "nld_pastsentence1_29"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɑiːsə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɑiːsə",
         "filename": "nld_pastsentence2_29"
     },
     {
@@ -2881,7 +2881,7 @@ stim_data = {
         "filename": "nld_pastsentence1_30"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn toːkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə toːkə",
         "filename": "nld_pastsentence2_30"
     },
     {
@@ -2897,7 +2897,7 @@ stim_data = {
         "filename": "nld_pastsentence1_31"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn nuːstə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə nuːstə",
         "filename": "nld_pastsentence2_31"
     },
     {
@@ -2913,7 +2913,7 @@ stim_data = {
         "filename": "nld_pastsentence1_32"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn zwɔŋkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zwɔŋkə",
         "filename": "nld_pastsentence2_32"
     },
     {
@@ -2929,7 +2929,7 @@ stim_data = {
         "filename": "nld_pastsentence1_33"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn xrɪŋktə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xrɪŋktə",
         "filename": "nld_pastsentence2_33"
     },
     {
@@ -2945,7 +2945,7 @@ stim_data = {
         "filename": "nld_pastsentence1_34"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn trɔŋkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə trɔŋkə",
         "filename": "nld_pastsentence2_34"
     },
     {
@@ -2961,7 +2961,7 @@ stim_data = {
         "filename": "nld_pastsentence1_35"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn brɪŋktə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə brɪŋktə",
         "filename": "nld_pastsentence2_35"
     },
     {
@@ -2977,7 +2977,7 @@ stim_data = {
         "filename": "nld_pastsentence1_36"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn blɪmdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə blɪmdə",
         "filename": "nld_pastsentence2_36"
     },
     {
@@ -2993,7 +2993,7 @@ stim_data = {
         "filename": "nld_pastsentence1_37"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn drɪmdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə drɪmdə",
         "filename": "nld_pastsentence2_37"
     },
     {
@@ -3009,7 +3009,7 @@ stim_data = {
         "filename": "nld_pastsentence1_38"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn knɔmə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə knɔmə",
         "filename": "nld_pastsentence2_38"
     },
     {
@@ -3025,7 +3025,7 @@ stim_data = {
         "filename": "nld_pastsentence1_39"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn zɛɪptə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zɛɪptə",
         "filename": "nld_pastsentence2_39"
     },
     {
@@ -3041,7 +3041,7 @@ stim_data = {
         "filename": "nld_pastsentence1_40"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn stɛɪptə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə stɛɪptə",
         "filename": "nld_pastsentence2_40"
     },
     {
@@ -3057,7 +3057,7 @@ stim_data = {
         "filename": "nld_pastsentence1_41"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn klʊɪktə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə klʊɪktə",
         "filename": "nld_pastsentence2_41"
     },
     {
@@ -3073,7 +3073,7 @@ stim_data = {
         "filename": "nld_pastsentence1_42"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn zwɛŋdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zwɛŋdə",
         "filename": "nld_pastsentence2_42"
     },
     {
@@ -3089,7 +3089,7 @@ stim_data = {
         "filename": "nld_pastsentence1_43"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn klɛɪptə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə klɛɪptə",
         "filename": "nld_pastsentence2_43"
     },
     {
@@ -3105,7 +3105,7 @@ stim_data = {
         "filename": "nld_pastsentence1_44"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn zwɪŋdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zwɪŋdə",
         "filename": "nld_pastsentence2_44"
     },
     {
@@ -3121,7 +3121,7 @@ stim_data = {
         "filename": "nld_pastsentence1_45"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn trɛɪptə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə trɛɪptə",
         "filename": "nld_pastsentence2_45"
     },
     {
@@ -3137,7 +3137,7 @@ stim_data = {
         "filename": "nld_pastsentence1_46"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn krɛɪptə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə krɛɪptə",
         "filename": "nld_pastsentence2_46"
     },
     {
@@ -3153,7 +3153,7 @@ stim_data = {
         "filename": "nld_pastsentence1_47"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn klaːzdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə klaːzdə",
         "filename": "nld_pastsentence2_47"
     },
     {
@@ -3169,7 +3169,7 @@ stim_data = {
         "filename": "nld_pastsentence1_48"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vlaːzdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vlaːzdə",
         "filename": "nld_pastsentence2_48"
     },
     {
@@ -3185,7 +3185,7 @@ stim_data = {
         "filename": "nld_pastsentence1_49"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ziːstə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ziːstə",
         "filename": "nld_pastsentence2_49"
     },
     {
@@ -3201,7 +3201,7 @@ stim_data = {
         "filename": "nld_pastsentence1_50"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɣeːktə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɣeːktə",
         "filename": "nld_pastsentence2_50"
     },
     {
@@ -3217,7 +3217,7 @@ stim_data = {
         "filename": "nld_pastsentence1_51"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn kraːkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kraːkə",
         "filename": "nld_pastsentence2_51"
     },
     {
@@ -3233,7 +3233,7 @@ stim_data = {
         "filename": "nld_pastsentence1_52"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn draːkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə draːkə",
         "filename": "nld_pastsentence2_52"
     },
     {
@@ -3249,7 +3249,7 @@ stim_data = {
         "filename": "nld_pastsentence1_53"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn knaːkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə knaːkə",
         "filename": "nld_pastsentence2_53"
     },
     {
@@ -3265,7 +3265,7 @@ stim_data = {
         "filename": "nld_pastsentence1_54"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn xaːkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xaːkə",
         "filename": "nld_pastsentence2_54"
     },
     {
@@ -3281,7 +3281,7 @@ stim_data = {
         "filename": "nld_pastsentence1_55"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn xlaːptə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xlaːptə",
         "filename": "nld_pastsentence2_55"
     },
     {
@@ -3297,7 +3297,7 @@ stim_data = {
         "filename": "nld_pastsentence1_56"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn kriːpə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kriːpə",
         "filename": "nld_pastsentence2_56"
     },
     {
@@ -3313,7 +3313,7 @@ stim_data = {
         "filename": "nld_pastsentence1_57"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn friːpə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə friːpə",
         "filename": "nld_pastsentence2_57"
     },
     {
@@ -3329,7 +3329,7 @@ stim_data = {
         "filename": "nld_pastsentence1_58"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn blaːptə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə blaːptə",
         "filename": "nld_pastsentence2_58"
     },
     {
@@ -3345,7 +3345,7 @@ stim_data = {
         "filename": "nld_pastsentence1_59"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bruːptə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bruːptə",
         "filename": "nld_pastsentence2_59"
     },
     {
@@ -3361,7 +3361,7 @@ stim_data = {
         "filename": "nld_pastsentence1_60"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bruːɣə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bruːɣə",
         "filename": "nld_pastsentence2_60"
     },
     {
@@ -3377,7 +3377,7 @@ stim_data = {
         "filename": "nld_pastsentence1_61"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn kraːɣdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kraːɣdə",
         "filename": "nld_pastsentence2_61"
     },
     {
@@ -3393,7 +3393,7 @@ stim_data = {
         "filename": "nld_pastsentence1_62"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bliːɣə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bliːɣə",
         "filename": "nld_pastsentence2_62"
     },
     {
@@ -3409,7 +3409,7 @@ stim_data = {
         "filename": "nld_pastsentence1_63"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn wiːrɣə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə wiːrɣə",
         "filename": "nld_pastsentence2_63"
     },
     {
@@ -3425,7 +3425,7 @@ stim_data = {
         "filename": "nld_pastsentence1_64"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn kɛrɣdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kɛrɣdə",
         "filename": "nld_pastsentence2_64"
     },
     {
@@ -3441,7 +3441,7 @@ stim_data = {
         "filename": "nld_pastsentence1_65"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bəraːɣdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bəraːɣdə",
         "filename": "nld_pastsentence2_65"
     },
     {
@@ -3457,7 +3457,7 @@ stim_data = {
         "filename": "nld_pastsentence1_66"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɔntraːɣdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɔntraːɣdə",
         "filename": "nld_pastsentence2_66"
     },
     {
@@ -3473,7 +3473,7 @@ stim_data = {
         "filename": "nld_pastsentence1_67"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vəraːɣdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vəraːɣdə",
         "filename": "nld_pastsentence2_67"
     },
     {
@@ -3489,7 +3489,7 @@ stim_data = {
         "filename": "nld_pastsentence1_68"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɣoːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɣoːzə",
         "filename": "nld_pastsentence2_68"
     },
     {
@@ -3505,7 +3505,7 @@ stim_data = {
         "filename": "nld_pastsentence1_69"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn stoːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə stoːzə",
         "filename": "nld_pastsentence2_69"
     },
     {
@@ -3521,7 +3521,7 @@ stim_data = {
         "filename": "nld_pastsentence1_70"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn broːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə broːzə",
         "filename": "nld_pastsentence2_70"
     },
     {
@@ -3537,7 +3537,7 @@ stim_data = {
         "filename": "nld_pastsentence1_71"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn kloːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kloːzə",
         "filename": "nld_pastsentence2_71"
     },
     {
@@ -3553,7 +3553,7 @@ stim_data = {
         "filename": "nld_pastsentence1_72"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn troːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə troːzə",
         "filename": "nld_pastsentence2_72"
     },
     {
@@ -3569,7 +3569,7 @@ stim_data = {
         "filename": "nld_pastsentence1_73"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn kroːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kroːzə",
         "filename": "nld_pastsentence2_73"
     },
     {
@@ -3585,7 +3585,7 @@ stim_data = {
         "filename": "nld_pastsentence1_74"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn droːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə droːzə",
         "filename": "nld_pastsentence2_74"
     },
     {
@@ -3601,7 +3601,7 @@ stim_data = {
         "filename": "nld_pastsentence1_75"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn fliːzdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə fliːzdə",
         "filename": "nld_pastsentence2_75"
     },
     {
@@ -3617,7 +3617,7 @@ stim_data = {
         "filename": "nld_pastsentence1_76"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn traːmə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə traːmə",
         "filename": "nld_pastsentence2_76"
     },
     {
@@ -3633,7 +3633,7 @@ stim_data = {
         "filename": "nld_pastsentence1_77"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn xaːmə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xaːmə",
         "filename": "nld_pastsentence2_77"
     },
     {
@@ -3649,7 +3649,7 @@ stim_data = {
         "filename": "nld_pastsentence1_78"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn maːmə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə maːmə",
         "filename": "nld_pastsentence2_78"
     },
     {
@@ -3665,7 +3665,7 @@ stim_data = {
         "filename": "nld_pastsentence1_79"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn kraːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kraːzə",
         "filename": "nld_pastsentence2_79"
     },
     {
@@ -3681,7 +3681,7 @@ stim_data = {
         "filename": "nld_pastsentence1_80"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn naːrə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə naːrə",
         "filename": "nld_pastsentence2_80"
     },
     {
@@ -3697,7 +3697,7 @@ stim_data = {
         "filename": "nld_pastsentence1_81"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vaːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vaːzə",
         "filename": "nld_pastsentence2_81"
     },
     {
@@ -3713,7 +3713,7 @@ stim_data = {
         "filename": "nld_pastsentence1_82"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɣaːrə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɣaːrə",
         "filename": "nld_pastsentence2_82"
     },
     {
@@ -3729,7 +3729,7 @@ stim_data = {
         "filename": "nld_pastsentence1_83"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn traːrə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə traːrə",
         "filename": "nld_pastsentence2_83"
     },
     {
@@ -3745,7 +3745,7 @@ stim_data = {
         "filename": "nld_pastsentence1_84"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn xaːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xaːzə",
         "filename": "nld_pastsentence2_84"
     },
     {
@@ -3761,7 +3761,7 @@ stim_data = {
         "filename": "nld_pastsentence1_85"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn driːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə driːzə",
         "filename": "nld_pastsentence2_85"
     },
     {
@@ -3777,7 +3777,7 @@ stim_data = {
         "filename": "nld_pastsentence1_86"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn triːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə triːzə",
         "filename": "nld_pastsentence2_86"
     },
     {
@@ -3793,7 +3793,7 @@ stim_data = {
         "filename": "nld_pastsentence1_87"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn slaːzdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə slaːzdə",
         "filename": "nld_pastsentence2_87"
     },
     {
@@ -3809,7 +3809,7 @@ stim_data = {
         "filename": "nld_pastsentence1_88"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn plaːzdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə plaːzdə",
         "filename": "nld_pastsentence2_88"
     },
     {
@@ -3825,7 +3825,7 @@ stim_data = {
         "filename": "nld_pastsentence1_89"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn zwiːsə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zwiːsə",
         "filename": "nld_pastsentence2_89"
     },
     {
@@ -3841,7 +3841,7 @@ stim_data = {
         "filename": "nld_pastsentence1_90"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vɛɪstə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vɛɪstə",
         "filename": "nld_pastsentence2_90"
     },
     {
@@ -3857,7 +3857,7 @@ stim_data = {
         "filename": "nld_pastsentence1_91"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn viːsə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə viːsə",
         "filename": "nld_pastsentence2_91"
     },
     {
@@ -3873,7 +3873,7 @@ stim_data = {
         "filename": "nld_pastsentence1_92"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn kwiːsə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kwiːsə",
         "filename": "nld_pastsentence2_92"
     },
     {
@@ -3889,7 +3889,7 @@ stim_data = {
         "filename": "nld_pastsentence1_93"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn jɪndə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə jɪndə",
         "filename": "nld_pastsentence2_93"
     },
     {
@@ -3905,7 +3905,7 @@ stim_data = {
         "filename": "nld_pastsentence1_94"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vɪndə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vɪndə",
         "filename": "nld_pastsentence2_94"
     },
     {
@@ -3921,7 +3921,7 @@ stim_data = {
         "filename": "nld_pastsentence1_95"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn fɔnə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə fɔnə",
         "filename": "nld_pastsentence2_95"
     },
     {
@@ -3937,7 +3937,7 @@ stim_data = {
         "filename": "nld_pastsentence1_96"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn prɔnə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə prɔnə",
         "filename": "nld_pastsentence2_96"
     },
     {
@@ -3953,7 +3953,7 @@ stim_data = {
         "filename": "nld_pastsentence1_97"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ʃɔnə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ʃɔnə",
         "filename": "nld_pastsentence2_97"
     },
     {
@@ -3969,7 +3969,7 @@ stim_data = {
         "filename": "nld_pastsentence1_98"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bɪndə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bɪndə",
         "filename": "nld_pastsentence2_98"
     },
     {
@@ -3985,7 +3985,7 @@ stim_data = {
         "filename": "nld_pastsentence1_99"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn kɔnə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kɔnə",
         "filename": "nld_pastsentence2_99"
     },
     {
@@ -4001,7 +4001,7 @@ stim_data = {
         "filename": "nld_pastsentence1_100"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn xrɛɪktə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xrɛɪktə",
         "filename": "nld_pastsentence2_100"
     },
     {
@@ -4017,7 +4017,7 @@ stim_data = {
         "filename": "nld_pastsentence1_101"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn snɛɪktə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə snɛɪktə",
         "filename": "nld_pastsentence2_101"
     },
     {
@@ -4033,7 +4033,7 @@ stim_data = {
         "filename": "nld_pastsentence1_102"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vlɛɪktə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vlɛɪktə",
         "filename": "nld_pastsentence2_102"
     },
     {
@@ -4049,7 +4049,7 @@ stim_data = {
         "filename": "nld_pastsentence1_103"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn xɛlptə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xɛlptə",
         "filename": "nld_pastsentence2_103"
     },
     {
@@ -4065,7 +4065,7 @@ stim_data = {
         "filename": "nld_pastsentence1_104"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn wɛlptə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə wɛlptə",
         "filename": "nld_pastsentence2_104"
     },
     {
@@ -4081,7 +4081,7 @@ stim_data = {
         "filename": "nld_pastsentence1_105"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bɔlpə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bɔlpə",
         "filename": "nld_pastsentence2_105"
     },
     {
@@ -4097,7 +4097,7 @@ stim_data = {
         "filename": "nld_pastsentence1_106"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn snʊɪptə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə snʊɪptə",
         "filename": "nld_pastsentence2_106"
     },
     {
@@ -4113,7 +4113,7 @@ stim_data = {
         "filename": "nld_pastsentence1_107"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn blʊɪptə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə blʊɪptə",
         "filename": "nld_pastsentence2_107"
     },
     {
@@ -4129,7 +4129,7 @@ stim_data = {
         "filename": "nld_pastsentence1_108"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn xroːpə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xroːpə",
         "filename": "nld_pastsentence2_108"
     },
     {
@@ -4145,7 +4145,7 @@ stim_data = {
         "filename": "nld_pastsentence1_109"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn flɛɪptə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə flɛɪptə",
         "filename": "nld_pastsentence2_109"
     },
     {
@@ -4161,7 +4161,7 @@ stim_data = {
         "filename": "nld_pastsentence1_110"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn pleːpə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə pleːpə",
         "filename": "nld_pastsentence2_110"
     },
     {
@@ -4177,7 +4177,7 @@ stim_data = {
         "filename": "nld_pastsentence1_111"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn strɛɪzdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə strɛɪzdə",
         "filename": "nld_pastsentence2_111"
     },
     {
@@ -4193,7 +4193,7 @@ stim_data = {
         "filename": "nld_pastsentence1_112"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn snɛɪzdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə snɛɪzdə",
         "filename": "nld_pastsentence2_112"
     },
     {
@@ -4209,7 +4209,7 @@ stim_data = {
         "filename": "nld_pastsentence1_113"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn dreːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə dreːzə",
         "filename": "nld_pastsentence2_113"
     },
     {
@@ -4225,7 +4225,7 @@ stim_data = {
         "filename": "nld_pastsentence1_114"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn brɛɪzdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə brɛɪzdə",
         "filename": "nld_pastsentence2_114"
     },
     {
@@ -4241,7 +4241,7 @@ stim_data = {
         "filename": "nld_pastsentence1_115"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn trɛɪɣdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə trɛɪɣdə",
         "filename": "nld_pastsentence2_115"
     },
     {
@@ -4257,7 +4257,7 @@ stim_data = {
         "filename": "nld_pastsentence1_116"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn xɛɪɣdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xɛɪɣdə",
         "filename": "nld_pastsentence2_116"
     },
     {
@@ -4273,7 +4273,7 @@ stim_data = {
         "filename": "nld_pastsentence1_117"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn xrɛɪɣdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xrɛɪɣdə",
         "filename": "nld_pastsentence2_117"
     },
     {
@@ -4289,7 +4289,7 @@ stim_data = {
         "filename": "nld_pastsentence1_118"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn sxɛɪɣdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə sxɛɪɣdə",
         "filename": "nld_pastsentence2_118"
     },
     {
@@ -4305,7 +4305,7 @@ stim_data = {
         "filename": "nld_pastsentence1_119"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn nʊɪktə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə nʊɪktə",
         "filename": "nld_pastsentence2_119"
     },
     {
@@ -4321,7 +4321,7 @@ stim_data = {
         "filename": "nld_pastsentence1_120"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn trʊɪktə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə trʊɪktə",
         "filename": "nld_pastsentence2_120"
     },
     {
@@ -4337,7 +4337,7 @@ stim_data = {
         "filename": "nld_pastsentence1_121"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ʃoːkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ʃoːkə",
         "filename": "nld_pastsentence2_121"
     },
     {
@@ -4353,7 +4353,7 @@ stim_data = {
         "filename": "nld_pastsentence1_122"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn zʊɪktə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zʊɪktə",
         "filename": "nld_pastsentence2_122"
     },
     {
@@ -4369,7 +4369,7 @@ stim_data = {
         "filename": "nld_pastsentence1_123"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vɛɪktə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vɛɪktə",
         "filename": "nld_pastsentence2_123"
     },
     {
@@ -4385,7 +4385,7 @@ stim_data = {
         "filename": "nld_pastsentence1_124"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn joːkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə joːkə",
         "filename": "nld_pastsentence2_124"
     },
     {
@@ -4401,7 +4401,7 @@ stim_data = {
         "filename": "nld_pastsentence1_125"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn woːkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə woːkə",
         "filename": "nld_pastsentence2_125"
     },
     {
@@ -4417,7 +4417,7 @@ stim_data = {
         "filename": "nld_pastsentence1_126"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn koːkə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə koːkə",
         "filename": "nld_pastsentence2_126"
     },
     {
@@ -4433,7 +4433,7 @@ stim_data = {
         "filename": "nld_pastsentence1_127"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn flɪmdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə flɪmdə",
         "filename": "nld_pastsentence2_127"
     },
     {
@@ -4449,7 +4449,7 @@ stim_data = {
         "filename": "nld_pastsentence1_128"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn krɪmdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə krɪmdə",
         "filename": "nld_pastsentence2_128"
     },
     {
@@ -4465,7 +4465,7 @@ stim_data = {
         "filename": "nld_pastsentence1_129"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn lɪmdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə lɪmdə",
         "filename": "nld_pastsentence2_129"
     },
     {
@@ -4481,7 +4481,7 @@ stim_data = {
         "filename": "nld_pastsentence1_130"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn zɪmdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zɪmdə",
         "filename": "nld_pastsentence2_130"
     },
     {
@@ -4497,7 +4497,7 @@ stim_data = {
         "filename": "nld_pastsentence1_131"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn trɔŋə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə trɔŋə",
         "filename": "nld_pastsentence2_131"
     },
     {
@@ -4513,7 +4513,7 @@ stim_data = {
         "filename": "nld_pastsentence1_132"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn stɪŋdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə stɪŋdə",
         "filename": "nld_pastsentence2_132"
     },
     {
@@ -4529,7 +4529,7 @@ stim_data = {
         "filename": "nld_pastsentence1_133"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn xrɪŋdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xrɪŋdə",
         "filename": "nld_pastsentence2_133"
     },
     {
@@ -4545,7 +4545,7 @@ stim_data = {
         "filename": "nld_pastsentence1_134"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn knɪŋdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə knɪŋdə",
         "filename": "nld_pastsentence2_134"
     },
     {
@@ -4561,7 +4561,7 @@ stim_data = {
         "filename": "nld_pastsentence1_135"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn zwɔŋə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zwɔŋə",
         "filename": "nld_pastsentence2_135"
     },
     {
@@ -4577,7 +4577,7 @@ stim_data = {
         "filename": "nld_pastsentence1_136"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn hɪŋdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə hɪŋdə",
         "filename": "nld_pastsentence2_136"
     },
     {
@@ -4593,7 +4593,7 @@ stim_data = {
         "filename": "nld_pastsentence1_137"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ʃɛɪɣdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ʃɛɪɣdə",
         "filename": "nld_pastsentence2_137"
     },
     {
@@ -4609,7 +4609,7 @@ stim_data = {
         "filename": "nld_pastsentence1_138"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn deːɣə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə deːɣə",
         "filename": "nld_pastsentence2_138"
     },
     {
@@ -4625,7 +4625,7 @@ stim_data = {
         "filename": "nld_pastsentence1_139"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn mɛɪɣdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə mɛɪɣdə",
         "filename": "nld_pastsentence2_139"
     },
     {
@@ -4641,7 +4641,7 @@ stim_data = {
         "filename": "nld_pastsentence1_140"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn kleːɣə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kleːɣə",
         "filename": "nld_pastsentence2_140"
     },
     {
@@ -4657,7 +4657,7 @@ stim_data = {
         "filename": "nld_pastsentence1_141"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vɛɪɣdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vɛɪɣdə",
         "filename": "nld_pastsentence2_141"
     },
     {
@@ -4673,7 +4673,7 @@ stim_data = {
         "filename": "nld_pastsentence1_142"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bɛɪɣdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bɛɪɣdə",
         "filename": "nld_pastsentence2_142"
     },
     {
@@ -4689,7 +4689,7 @@ stim_data = {
         "filename": "nld_pastsentence1_143"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn wɛɪɣdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə wɛɪɣdə",
         "filename": "nld_pastsentence2_143"
     },
     {
@@ -4705,7 +4705,7 @@ stim_data = {
         "filename": "nld_pastsentence1_144"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn xɔlə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xɔlə",
         "filename": "nld_pastsentence2_144"
     },
     {
@@ -4721,7 +4721,7 @@ stim_data = {
         "filename": "nld_pastsentence1_145"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn naːlə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə naːlə",
         "filename": "nld_pastsentence2_145"
     },
     {
@@ -4737,7 +4737,7 @@ stim_data = {
         "filename": "nld_pastsentence1_146"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn pleːzə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə pleːzə",
         "filename": "nld_pastsentence2_146"
     },
     {
@@ -4753,7 +4753,7 @@ stim_data = {
         "filename": "nld_pastsentence1_147"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn hiːlə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə hiːlə",
         "filename": "nld_pastsentence2_147"
     },
     {
@@ -4769,7 +4769,7 @@ stim_data = {
         "filename": "nld_pastsentence1_148"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn xɛɪndə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xɛɪndə",
         "filename": "nld_pastsentence2_148"
     },
     {
@@ -4785,7 +4785,7 @@ stim_data = {
         "filename": "nld_pastsentence1_149"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn kreːnə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kreːnə",
         "filename": "nld_pastsentence2_149"
     },
     {
@@ -4801,7 +4801,7 @@ stim_data = {
         "filename": "nld_pastsentence1_150"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn vəraːvdə",
+        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vəraːvdə",
         "filename": "nld_pastsentence2_150"
     }
 ],
