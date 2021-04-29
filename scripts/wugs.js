@@ -4815,11 +4815,11 @@ stim_data = {
         "filename": "deu_lemmasentence_1"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəneːzən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəneːzən",
         "filename": "deu_pastsentence1_1"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gənaːzən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gənaːzən",
         "filename": "deu_pastsentence2_1"
     },
     {
@@ -4831,11 +4831,11 @@ stim_data = {
         "filename": "deu_lemmasentence_2"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃtoːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtoːtən",
         "filename": "deu_pastsentence1_2"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃtoːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtoːtən",
         "filename": "deu_pastsentence2_2"
     },
     {
@@ -4847,11 +4847,11 @@ stim_data = {
         "filename": "deu_lemmasentence_3"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bəroːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəroːtən",
         "filename": "deu_pastsentence1_3"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bəriːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəriːtən",
         "filename": "deu_pastsentence2_3"
     },
     {
@@ -4863,11 +4863,11 @@ stim_data = {
         "filename": "deu_lemmasentence_4"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfrai̯tət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfrai̯tət",
         "filename": "deu_pastsentence1_4"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfrɪtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfrɪtən",
         "filename": "deu_pastsentence2_4"
     },
     {
@@ -4879,11 +4879,11 @@ stim_data = {
         "filename": "deu_lemmasentence_5"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədai̯tət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədai̯tət",
         "filename": "deu_pastsentence1_5"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədiːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədiːtən",
         "filename": "deu_pastsentence2_5"
     },
     {
@@ -4895,11 +4895,11 @@ stim_data = {
         "filename": "deu_lemmasentence_6"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrtsɪŋt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrtsɪŋt",
         "filename": "deu_pastsentence1_6"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrtsʊŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrtsʊŋən",
         "filename": "deu_pastsentence2_6"
     },
     {
@@ -4911,11 +4911,11 @@ stim_data = {
         "filename": "deu_lemmasentence_7"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətsvɛrt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsvɛrt",
         "filename": "deu_pastsentence1_7"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətsvɔrən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsvɔrən",
         "filename": "deu_pastsentence2_7"
     },
     {
@@ -4927,11 +4927,11 @@ stim_data = {
         "filename": "deu_lemmasentence_8"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bəhoːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəhoːtən",
         "filename": "deu_pastsentence1_8"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bəheːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəheːtən",
         "filename": "deu_pastsentence2_8"
     },
     {
@@ -4943,11 +4943,11 @@ stim_data = {
         "filename": "deu_lemmasentence_9"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrzai̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrzai̯n",
         "filename": "deu_pastsentence1_9"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrzɔnən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrzɔnən",
         "filename": "deu_pastsentence2_9"
     },
     {
@@ -4959,11 +4959,11 @@ stim_data = {
         "filename": "deu_lemmasentence_10"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn fɛrai̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn fɛrai̯t",
         "filename": "deu_pastsentence1_10"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfɛrai̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfɛrai̯t",
         "filename": "deu_pastsentence2_10"
     },
     {
@@ -4975,11 +4975,11 @@ stim_data = {
         "filename": "deu_lemmasentence_11"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədarbən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədarbən",
         "filename": "deu_pastsentence1_11"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədɛrpt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədɛrpt",
         "filename": "deu_pastsentence2_11"
     },
     {
@@ -4991,11 +4991,11 @@ stim_data = {
         "filename": "deu_lemmasentence_12"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəvau̯ft",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəvau̯ft",
         "filename": "deu_pastsentence1_12"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəvɔfən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəvɔfən",
         "filename": "deu_pastsentence2_12"
     },
     {
@@ -5007,11 +5007,11 @@ stim_data = {
         "filename": "deu_lemmasentence_13"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəkrʊŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkrʊŋən",
         "filename": "deu_pastsentence1_13"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəkrɔŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkrɔŋən",
         "filename": "deu_pastsentence2_13"
     },
     {
@@ -5023,11 +5023,11 @@ stim_data = {
         "filename": "deu_lemmasentence_14"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətrɛstət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətrɛstət",
         "filename": "deu_pastsentence1_14"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətrɔstən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətrɔstən",
         "filename": "deu_pastsentence2_14"
     },
     {
@@ -5039,11 +5039,11 @@ stim_data = {
         "filename": "deu_lemmasentence_15"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətsvai̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsvai̯t",
         "filename": "deu_pastsentence1_15"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətsvai̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsvai̯n",
         "filename": "deu_pastsentence2_15"
     },
     {
@@ -5055,11 +5055,11 @@ stim_data = {
         "filename": "deu_lemmasentence_16"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn fɛraxtət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn fɛraxtət",
         "filename": "deu_pastsentence1_16"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfraxtət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfraxtət",
         "filename": "deu_pastsentence2_16"
     },
     {
@@ -5071,11 +5071,11 @@ stim_data = {
         "filename": "deu_lemmasentence_17"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃɛltst",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃɛltst",
         "filename": "deu_pastsentence1_17"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃɔltsən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃɔltsən",
         "filename": "deu_pastsentence2_17"
     },
     {
@@ -5087,11 +5087,11 @@ stim_data = {
         "filename": "deu_lemmasentence_18"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn fɛrhoːn",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn fɛrhoːn",
         "filename": "deu_pastsentence1_18"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn fɛrheːt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn fɛrheːt",
         "filename": "deu_pastsentence2_18"
     },
     {
@@ -5103,11 +5103,11 @@ stim_data = {
         "filename": "deu_lemmasentence_19"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətrɛndət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətrɛndət",
         "filename": "deu_pastsentence1_19"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətrandət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətrandət",
         "filename": "deu_pastsentence2_19"
     },
     {
@@ -5119,11 +5119,11 @@ stim_data = {
         "filename": "deu_lemmasentence_20"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətsai̯dət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsai̯dət",
         "filename": "deu_pastsentence1_20"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətsiːdən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsiːdən",
         "filename": "deu_pastsentence2_20"
     },
     {
@@ -5135,11 +5135,11 @@ stim_data = {
         "filename": "deu_lemmasentence_21"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətsau̯ft",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsau̯ft",
         "filename": "deu_pastsentence1_21"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətsiːfən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsiːfən",
         "filename": "deu_pastsentence2_21"
     },
     {
@@ -5151,11 +5151,11 @@ stim_data = {
         "filename": "deu_lemmasentence_22"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gərɛsən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərɛsən",
         "filename": "deu_pastsentence1_22"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gərɛst",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərɛst",
         "filename": "deu_pastsentence2_22"
     },
     {
@@ -5167,11 +5167,11 @@ stim_data = {
         "filename": "deu_lemmasentence_23"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbrɔftən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbrɔftən",
         "filename": "deu_pastsentence1_23"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbrɛftət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbrɛftət",
         "filename": "deu_pastsentence2_23"
     },
     {
@@ -5183,11 +5183,11 @@ stim_data = {
         "filename": "deu_lemmasentence_24"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃtiːxən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtiːxən",
         "filename": "deu_pastsentence1_24"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃtai̯xt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtai̯xt",
         "filename": "deu_pastsentence2_24"
     },
     {
@@ -5199,11 +5199,11 @@ stim_data = {
         "filename": "deu_lemmasentence_25"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfrɛndət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfrɛndət",
         "filename": "deu_pastsentence1_25"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfrandət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfrandət",
         "filename": "deu_pastsentence2_25"
     },
     {
@@ -5215,11 +5215,11 @@ stim_data = {
         "filename": "deu_lemmasentence_26"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbai̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbai̯n",
         "filename": "deu_pastsentence1_26"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbai̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbai̯t",
         "filename": "deu_pastsentence2_26"
     },
     {
@@ -5231,11 +5231,11 @@ stim_data = {
         "filename": "deu_lemmasentence_27"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədɪndət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədɪndət",
         "filename": "deu_pastsentence1_27"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədʊndən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədʊndən",
         "filename": "deu_pastsentence2_27"
     },
     {
@@ -5247,11 +5247,11 @@ stim_data = {
         "filename": "deu_lemmasentence_28"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrzʊŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrzʊŋən",
         "filename": "deu_pastsentence1_28"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrzeŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrzeŋən",
         "filename": "deu_pastsentence2_28"
     },
     {
@@ -5263,11 +5263,11 @@ stim_data = {
         "filename": "deu_lemmasentence_29"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃʊsən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃʊsən",
         "filename": "deu_pastsentence1_29"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃʊst",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃʊst",
         "filename": "deu_pastsentence2_29"
     },
     {
@@ -5279,11 +5279,11 @@ stim_data = {
         "filename": "deu_lemmasentence_30"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfleːtət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfleːtət",
         "filename": "deu_pastsentence1_30"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfloːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfloːtən",
         "filename": "deu_pastsentence2_30"
     },
     {
@@ -5295,11 +5295,11 @@ stim_data = {
         "filename": "deu_lemmasentence_31"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfreːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfreːtən",
         "filename": "deu_pastsentence1_31"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfroːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfroːtən",
         "filename": "deu_pastsentence2_31"
     },
     {
@@ -5311,11 +5311,11 @@ stim_data = {
         "filename": "deu_lemmasentence_32"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bəhuːtət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəhuːtət",
         "filename": "deu_pastsentence1_32"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bəhuːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəhuːtən",
         "filename": "deu_pastsentence2_32"
     },
     {
@@ -5327,11 +5327,11 @@ stim_data = {
         "filename": "deu_lemmasentence_33"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfruːtət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfruːtət",
         "filename": "deu_pastsentence1_33"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfruːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfruːtən",
         "filename": "deu_pastsentence2_33"
     },
     {
@@ -5343,11 +5343,11 @@ stim_data = {
         "filename": "deu_lemmasentence_34"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ʊmai̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ʊmai̯t",
         "filename": "deu_pastsentence1_34"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʊmai̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʊmai̯t",
         "filename": "deu_pastsentence2_34"
     },
     {
@@ -5359,11 +5359,11 @@ stim_data = {
         "filename": "deu_lemmasentence_35"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbai̯fən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbai̯fən",
         "filename": "deu_pastsentence1_35"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbɪfən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbɪfən",
         "filename": "deu_pastsentence2_35"
     },
     {
@@ -5375,11 +5375,11 @@ stim_data = {
         "filename": "deu_lemmasentence_36"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəzʊsən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzʊsən",
         "filename": "deu_pastsentence1_36"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəzɔsən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzɔsən",
         "filename": "deu_pastsentence2_36"
     },
     {
@@ -5391,11 +5391,11 @@ stim_data = {
         "filename": "deu_lemmasentence_37"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfai̯ft",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfai̯ft",
         "filename": "deu_pastsentence1_37"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfɪfən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfɪfən",
         "filename": "deu_pastsentence2_37"
     },
     {
@@ -5407,11 +5407,11 @@ stim_data = {
         "filename": "deu_lemmasentence_38"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃpreːpt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃpreːpt",
         "filename": "deu_pastsentence1_38"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃproːbən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃproːbən",
         "filename": "deu_pastsentence2_38"
     },
     {
@@ -5423,11 +5423,11 @@ stim_data = {
         "filename": "deu_lemmasentence_39"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətrai̯ft",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətrai̯ft",
         "filename": "deu_pastsentence1_39"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətriːfən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətriːfən",
         "filename": "deu_pastsentence2_39"
     },
     {
@@ -5439,11 +5439,11 @@ stim_data = {
         "filename": "deu_lemmasentence_40"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədandət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədandət",
         "filename": "deu_pastsentence1_40"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədant",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədant",
         "filename": "deu_pastsentence2_40"
     },
     {
@@ -5455,11 +5455,11 @@ stim_data = {
         "filename": "deu_lemmasentence_41"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gərai̯st",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərai̯st",
         "filename": "deu_pastsentence1_41"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bərai̯st",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bərai̯st",
         "filename": "deu_pastsentence2_41"
     },
     {
@@ -5471,11 +5471,11 @@ stim_data = {
         "filename": "deu_lemmasentence_42"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃtɛŋkt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtɛŋkt",
         "filename": "deu_pastsentence1_42"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃtaxt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtaxt",
         "filename": "deu_pastsentence2_42"
     },
     {
@@ -5487,11 +5487,11 @@ stim_data = {
         "filename": "deu_lemmasentence_43"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrhaːdət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrhaːdət",
         "filename": "deu_pastsentence1_43"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrhaːdən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrhaːdən",
         "filename": "deu_pastsentence2_43"
     },
     {
@@ -5503,11 +5503,11 @@ stim_data = {
         "filename": "deu_lemmasentence_44"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəblɪtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəblɪtən",
         "filename": "deu_pastsentence1_44"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəblai̯dət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəblai̯dət",
         "filename": "deu_pastsentence2_44"
     },
     {
@@ -5519,11 +5519,11 @@ stim_data = {
         "filename": "deu_lemmasentence_45"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrtʊŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrtʊŋən",
         "filename": "deu_pastsentence1_45"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrtɪŋt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrtɪŋt",
         "filename": "deu_pastsentence2_45"
     },
     {
@@ -5535,11 +5535,11 @@ stim_data = {
         "filename": "deu_lemmasentence_46"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrfaːlən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrfaːlən",
         "filename": "deu_pastsentence1_46"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrfaːlt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrfaːlt",
         "filename": "deu_pastsentence2_46"
     },
     {
@@ -5551,11 +5551,11 @@ stim_data = {
         "filename": "deu_lemmasentence_47"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədʏndət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədʏndət",
         "filename": "deu_pastsentence1_47"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədondət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədondət",
         "filename": "deu_pastsentence2_47"
     },
     {
@@ -5567,11 +5567,11 @@ stim_data = {
         "filename": "deu_lemmasentence_48"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbai̯tət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbai̯tət",
         "filename": "deu_pastsentence1_48"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbiːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbiːtən",
         "filename": "deu_pastsentence2_48"
     },
     {
@@ -5583,11 +5583,11 @@ stim_data = {
         "filename": "deu_lemmasentence_49"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gərɪtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərɪtən",
         "filename": "deu_pastsentence1_49"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gərai̯tət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərai̯tət",
         "filename": "deu_pastsentence2_49"
     },
     {
@@ -5599,11 +5599,11 @@ stim_data = {
         "filename": "deu_lemmasentence_50"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəɛːrt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəɛːrt",
         "filename": "deu_pastsentence1_50"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəɛːrən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəɛːrən",
         "filename": "deu_pastsentence2_50"
     },
     {
@@ -5615,11 +5615,11 @@ stim_data = {
         "filename": "deu_lemmasentence_51"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəlau̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəlau̯t",
         "filename": "deu_pastsentence1_51"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəlau̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəlau̯n",
         "filename": "deu_pastsentence2_51"
     },
     {
@@ -5631,11 +5631,11 @@ stim_data = {
         "filename": "deu_lemmasentence_52"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gərøːt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərøːt",
         "filename": "deu_pastsentence1_52"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gərøːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərøːtən",
         "filename": "deu_pastsentence2_52"
     },
     {
@@ -5647,11 +5647,11 @@ stim_data = {
         "filename": "deu_lemmasentence_53"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəɔlt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəɔlt",
         "filename": "deu_pastsentence1_53"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəɔlən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəɔlən",
         "filename": "deu_pastsentence2_53"
     },
     {
@@ -5663,11 +5663,11 @@ stim_data = {
         "filename": "deu_lemmasentence_54"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəreːpt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəreːpt",
         "filename": "deu_pastsentence1_54"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəreːbən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəreːbən",
         "filename": "deu_pastsentence2_54"
     },
     {
@@ -5679,11 +5679,11 @@ stim_data = {
         "filename": "deu_lemmasentence_55"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhɛlt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhɛlt",
         "filename": "deu_pastsentence1_55"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhɔlən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhɔlən",
         "filename": "deu_pastsentence2_55"
     },
     {
@@ -5695,11 +5695,11 @@ stim_data = {
         "filename": "deu_lemmasentence_56"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gərɛːt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərɛːt",
         "filename": "deu_pastsentence1_56"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gərɛːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərɛːtən",
         "filename": "deu_pastsentence2_56"
     },
     {
@@ -5711,11 +5711,11 @@ stim_data = {
         "filename": "deu_lemmasentence_57"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəaːxt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəaːxt",
         "filename": "deu_pastsentence1_57"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəaːxən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəaːxən",
         "filename": "deu_pastsentence2_57"
     },
     {
@@ -5727,11 +5727,11 @@ stim_data = {
         "filename": "deu_lemmasentence_58"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃiːn",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃiːn",
         "filename": "deu_pastsentence1_58"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃai̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃai̯n",
         "filename": "deu_pastsentence2_58"
     },
     {
@@ -5743,11 +5743,11 @@ stim_data = {
         "filename": "deu_lemmasentence_59"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəalt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəalt",
         "filename": "deu_pastsentence1_59"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəalən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəalən",
         "filename": "deu_pastsentence2_59"
     },
     {
@@ -5759,11 +5759,11 @@ stim_data = {
         "filename": "deu_lemmasentence_60"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhoːn",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhoːn",
         "filename": "deu_pastsentence1_60"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhiːt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhiːt",
         "filename": "deu_pastsentence2_60"
     },
     {
@@ -5775,11 +5775,11 @@ stim_data = {
         "filename": "deu_lemmasentence_61"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfʊŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfʊŋən",
         "filename": "deu_pastsentence1_61"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfɪŋt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfɪŋt",
         "filename": "deu_pastsentence2_61"
     },
     {
@@ -5791,11 +5791,11 @@ stim_data = {
         "filename": "deu_lemmasentence_62"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəheːnt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəheːnt",
         "filename": "deu_pastsentence1_62"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhoːnən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhoːnən",
         "filename": "deu_pastsentence2_62"
     },
     {
@@ -5807,11 +5807,11 @@ stim_data = {
         "filename": "deu_lemmasentence_63"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrlau̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrlau̯t",
         "filename": "deu_pastsentence1_63"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrlau̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrlau̯n",
         "filename": "deu_pastsentence2_63"
     },
     {
@@ -5823,11 +5823,11 @@ stim_data = {
         "filename": "deu_lemmasentence_64"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəmiːt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəmiːt",
         "filename": "deu_pastsentence1_64"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəmoːt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəmoːt",
         "filename": "deu_pastsentence2_64"
     },
     {
@@ -5839,11 +5839,11 @@ stim_data = {
         "filename": "deu_lemmasentence_65"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəau̯ft",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəau̯ft",
         "filename": "deu_pastsentence1_65"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəau̯fən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəau̯fən",
         "filename": "deu_pastsentence2_65"
     },
     {
@@ -5855,11 +5855,11 @@ stim_data = {
         "filename": "deu_lemmasentence_66"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəmeːt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəmeːt",
         "filename": "deu_pastsentence1_66"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəmeːn",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəmeːn",
         "filename": "deu_pastsentence2_66"
     },
     {
@@ -5871,11 +5871,11 @@ stim_data = {
         "filename": "deu_lemmasentence_67"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəjau̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjau̯t",
         "filename": "deu_pastsentence1_67"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəjau̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjau̯n",
         "filename": "deu_pastsentence2_67"
     },
     {
@@ -5887,11 +5887,11 @@ stim_data = {
         "filename": "deu_lemmasentence_68"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədau̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədau̯t",
         "filename": "deu_pastsentence1_68"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədau̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədau̯n",
         "filename": "deu_pastsentence2_68"
     },
     {
@@ -5903,11 +5903,11 @@ stim_data = {
         "filename": "deu_lemmasentence_69"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəast",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəast",
         "filename": "deu_pastsentence1_69"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəasən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəasən",
         "filename": "deu_pastsentence2_69"
     },
     {
@@ -5919,11 +5919,11 @@ stim_data = {
         "filename": "deu_lemmasentence_70"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətalt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətalt",
         "filename": "deu_pastsentence1_70"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətalən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətalən",
         "filename": "deu_pastsentence2_70"
     },
     {
@@ -5935,11 +5935,11 @@ stim_data = {
         "filename": "deu_lemmasentence_71"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhakst",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhakst",
         "filename": "deu_pastsentence1_71"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhaksən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhaksən",
         "filename": "deu_pastsentence2_71"
     },
     {
@@ -5951,11 +5951,11 @@ stim_data = {
         "filename": "deu_lemmasentence_72"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəaʃt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəaʃt",
         "filename": "deu_pastsentence1_72"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəaʃən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəaʃən",
         "filename": "deu_pastsentence2_72"
     },
     {
@@ -5967,11 +5967,11 @@ stim_data = {
         "filename": "deu_lemmasentence_73"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətai̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətai̯t",
         "filename": "deu_pastsentence1_73"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətiːn",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətiːn",
         "filename": "deu_pastsentence2_73"
     },
     {
@@ -5983,11 +5983,11 @@ stim_data = {
         "filename": "deu_lemmasentence_74"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəmau̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəmau̯t",
         "filename": "deu_pastsentence1_74"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəmau̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəmau̯n",
         "filename": "deu_pastsentence2_74"
     },
     {
@@ -5999,11 +5999,11 @@ stim_data = {
         "filename": "deu_lemmasentence_75"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhiːn",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhiːn",
         "filename": "deu_pastsentence1_75"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhai̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhai̯n",
         "filename": "deu_pastsentence2_75"
     },
     {
@@ -6015,11 +6015,11 @@ stim_data = {
         "filename": "deu_lemmasentence_76"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəliːfən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəliːfən",
         "filename": "deu_pastsentence1_76"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəlai̯ft",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəlai̯ft",
         "filename": "deu_pastsentence2_76"
     },
     {
@@ -6031,11 +6031,11 @@ stim_data = {
         "filename": "deu_lemmasentence_77"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəvʏlt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəvʏlt",
         "filename": "deu_pastsentence1_77"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəvʏlən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəvʏlən",
         "filename": "deu_pastsentence2_77"
     },
     {
@@ -6047,11 +6047,11 @@ stim_data = {
         "filename": "deu_lemmasentence_78"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətsau̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsau̯t",
         "filename": "deu_pastsentence1_78"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətsau̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsau̯n",
         "filename": "deu_pastsentence2_78"
     },
     {
@@ -6063,11 +6063,11 @@ stim_data = {
         "filename": "deu_lemmasentence_79"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfiːt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfiːt",
         "filename": "deu_pastsentence1_79"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfoːt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfoːt",
         "filename": "deu_pastsentence2_79"
     },
     {
@@ -6079,11 +6079,11 @@ stim_data = {
         "filename": "deu_lemmasentence_80"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfeːt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfeːt",
         "filename": "deu_pastsentence1_80"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfeːn",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfeːn",
         "filename": "deu_pastsentence2_80"
     },
     {
@@ -6095,11 +6095,11 @@ stim_data = {
         "filename": "deu_lemmasentence_81"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəkai̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkai̯t",
         "filename": "deu_pastsentence1_81"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəkai̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkai̯n",
         "filename": "deu_pastsentence2_81"
     },
     {
@@ -6111,11 +6111,11 @@ stim_data = {
         "filename": "deu_lemmasentence_82"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəpiːt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəpiːt",
         "filename": "deu_pastsentence1_82"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəpoːn",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəpoːn",
         "filename": "deu_pastsentence2_82"
     },
     {
@@ -6127,11 +6127,11 @@ stim_data = {
         "filename": "deu_lemmasentence_83"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gərast",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərast",
         "filename": "deu_pastsentence1_83"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gərasən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərasən",
         "filename": "deu_pastsentence2_83"
     },
     {
@@ -6143,11 +6143,11 @@ stim_data = {
         "filename": "deu_lemmasentence_84"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəjeːt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjeːt",
         "filename": "deu_pastsentence1_84"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəjeːn",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjeːn",
         "filename": "deu_pastsentence2_84"
     },
     {
@@ -6159,11 +6159,11 @@ stim_data = {
         "filename": "deu_lemmasentence_85"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəzeːrt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzeːrt",
         "filename": "deu_pastsentence1_85"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəzoːrən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzoːrən",
         "filename": "deu_pastsentence2_85"
     },
     {
@@ -6175,11 +6175,11 @@ stim_data = {
         "filename": "deu_lemmasentence_86"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəmɔlt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəmɔlt",
         "filename": "deu_pastsentence1_86"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəmɔlən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəmɔlən",
         "filename": "deu_pastsentence2_86"
     },
     {
@@ -6191,11 +6191,11 @@ stim_data = {
         "filename": "deu_lemmasentence_87"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃɛːrt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃɛːrt",
         "filename": "deu_pastsentence1_87"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃoːrən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃoːrən",
         "filename": "deu_pastsentence2_87"
     },
     {
@@ -6207,11 +6207,11 @@ stim_data = {
         "filename": "deu_lemmasentence_88"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəjʊŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjʊŋən",
         "filename": "deu_pastsentence1_88"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəjɪŋt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjɪŋt",
         "filename": "deu_pastsentence2_88"
     },
     {
@@ -6223,11 +6223,11 @@ stim_data = {
         "filename": "deu_lemmasentence_89"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbɛːnt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbɛːnt",
         "filename": "deu_pastsentence1_89"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbaːnt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbaːnt",
         "filename": "deu_pastsentence2_89"
     },
     {
@@ -6239,11 +6239,11 @@ stim_data = {
         "filename": "deu_lemmasentence_90"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəruːtət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəruːtət",
         "filename": "deu_pastsentence1_90"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəruːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəruːtən",
         "filename": "deu_pastsentence2_90"
     },
     {
@@ -6255,11 +6255,11 @@ stim_data = {
         "filename": "deu_lemmasentence_91"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gənai̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gənai̯t",
         "filename": "deu_pastsentence1_91"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gənɪt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gənɪt",
         "filename": "deu_pastsentence2_91"
     },
     {
@@ -6271,11 +6271,11 @@ stim_data = {
         "filename": "deu_lemmasentence_92"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrai̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrai̯t",
         "filename": "deu_pastsentence1_92"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrai̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrai̯n",
         "filename": "deu_pastsentence2_92"
     },
     {
@@ -6287,11 +6287,11 @@ stim_data = {
         "filename": "deu_lemmasentence_93"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrzɔtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrzɔtən",
         "filename": "deu_pastsentence1_93"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrzau̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrzau̯n",
         "filename": "deu_pastsentence2_93"
     },
     {
@@ -6303,11 +6303,11 @@ stim_data = {
         "filename": "deu_lemmasentence_94"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbrɔsən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbrɔsən",
         "filename": "deu_pastsentence1_94"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbrɛsən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbrɛsən",
         "filename": "deu_pastsentence2_94"
     },
     {
@@ -6319,11 +6319,11 @@ stim_data = {
         "filename": "deu_lemmasentence_95"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbrɛndət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbrɛndət",
         "filename": "deu_pastsentence1_95"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbrandət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbrandət",
         "filename": "deu_pastsentence2_95"
     },
     {
@@ -6335,11 +6335,11 @@ stim_data = {
         "filename": "deu_lemmasentence_96"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədɔfən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədɔfən",
         "filename": "deu_pastsentence1_96"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədau̯ft",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədau̯ft",
         "filename": "deu_pastsentence2_96"
     },
     {
@@ -6351,11 +6351,11 @@ stim_data = {
         "filename": "deu_lemmasentence_97"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrbeŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrbeŋən",
         "filename": "deu_pastsentence1_97"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrbʊŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrbʊŋən",
         "filename": "deu_pastsentence2_97"
     },
     {
@@ -6367,11 +6367,11 @@ stim_data = {
         "filename": "deu_lemmasentence_98"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəzai̯dət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzai̯dət",
         "filename": "deu_pastsentence1_98"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəzɔtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzɔtən",
         "filename": "deu_pastsentence2_98"
     },
     {
@@ -6383,11 +6383,11 @@ stim_data = {
         "filename": "deu_lemmasentence_99"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfrɛstət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfrɛstət",
         "filename": "deu_pastsentence1_99"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfrɔstən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfrɔstən",
         "filename": "deu_pastsentence2_99"
     },
     {
@@ -6399,11 +6399,11 @@ stim_data = {
         "filename": "deu_lemmasentence_100"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃtrʊŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtrʊŋən",
         "filename": "deu_pastsentence1_100"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃtraŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtraŋən",
         "filename": "deu_pastsentence2_100"
     },
     {
@@ -6415,11 +6415,11 @@ stim_data = {
         "filename": "deu_lemmasentence_101"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbrai̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbrai̯t",
         "filename": "deu_pastsentence1_101"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbriːn",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbriːn",
         "filename": "deu_pastsentence2_101"
     },
     {
@@ -6431,11 +6431,11 @@ stim_data = {
         "filename": "deu_lemmasentence_102"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədrɔftən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədrɔftən",
         "filename": "deu_pastsentence1_102"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədrɛftət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədrɛftət",
         "filename": "deu_pastsentence2_102"
     },
     {
@@ -6447,11 +6447,11 @@ stim_data = {
         "filename": "deu_lemmasentence_103"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəraːbən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəraːbən",
         "filename": "deu_pastsentence1_103"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəraːpt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəraːpt",
         "filename": "deu_pastsentence2_103"
     },
     {
@@ -6463,11 +6463,11 @@ stim_data = {
         "filename": "deu_lemmasentence_104"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəzau̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzau̯t",
         "filename": "deu_pastsentence1_104"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəzɔt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzɔt",
         "filename": "deu_pastsentence2_104"
     },
     {
@@ -6479,11 +6479,11 @@ stim_data = {
         "filename": "deu_lemmasentence_105"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbruːtət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbruːtət",
         "filename": "deu_pastsentence1_105"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbruːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbruːtən",
         "filename": "deu_pastsentence2_105"
     },
     {
@@ -6495,11 +6495,11 @@ stim_data = {
         "filename": "deu_lemmasentence_106"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrluːdət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrluːdət",
         "filename": "deu_pastsentence1_106"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrluːdən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrluːdən",
         "filename": "deu_pastsentence2_106"
     },
     {
@@ -6511,11 +6511,11 @@ stim_data = {
         "filename": "deu_lemmasentence_107"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəvai̯ʃt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəvai̯ʃt",
         "filename": "deu_pastsentence1_107"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəviːʃən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəviːʃən",
         "filename": "deu_pastsentence2_107"
     },
     {
@@ -6527,11 +6527,11 @@ stim_data = {
         "filename": "deu_lemmasentence_108"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətai̯dət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətai̯dət",
         "filename": "deu_pastsentence1_108"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətiːdən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətiːdən",
         "filename": "deu_pastsentence2_108"
     },
     {
@@ -6543,11 +6543,11 @@ stim_data = {
         "filename": "deu_lemmasentence_109"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhau̯ft",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhau̯ft",
         "filename": "deu_pastsentence1_109"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhiːfən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhiːfən",
         "filename": "deu_pastsentence2_109"
     },
     {
@@ -6559,11 +6559,11 @@ stim_data = {
         "filename": "deu_lemmasentence_110"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfliːn",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfliːn",
         "filename": "deu_pastsentence1_110"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəflai̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəflai̯t",
         "filename": "deu_pastsentence2_110"
     },
     {
@@ -6575,11 +6575,11 @@ stim_data = {
         "filename": "deu_lemmasentence_111"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bəneːzən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəneːzən",
         "filename": "deu_pastsentence1_111"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bənaːzən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bənaːzən",
         "filename": "deu_pastsentence2_111"
     },
     {
@@ -6591,11 +6591,11 @@ stim_data = {
         "filename": "deu_lemmasentence_112"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhau̯pt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhau̯pt",
         "filename": "deu_pastsentence1_112"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhau̯bən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhau̯bən",
         "filename": "deu_pastsentence2_112"
     },
     {
@@ -6607,11 +6607,11 @@ stim_data = {
         "filename": "deu_lemmasentence_113"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛreːtət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛreːtət",
         "filename": "deu_pastsentence1_113"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛroːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛroːtən",
         "filename": "deu_pastsentence2_113"
     },
     {
@@ -6623,11 +6623,11 @@ stim_data = {
         "filename": "deu_lemmasentence_114"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhiːtət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhiːtət",
         "filename": "deu_pastsentence1_114"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhoːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhoːtən",
         "filename": "deu_pastsentence2_114"
     },
     {
@@ -6639,11 +6639,11 @@ stim_data = {
         "filename": "deu_lemmasentence_115"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəjau̯ft",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjau̯ft",
         "filename": "deu_pastsentence1_115"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəjɔfən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjɔfən",
         "filename": "deu_pastsentence2_115"
     },
     {
@@ -6655,11 +6655,11 @@ stim_data = {
         "filename": "deu_lemmasentence_116"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəraːpt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəraːpt",
         "filename": "deu_pastsentence1_116"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəraːbən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəraːbən",
         "filename": "deu_pastsentence2_116"
     },
     {
@@ -6671,11 +6671,11 @@ stim_data = {
         "filename": "deu_lemmasentence_117"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfai̯xt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfai̯xt",
         "filename": "deu_pastsentence1_117"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfɪxən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfɪxən",
         "filename": "deu_pastsentence2_117"
     },
     {
@@ -6687,11 +6687,11 @@ stim_data = {
         "filename": "deu_lemmasentence_118"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhai̯ft",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhai̯ft",
         "filename": "deu_pastsentence1_118"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhiːfən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhiːfən",
         "filename": "deu_pastsentence2_118"
     },
     {
@@ -6703,11 +6703,11 @@ stim_data = {
         "filename": "deu_lemmasentence_119"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrhoːn",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrhoːn",
         "filename": "deu_pastsentence1_119"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn ɛrheːn",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrheːn",
         "filename": "deu_pastsentence2_119"
     },
     {
@@ -6719,11 +6719,11 @@ stim_data = {
         "filename": "deu_lemmasentence_120"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəlai̯nt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəlai̯nt",
         "filename": "deu_pastsentence1_120"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bəlai̯nt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəlai̯nt",
         "filename": "deu_pastsentence2_120"
     },
     {
@@ -6735,11 +6735,11 @@ stim_data = {
         "filename": "deu_lemmasentence_121"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəjai̯dət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjai̯dət",
         "filename": "deu_pastsentence1_121"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəjiːdən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjiːdən",
         "filename": "deu_pastsentence2_121"
     },
     {
@@ -6751,11 +6751,11 @@ stim_data = {
         "filename": "deu_lemmasentence_122"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃpai̯nt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃpai̯nt",
         "filename": "deu_pastsentence1_122"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʃpiːnən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃpiːnən",
         "filename": "deu_pastsentence2_122"
     },
     {
@@ -6767,11 +6767,11 @@ stim_data = {
         "filename": "deu_lemmasentence_123"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəkʊŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkʊŋən",
         "filename": "deu_pastsentence1_123"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəkɪŋt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkɪŋt",
         "filename": "deu_pastsentence2_123"
     },
     {
@@ -6783,11 +6783,11 @@ stim_data = {
         "filename": "deu_lemmasentence_124"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəjai̯ft",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjai̯ft",
         "filename": "deu_pastsentence1_124"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəjiːfən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjiːfən",
         "filename": "deu_pastsentence2_124"
     },
     {
@@ -6799,11 +6799,11 @@ stim_data = {
         "filename": "deu_lemmasentence_125"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gərai̯dət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərai̯dət",
         "filename": "deu_pastsentence1_125"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəriːdən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəriːdən",
         "filename": "deu_pastsentence2_125"
     },
     {
@@ -6815,11 +6815,11 @@ stim_data = {
         "filename": "deu_lemmasentence_126"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn fɛrzaːn",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn fɛrzaːn",
         "filename": "deu_pastsentence1_126"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn fɛrzaːt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn fɛrzaːt",
         "filename": "deu_pastsentence2_126"
     },
     {
@@ -6831,11 +6831,11 @@ stim_data = {
         "filename": "deu_lemmasentence_127"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəkandət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkandət",
         "filename": "deu_pastsentence1_127"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəkɛndət",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkɛndət",
         "filename": "deu_pastsentence2_127"
     },
     {
@@ -6847,11 +6847,11 @@ stim_data = {
         "filename": "deu_lemmasentence_128"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəblai̯nt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəblai̯nt",
         "filename": "deu_pastsentence1_128"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəbliːnən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbliːnən",
         "filename": "deu_pastsentence2_128"
     },
     {
@@ -6863,11 +6863,11 @@ stim_data = {
         "filename": "deu_lemmasentence_129"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfau̯ft",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfau̯ft",
         "filename": "deu_pastsentence1_129"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfɔfən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfɔfən",
         "filename": "deu_pastsentence2_129"
     },
     {
@@ -6879,11 +6879,11 @@ stim_data = {
         "filename": "deu_lemmasentence_130"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədrʊŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədrʊŋən",
         "filename": "deu_pastsentence1_130"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gədrɔŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədrɔŋən",
         "filename": "deu_pastsentence2_130"
     },
     {
@@ -6895,11 +6895,11 @@ stim_data = {
         "filename": "deu_lemmasentence_131"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfrʊŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfrʊŋən",
         "filename": "deu_pastsentence1_131"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfrɔŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfrɔŋən",
         "filename": "deu_pastsentence2_131"
     },
     {
@@ -6911,11 +6911,11 @@ stim_data = {
         "filename": "deu_lemmasentence_132"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʒɛŋt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʒɛŋt",
         "filename": "deu_pastsentence1_132"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəʒɛŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʒɛŋən",
         "filename": "deu_pastsentence2_132"
     },
     {
@@ -6927,11 +6927,11 @@ stim_data = {
         "filename": "deu_lemmasentence_133"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəboːn",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəboːn",
         "filename": "deu_pastsentence1_133"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəboːt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəboːt",
         "filename": "deu_pastsentence2_133"
     },
     {
@@ -6943,11 +6943,11 @@ stim_data = {
         "filename": "deu_lemmasentence_134"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəjai̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjai̯t",
         "filename": "deu_pastsentence1_134"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəjai̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjai̯n",
         "filename": "deu_pastsentence2_134"
     },
     {
@@ -6959,11 +6959,11 @@ stim_data = {
         "filename": "deu_lemmasentence_135"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəziːt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəziːt",
         "filename": "deu_pastsentence1_135"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəzɔt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzɔt",
         "filename": "deu_pastsentence2_135"
     },
     {
@@ -6975,11 +6975,11 @@ stim_data = {
         "filename": "deu_lemmasentence_136"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfau̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfau̯t",
         "filename": "deu_pastsentence1_136"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfau̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfau̯n",
         "filename": "deu_pastsentence2_136"
     },
     {
@@ -6991,11 +6991,11 @@ stim_data = {
         "filename": "deu_lemmasentence_137"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəpau̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəpau̯t",
         "filename": "deu_pastsentence1_137"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəpau̯n",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəpau̯n",
         "filename": "deu_pastsentence2_137"
     },
     {
@@ -7007,11 +7007,11 @@ stim_data = {
         "filename": "deu_lemmasentence_138"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəjiːt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjiːt",
         "filename": "deu_pastsentence1_138"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəjoːn",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjoːn",
         "filename": "deu_pastsentence2_138"
     },
     {
@@ -7023,11 +7023,11 @@ stim_data = {
         "filename": "deu_lemmasentence_139"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəkleːrt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkleːrt",
         "filename": "deu_pastsentence1_139"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəkloːrən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkloːrən",
         "filename": "deu_pastsentence2_139"
     },
     {
@@ -7039,11 +7039,11 @@ stim_data = {
         "filename": "deu_lemmasentence_140"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətɛŋkt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətɛŋkt",
         "filename": "deu_pastsentence1_140"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətaxt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətaxt",
         "filename": "deu_pastsentence2_140"
     },
     {
@@ -7055,11 +7055,11 @@ stim_data = {
         "filename": "deu_lemmasentence_141"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bəreːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəreːtən",
         "filename": "deu_pastsentence1_141"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bəroːtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəroːtən",
         "filename": "deu_pastsentence2_141"
     },
     {
@@ -7071,11 +7071,11 @@ stim_data = {
         "filename": "deu_lemmasentence_142"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfeːrt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfeːrt",
         "filename": "deu_pastsentence1_142"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəfoːrən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfoːrən",
         "filename": "deu_pastsentence2_142"
     },
     {
@@ -7087,11 +7087,11 @@ stim_data = {
         "filename": "deu_lemmasentence_143"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətsɪŋt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsɪŋt",
         "filename": "deu_pastsentence1_143"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gətsʊŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsʊŋən",
         "filename": "deu_pastsentence2_143"
     },
     {
@@ -7103,11 +7103,11 @@ stim_data = {
         "filename": "deu_lemmasentence_144"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəvʊŋən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəvʊŋən",
         "filename": "deu_pastsentence1_144"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəvɪŋt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəvɪŋt",
         "filename": "deu_pastsentence2_144"
     },
     {
@@ -7119,11 +7119,11 @@ stim_data = {
         "filename": "deu_lemmasentence_145"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəheːnt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəheːnt",
         "filename": "deu_pastsentence1_145"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhoːnən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhoːnən",
         "filename": "deu_pastsentence2_145"
     },
     {
@@ -7135,11 +7135,11 @@ stim_data = {
         "filename": "deu_lemmasentence_146"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəheːrt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəheːrt",
         "filename": "deu_pastsentence1_146"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhoːrən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhoːrən",
         "filename": "deu_pastsentence2_146"
     },
     {
@@ -7151,11 +7151,11 @@ stim_data = {
         "filename": "deu_lemmasentence_147"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəzai̯t",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzai̯t",
         "filename": "deu_pastsentence1_147"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəzɔtən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzɔtən",
         "filename": "deu_pastsentence2_147"
     },
     {
@@ -7167,11 +7167,11 @@ stim_data = {
         "filename": "deu_lemmasentence_148"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bəhoːbən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəhoːbən",
         "filename": "deu_pastsentence1_148"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn bəhiːpt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəhiːpt",
         "filename": "deu_pastsentence2_148"
     },
     {
@@ -7183,11 +7183,11 @@ stim_data = {
         "filename": "deu_lemmasentence_149"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəkalt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkalt",
         "filename": "deu_pastsentence1_149"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəkau̯lt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkau̯lt",
         "filename": "deu_pastsentence2_149"
     },
     {
@@ -7199,11 +7199,11 @@ stim_data = {
         "filename": "deu_lemmasentence_150"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhɔlt",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhɔlt",
         "filename": "deu_pastsentence1_150"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəstɐn gəhɔlən",
+        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhɔlən",
         "filename": "deu_pastsentence2_150"
     }
 ]
