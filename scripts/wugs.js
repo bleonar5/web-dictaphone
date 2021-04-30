@@ -2409,7 +2409,7 @@ stim_data = {
         "filename": "nld_barelemma_1"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvərzoːpə",
+        "sentence": "də vrində bəʃloːtə tə vərzoːpə",
         "filename": "nld_lemmasentence_1"
     },
     {
@@ -2425,7 +2425,7 @@ stim_data = {
         "filename": "nld_barelemma_2"
     },
     {
-        "sentence": "də vrində bəʃloːtə təɔntwɛɪnə",
+        "sentence": "də vrində bəʃloːtə tə ɔntwɛɪnə",
         "filename": "nld_lemmasentence_2"
     },
     {
@@ -2441,7 +2441,7 @@ stim_data = {
         "filename": "nld_barelemma_3"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvərzɛɪzə",
+        "sentence": "də vrində bəʃloːtə tə vərzɛɪzə",
         "filename": "nld_lemmasentence_3"
     },
     {
@@ -2457,7 +2457,7 @@ stim_data = {
         "filename": "nld_barelemma_4"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvərhɑfə",
+        "sentence": "də vrində bəʃloːtə tə vərhɑfə",
         "filename": "nld_lemmasentence_4"
     },
     {
@@ -2473,7 +2473,7 @@ stim_data = {
         "filename": "nld_barelemma_5"
     },
     {
-        "sentence": "də vrində bəʃloːtə təɔntrɪŋkə",
+        "sentence": "də vrində bəʃloːtə tə ɔntrɪŋkə",
         "filename": "nld_lemmasentence_5"
     },
     {
@@ -2489,7 +2489,7 @@ stim_data = {
         "filename": "nld_barelemma_6"
     },
     {
-        "sentence": "də vrində bəʃloːtə təstraːpə",
+        "sentence": "də vrində bəʃloːtə tə straːpə",
         "filename": "nld_lemmasentence_6"
     },
     {
@@ -2505,7 +2505,7 @@ stim_data = {
         "filename": "nld_barelemma_7"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvərheːkə",
+        "sentence": "də vrində bəʃloːtə tə vərheːkə",
         "filename": "nld_lemmasentence_7"
     },
     {
@@ -2521,7 +2521,7 @@ stim_data = {
         "filename": "nld_barelemma_8"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvərbʊɪnə",
+        "sentence": "də vrində bəʃloːtə tə vərbʊɪnə",
         "filename": "nld_lemmasentence_8"
     },
     {
@@ -2537,7 +2537,7 @@ stim_data = {
         "filename": "nld_barelemma_9"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvərdrɪkə",
+        "sentence": "də vrində bəʃloːtə tə vərdrɪkə",
         "filename": "nld_lemmasentence_9"
     },
     {
@@ -2553,7 +2553,7 @@ stim_data = {
         "filename": "nld_barelemma_10"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvərzɛɪkə",
+        "sentence": "də vrində bəʃloːtə tə vərzɛɪkə",
         "filename": "nld_lemmasentence_10"
     },
     {
@@ -2569,7 +2569,7 @@ stim_data = {
         "filename": "nld_barelemma_11"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvərdeːvə",
+        "sentence": "də vrində bəʃloːtə tə vərdeːvə",
         "filename": "nld_lemmasentence_11"
     },
     {
@@ -2585,7 +2585,7 @@ stim_data = {
         "filename": "nld_barelemma_12"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvərlaːvə",
+        "sentence": "də vrində bəʃloːtə tə vərlaːvə",
         "filename": "nld_lemmasentence_12"
     },
     {
@@ -2601,7 +2601,7 @@ stim_data = {
         "filename": "nld_barelemma_13"
     },
     {
-        "sentence": "də vrində bəʃloːtə təbəzeːlə",
+        "sentence": "də vrində bəʃloːtə tə bəzeːlə",
         "filename": "nld_lemmasentence_13"
     },
     {
@@ -2617,7 +2617,7 @@ stim_data = {
         "filename": "nld_barelemma_14"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvərwɪŋkə",
+        "sentence": "də vrində bəʃloːtə tə vərwɪŋkə",
         "filename": "nld_lemmasentence_14"
     },
     {
@@ -2633,7 +2633,7 @@ stim_data = {
         "filename": "nld_barelemma_15"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvərhʊɪkə",
+        "sentence": "də vrində bəʃloːtə tə vərhʊɪkə",
         "filename": "nld_lemmasentence_15"
     },
     {
@@ -2649,7 +2649,7 @@ stim_data = {
         "filename": "nld_barelemma_16"
     },
     {
-        "sentence": "də vrində bəʃloːtə təbəlɛɪzə",
+        "sentence": "də vrində bəʃloːtə tə bəlɛɪzə",
         "filename": "nld_lemmasentence_16"
     },
     {
@@ -2665,7 +2665,7 @@ stim_data = {
         "filename": "nld_barelemma_17"
     },
     {
-        "sentence": "də vrində bəʃloːtə təɔntraːrə",
+        "sentence": "də vrində bəʃloːtə tə ɔntraːrə",
         "filename": "nld_lemmasentence_17"
     },
     {
@@ -2681,7 +2681,7 @@ stim_data = {
         "filename": "nld_barelemma_18"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvərhɛɪnə",
+        "sentence": "də vrində bəʃloːtə tə vərhɛɪnə",
         "filename": "nld_lemmasentence_18"
     },
     {
@@ -2697,7 +2697,7 @@ stim_data = {
         "filename": "nld_barelemma_19"
     },
     {
-        "sentence": "də vrində bəʃloːtə təɔntrʊɪkə",
+        "sentence": "də vrində bəʃloːtə tə ɔntrʊɪkə",
         "filename": "nld_lemmasentence_19"
     },
     {
@@ -2713,7 +2713,7 @@ stim_data = {
         "filename": "nld_barelemma_20"
     },
     {
-        "sentence": "də vrində bəʃloːtə təmeːzə",
+        "sentence": "də vrində bəʃloːtə tə meːzə",
         "filename": "nld_lemmasentence_20"
     },
     {
@@ -2729,7 +2729,7 @@ stim_data = {
         "filename": "nld_barelemma_21"
     },
     {
-        "sentence": "də vrində bəʃloːtə təbɛɪzə",
+        "sentence": "də vrində bəʃloːtə tə bɛɪzə",
         "filename": "nld_lemmasentence_21"
     },
     {
@@ -2745,7 +2745,7 @@ stim_data = {
         "filename": "nld_barelemma_22"
     },
     {
-        "sentence": "də vrində bəʃloːtə təʃɪŋkə",
+        "sentence": "də vrində bəʃloːtə tə ʃɪŋkə",
         "filename": "nld_lemmasentence_22"
     },
     {
@@ -2761,7 +2761,7 @@ stim_data = {
         "filename": "nld_barelemma_23"
     },
     {
-        "sentence": "də vrində bəʃloːtə tətɛɪzə",
+        "sentence": "də vrində bəʃloːtə tə tɛɪzə",
         "filename": "nld_lemmasentence_23"
     },
     {
@@ -2777,7 +2777,7 @@ stim_data = {
         "filename": "nld_barelemma_24"
     },
     {
-        "sentence": "də vrində bəʃloːtə tədrɑʊwə",
+        "sentence": "də vrində bəʃloːtə tə drɑʊwə",
         "filename": "nld_lemmasentence_24"
     },
     {
@@ -2793,7 +2793,7 @@ stim_data = {
         "filename": "nld_barelemma_25"
     },
     {
-        "sentence": "də vrində bəʃloːtə təzʊɪvə",
+        "sentence": "də vrində bəʃloːtə tə zʊɪvə",
         "filename": "nld_lemmasentence_25"
     },
     {
@@ -2809,7 +2809,7 @@ stim_data = {
         "filename": "nld_barelemma_26"
     },
     {
-        "sentence": "də vrində bəʃloːtə təkrɪŋə",
+        "sentence": "də vrində bəʃloːtə tə krɪŋə",
         "filename": "nld_lemmasentence_26"
     },
     {
@@ -2825,7 +2825,7 @@ stim_data = {
         "filename": "nld_barelemma_27"
     },
     {
-        "sentence": "də vrində bəʃloːtə tənɛɪvə",
+        "sentence": "də vrində bəʃloːtə tə nɛɪvə",
         "filename": "nld_lemmasentence_27"
     },
     {
@@ -2841,7 +2841,7 @@ stim_data = {
         "filename": "nld_barelemma_28"
     },
     {
-        "sentence": "də vrində bəʃloːtə tətɛrvə",
+        "sentence": "də vrində bəʃloːtə tə tɛrvə",
         "filename": "nld_lemmasentence_28"
     },
     {
@@ -2857,7 +2857,7 @@ stim_data = {
         "filename": "nld_barelemma_29"
     },
     {
-        "sentence": "də vrində bəʃloːtə təɑsə",
+        "sentence": "də vrində bəʃloːtə tə ɑsə",
         "filename": "nld_lemmasentence_29"
     },
     {
@@ -2873,7 +2873,7 @@ stim_data = {
         "filename": "nld_barelemma_30"
     },
     {
-        "sentence": "də vrində bəʃloːtə tətɛɪkə",
+        "sentence": "də vrində bəʃloːtə tə tɛɪkə",
         "filename": "nld_lemmasentence_30"
     },
     {
@@ -2889,7 +2889,7 @@ stim_data = {
         "filename": "nld_barelemma_31"
     },
     {
-        "sentence": "də vrində bəʃloːtə tənuːzə",
+        "sentence": "də vrində bəʃloːtə tə nuːzə",
         "filename": "nld_lemmasentence_31"
     },
     {
@@ -2905,7 +2905,7 @@ stim_data = {
         "filename": "nld_barelemma_32"
     },
     {
-        "sentence": "də vrində bəʃloːtə təzwɪŋkə",
+        "sentence": "də vrində bəʃloːtə tə zwɪŋkə",
         "filename": "nld_lemmasentence_32"
     },
     {
@@ -2921,7 +2921,7 @@ stim_data = {
         "filename": "nld_barelemma_33"
     },
     {
-        "sentence": "də vrində bəʃloːtə təxrɪŋkə",
+        "sentence": "də vrində bəʃloːtə tə xrɪŋkə",
         "filename": "nld_lemmasentence_33"
     },
     {
@@ -2937,7 +2937,7 @@ stim_data = {
         "filename": "nld_barelemma_34"
     },
     {
-        "sentence": "də vrində bəʃloːtə tətrɪŋkə",
+        "sentence": "də vrində bəʃloːtə tə trɪŋkə",
         "filename": "nld_lemmasentence_34"
     },
     {
@@ -2953,7 +2953,7 @@ stim_data = {
         "filename": "nld_barelemma_35"
     },
     {
-        "sentence": "də vrində bəʃloːtə təbrɪŋkə",
+        "sentence": "də vrində bəʃloːtə tə brɪŋkə",
         "filename": "nld_lemmasentence_35"
     },
     {
@@ -2969,7 +2969,7 @@ stim_data = {
         "filename": "nld_barelemma_36"
     },
     {
-        "sentence": "də vrində bəʃloːtə təblɪmə",
+        "sentence": "də vrində bəʃloːtə tə blɪmə",
         "filename": "nld_lemmasentence_36"
     },
     {
@@ -2985,7 +2985,7 @@ stim_data = {
         "filename": "nld_barelemma_37"
     },
     {
-        "sentence": "də vrində bəʃloːtə tədrɪmə",
+        "sentence": "də vrində bəʃloːtə tə drɪmə",
         "filename": "nld_lemmasentence_37"
     },
     {
@@ -3001,7 +3001,7 @@ stim_data = {
         "filename": "nld_barelemma_38"
     },
     {
-        "sentence": "də vrində bəʃloːtə təknɪmə",
+        "sentence": "də vrində bəʃloːtə tə knɪmə",
         "filename": "nld_lemmasentence_38"
     },
     {
@@ -3017,7 +3017,7 @@ stim_data = {
         "filename": "nld_barelemma_39"
     },
     {
-        "sentence": "də vrində bəʃloːtə təzɛɪpə",
+        "sentence": "də vrində bəʃloːtə tə zɛɪpə",
         "filename": "nld_lemmasentence_39"
     },
     {
@@ -3033,7 +3033,7 @@ stim_data = {
         "filename": "nld_barelemma_40"
     },
     {
-        "sentence": "də vrində bəʃloːtə təstɛɪpə",
+        "sentence": "də vrində bəʃloːtə tə stɛɪpə",
         "filename": "nld_lemmasentence_40"
     },
     {
@@ -3049,7 +3049,7 @@ stim_data = {
         "filename": "nld_barelemma_41"
     },
     {
-        "sentence": "də vrində bəʃloːtə təklʊɪkə",
+        "sentence": "də vrində bəʃloːtə tə klʊɪkə",
         "filename": "nld_lemmasentence_41"
     },
     {
@@ -3065,7 +3065,7 @@ stim_data = {
         "filename": "nld_barelemma_42"
     },
     {
-        "sentence": "də vrində bəʃloːtə təzwɛŋə",
+        "sentence": "də vrində bəʃloːtə tə zwɛŋə",
         "filename": "nld_lemmasentence_42"
     },
     {
@@ -3081,7 +3081,7 @@ stim_data = {
         "filename": "nld_barelemma_43"
     },
     {
-        "sentence": "də vrində bəʃloːtə təklɛɪpə",
+        "sentence": "də vrində bəʃloːtə tə klɛɪpə",
         "filename": "nld_lemmasentence_43"
     },
     {
@@ -3097,7 +3097,7 @@ stim_data = {
         "filename": "nld_barelemma_44"
     },
     {
-        "sentence": "də vrində bəʃloːtə təzwɑŋə",
+        "sentence": "də vrində bəʃloːtə tə zwɑŋə",
         "filename": "nld_lemmasentence_44"
     },
     {
@@ -3113,7 +3113,7 @@ stim_data = {
         "filename": "nld_barelemma_45"
     },
     {
-        "sentence": "də vrində bəʃloːtə tətrɛɪpə",
+        "sentence": "də vrində bəʃloːtə tə trɛɪpə",
         "filename": "nld_lemmasentence_45"
     },
     {
@@ -3129,7 +3129,7 @@ stim_data = {
         "filename": "nld_barelemma_46"
     },
     {
-        "sentence": "də vrində bəʃloːtə təkrɛɪpə",
+        "sentence": "də vrində bəʃloːtə tə krɛɪpə",
         "filename": "nld_lemmasentence_46"
     },
     {
@@ -3145,7 +3145,7 @@ stim_data = {
         "filename": "nld_barelemma_47"
     },
     {
-        "sentence": "də vrində bəʃloːtə təklaːzə",
+        "sentence": "də vrində bəʃloːtə tə klaːzə",
         "filename": "nld_lemmasentence_47"
     },
     {
@@ -3161,7 +3161,7 @@ stim_data = {
         "filename": "nld_barelemma_48"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvlaːzə",
+        "sentence": "də vrində bəʃloːtə tə vlaːzə",
         "filename": "nld_lemmasentence_48"
     },
     {
@@ -3177,7 +3177,7 @@ stim_data = {
         "filename": "nld_barelemma_49"
     },
     {
-        "sentence": "də vrində bəʃloːtə təziːzə",
+        "sentence": "də vrində bəʃloːtə tə ziːzə",
         "filename": "nld_lemmasentence_49"
     },
     {
@@ -3193,7 +3193,7 @@ stim_data = {
         "filename": "nld_barelemma_50"
     },
     {
-        "sentence": "də vrində bəʃloːtə təɣeːkə",
+        "sentence": "də vrində bəʃloːtə tə ɣeːkə",
         "filename": "nld_lemmasentence_50"
     },
     {
@@ -3209,7 +3209,7 @@ stim_data = {
         "filename": "nld_barelemma_51"
     },
     {
-        "sentence": "də vrində bəʃloːtə təkreːkə",
+        "sentence": "də vrində bəʃloːtə tə kreːkə",
         "filename": "nld_lemmasentence_51"
     },
     {
@@ -3225,7 +3225,7 @@ stim_data = {
         "filename": "nld_barelemma_52"
     },
     {
-        "sentence": "də vrində bəʃloːtə tədreːkə",
+        "sentence": "də vrində bəʃloːtə tə dreːkə",
         "filename": "nld_lemmasentence_52"
     },
     {
@@ -3241,7 +3241,7 @@ stim_data = {
         "filename": "nld_barelemma_53"
     },
     {
-        "sentence": "də vrində bəʃloːtə təkneːkə",
+        "sentence": "də vrində bəʃloːtə tə kneːkə",
         "filename": "nld_lemmasentence_53"
     },
     {
@@ -3257,7 +3257,7 @@ stim_data = {
         "filename": "nld_barelemma_54"
     },
     {
-        "sentence": "də vrində bəʃloːtə təxeːkə",
+        "sentence": "də vrində bəʃloːtə tə xeːkə",
         "filename": "nld_lemmasentence_54"
     },
     {
@@ -3273,7 +3273,7 @@ stim_data = {
         "filename": "nld_barelemma_55"
     },
     {
-        "sentence": "də vrində bəʃloːtə təxlaːpə",
+        "sentence": "də vrində bəʃloːtə tə xlaːpə",
         "filename": "nld_lemmasentence_55"
     },
     {
@@ -3289,7 +3289,7 @@ stim_data = {
         "filename": "nld_barelemma_56"
     },
     {
-        "sentence": "də vrində bəʃloːtə təkruːpə",
+        "sentence": "də vrində bəʃloːtə tə kruːpə",
         "filename": "nld_lemmasentence_56"
     },
     {
@@ -3305,7 +3305,7 @@ stim_data = {
         "filename": "nld_barelemma_57"
     },
     {
-        "sentence": "də vrində bəʃloːtə təfruːpə",
+        "sentence": "də vrində bəʃloːtə tə fruːpə",
         "filename": "nld_lemmasentence_57"
     },
     {
@@ -3321,7 +3321,7 @@ stim_data = {
         "filename": "nld_barelemma_58"
     },
     {
-        "sentence": "də vrində bəʃloːtə təblaːpə",
+        "sentence": "də vrində bəʃloːtə tə blaːpə",
         "filename": "nld_lemmasentence_58"
     },
     {
@@ -3337,7 +3337,7 @@ stim_data = {
         "filename": "nld_barelemma_59"
     },
     {
-        "sentence": "də vrində bəʃloːtə təbruːpə",
+        "sentence": "də vrində bəʃloːtə tə bruːpə",
         "filename": "nld_lemmasentence_59"
     },
     {
@@ -3353,7 +3353,7 @@ stim_data = {
         "filename": "nld_barelemma_60"
     },
     {
-        "sentence": "də vrində bəʃloːtə təbraːɣə",
+        "sentence": "də vrində bəʃloːtə tə braːɣə",
         "filename": "nld_lemmasentence_60"
     },
     {
@@ -3369,7 +3369,7 @@ stim_data = {
         "filename": "nld_barelemma_61"
     },
     {
-        "sentence": "də vrində bəʃloːtə təkraːɣə",
+        "sentence": "də vrində bəʃloːtə tə kraːɣə",
         "filename": "nld_lemmasentence_61"
     },
     {
@@ -3385,7 +3385,7 @@ stim_data = {
         "filename": "nld_barelemma_62"
     },
     {
-        "sentence": "də vrində bəʃloːtə təblaːɣə",
+        "sentence": "də vrində bəʃloːtə tə blaːɣə",
         "filename": "nld_lemmasentence_62"
     },
     {
@@ -3401,7 +3401,7 @@ stim_data = {
         "filename": "nld_barelemma_63"
     },
     {
-        "sentence": "də vrində bəʃloːtə təwɛrɣə",
+        "sentence": "də vrində bəʃloːtə tə wɛrɣə",
         "filename": "nld_lemmasentence_63"
     },
     {
@@ -3417,7 +3417,7 @@ stim_data = {
         "filename": "nld_barelemma_64"
     },
     {
-        "sentence": "də vrində bəʃloːtə təkɛrɣə",
+        "sentence": "də vrində bəʃloːtə tə kɛrɣə",
         "filename": "nld_lemmasentence_64"
     },
     {
@@ -3433,7 +3433,7 @@ stim_data = {
         "filename": "nld_barelemma_65"
     },
     {
-        "sentence": "də vrində bəʃloːtə təbəraːɣə",
+        "sentence": "də vrində bəʃloːtə tə bəraːɣə",
         "filename": "nld_lemmasentence_65"
     },
     {
@@ -3449,7 +3449,7 @@ stim_data = {
         "filename": "nld_barelemma_66"
     },
     {
-        "sentence": "də vrində bəʃloːtə təɔntraːɣə",
+        "sentence": "də vrində bəʃloːtə tə ɔntraːɣə",
         "filename": "nld_lemmasentence_66"
     },
     {
@@ -3465,7 +3465,7 @@ stim_data = {
         "filename": "nld_barelemma_67"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvəraːɣə",
+        "sentence": "də vrində bəʃloːtə tə vəraːɣə",
         "filename": "nld_lemmasentence_67"
     },
     {
@@ -3481,7 +3481,7 @@ stim_data = {
         "filename": "nld_barelemma_68"
     },
     {
-        "sentence": "də vrində bəʃloːtə təɣiːzə",
+        "sentence": "də vrində bəʃloːtə tə ɣiːzə",
         "filename": "nld_lemmasentence_68"
     },
     {
@@ -3497,7 +3497,7 @@ stim_data = {
         "filename": "nld_barelemma_69"
     },
     {
-        "sentence": "də vrində bəʃloːtə təstiːzə",
+        "sentence": "də vrində bəʃloːtə tə stiːzə",
         "filename": "nld_lemmasentence_69"
     },
     {
@@ -3513,7 +3513,7 @@ stim_data = {
         "filename": "nld_barelemma_70"
     },
     {
-        "sentence": "də vrində bəʃloːtə təbriːzə",
+        "sentence": "də vrində bəʃloːtə tə briːzə",
         "filename": "nld_lemmasentence_70"
     },
     {
@@ -3529,7 +3529,7 @@ stim_data = {
         "filename": "nld_barelemma_71"
     },
     {
-        "sentence": "də vrində bəʃloːtə təkliːzə",
+        "sentence": "də vrində bəʃloːtə tə kliːzə",
         "filename": "nld_lemmasentence_71"
     },
     {
@@ -3545,7 +3545,7 @@ stim_data = {
         "filename": "nld_barelemma_72"
     },
     {
-        "sentence": "də vrində bəʃloːtə tətriːzə",
+        "sentence": "də vrində bəʃloːtə tə triːzə",
         "filename": "nld_lemmasentence_72"
     },
     {
@@ -3561,7 +3561,7 @@ stim_data = {
         "filename": "nld_barelemma_73"
     },
     {
-        "sentence": "də vrində bəʃloːtə təkriːzə",
+        "sentence": "də vrində bəʃloːtə tə kriːzə",
         "filename": "nld_lemmasentence_73"
     },
     {
@@ -3577,7 +3577,7 @@ stim_data = {
         "filename": "nld_barelemma_74"
     },
     {
-        "sentence": "də vrində bəʃloːtə tədriːzə",
+        "sentence": "də vrində bəʃloːtə tə driːzə",
         "filename": "nld_lemmasentence_74"
     },
     {
@@ -3593,7 +3593,7 @@ stim_data = {
         "filename": "nld_barelemma_75"
     },
     {
-        "sentence": "də vrində bəʃloːtə təfliːzə",
+        "sentence": "də vrində bəʃloːtə tə fliːzə",
         "filename": "nld_lemmasentence_75"
     },
     {
@@ -3609,7 +3609,7 @@ stim_data = {
         "filename": "nld_barelemma_76"
     },
     {
-        "sentence": "də vrində bəʃloːtə tətreːmə",
+        "sentence": "də vrində bəʃloːtə tə treːmə",
         "filename": "nld_lemmasentence_76"
     },
     {
@@ -3625,7 +3625,7 @@ stim_data = {
         "filename": "nld_barelemma_77"
     },
     {
-        "sentence": "də vrində bəʃloːtə təxeːmə",
+        "sentence": "də vrində bəʃloːtə tə xeːmə",
         "filename": "nld_lemmasentence_77"
     },
     {
@@ -3641,7 +3641,7 @@ stim_data = {
         "filename": "nld_barelemma_78"
     },
     {
-        "sentence": "də vrində bəʃloːtə təmeːmə",
+        "sentence": "də vrində bəʃloːtə tə meːmə",
         "filename": "nld_lemmasentence_78"
     },
     {
@@ -3657,7 +3657,7 @@ stim_data = {
         "filename": "nld_barelemma_79"
     },
     {
-        "sentence": "də vrində bəʃloːtə təkreːzə",
+        "sentence": "də vrində bəʃloːtə tə kreːzə",
         "filename": "nld_lemmasentence_79"
     },
     {
@@ -3673,7 +3673,7 @@ stim_data = {
         "filename": "nld_barelemma_80"
     },
     {
-        "sentence": "də vrində bəʃloːtə təneːzə",
+        "sentence": "də vrində bəʃloːtə tə neːzə",
         "filename": "nld_lemmasentence_80"
     },
     {
@@ -3689,7 +3689,7 @@ stim_data = {
         "filename": "nld_barelemma_81"
     },
     {
-        "sentence": "də vrində bəʃloːtə təveːzə",
+        "sentence": "də vrində bəʃloːtə tə veːzə",
         "filename": "nld_lemmasentence_81"
     },
     {
@@ -3705,7 +3705,7 @@ stim_data = {
         "filename": "nld_barelemma_82"
     },
     {
-        "sentence": "də vrində bəʃloːtə təɣeːzə",
+        "sentence": "də vrində bəʃloːtə tə ɣeːzə",
         "filename": "nld_lemmasentence_82"
     },
     {
@@ -3721,7 +3721,7 @@ stim_data = {
         "filename": "nld_barelemma_83"
     },
     {
-        "sentence": "də vrində bəʃloːtə tətreːzə",
+        "sentence": "də vrində bəʃloːtə tə treːzə",
         "filename": "nld_lemmasentence_83"
     },
     {
@@ -3737,7 +3737,7 @@ stim_data = {
         "filename": "nld_barelemma_84"
     },
     {
-        "sentence": "də vrində bəʃloːtə təxeːzə",
+        "sentence": "də vrində bəʃloːtə tə xeːzə",
         "filename": "nld_lemmasentence_84"
     },
     {
@@ -3753,7 +3753,7 @@ stim_data = {
         "filename": "nld_barelemma_85"
     },
     {
-        "sentence": "də vrində bəʃloːtə tədraːzə",
+        "sentence": "də vrində bəʃloːtə tə draːzə",
         "filename": "nld_lemmasentence_85"
     },
     {
@@ -3769,7 +3769,7 @@ stim_data = {
         "filename": "nld_barelemma_86"
     },
     {
-        "sentence": "də vrində bəʃloːtə tətraːzə",
+        "sentence": "də vrində bəʃloːtə tə traːzə",
         "filename": "nld_lemmasentence_86"
     },
     {
@@ -3785,7 +3785,7 @@ stim_data = {
         "filename": "nld_barelemma_87"
     },
     {
-        "sentence": "də vrində bəʃloːtə təslaːzə",
+        "sentence": "də vrində bəʃloːtə tə slaːzə",
         "filename": "nld_lemmasentence_87"
     },
     {
@@ -3801,7 +3801,7 @@ stim_data = {
         "filename": "nld_barelemma_88"
     },
     {
-        "sentence": "də vrində bəʃloːtə təplaːzə",
+        "sentence": "də vrində bəʃloːtə tə plaːzə",
         "filename": "nld_lemmasentence_88"
     },
     {
@@ -3817,7 +3817,7 @@ stim_data = {
         "filename": "nld_barelemma_89"
     },
     {
-        "sentence": "də vrində bəʃloːtə təzwɑsə",
+        "sentence": "də vrində bəʃloːtə tə zwɑsə",
         "filename": "nld_lemmasentence_89"
     },
     {
@@ -3833,7 +3833,7 @@ stim_data = {
         "filename": "nld_barelemma_90"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvɛɪsə",
+        "sentence": "də vrində bəʃloːtə tə vɛɪsə",
         "filename": "nld_lemmasentence_90"
     },
     {
@@ -3849,7 +3849,7 @@ stim_data = {
         "filename": "nld_barelemma_91"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvɑsə",
+        "sentence": "də vrində bəʃloːtə tə vɑsə",
         "filename": "nld_lemmasentence_91"
     },
     {
@@ -3865,7 +3865,7 @@ stim_data = {
         "filename": "nld_barelemma_92"
     },
     {
-        "sentence": "də vrində bəʃloːtə təkwɑsə",
+        "sentence": "də vrində bəʃloːtə tə kwɑsə",
         "filename": "nld_lemmasentence_92"
     },
     {
@@ -3881,7 +3881,7 @@ stim_data = {
         "filename": "nld_barelemma_93"
     },
     {
-        "sentence": "də vrində bəʃloːtə təjɪnə",
+        "sentence": "də vrində bəʃloːtə tə jɪnə",
         "filename": "nld_lemmasentence_93"
     },
     {
@@ -3897,7 +3897,7 @@ stim_data = {
         "filename": "nld_barelemma_94"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvɪnə",
+        "sentence": "də vrində bəʃloːtə tə vɪnə",
         "filename": "nld_lemmasentence_94"
     },
     {
@@ -3913,7 +3913,7 @@ stim_data = {
         "filename": "nld_barelemma_95"
     },
     {
-        "sentence": "də vrində bəʃloːtə təfɪnə",
+        "sentence": "də vrində bəʃloːtə tə fɪnə",
         "filename": "nld_lemmasentence_95"
     },
     {
@@ -3929,7 +3929,7 @@ stim_data = {
         "filename": "nld_barelemma_96"
     },
     {
-        "sentence": "də vrində bəʃloːtə təprɪnə",
+        "sentence": "də vrində bəʃloːtə tə prɪnə",
         "filename": "nld_lemmasentence_96"
     },
     {
@@ -3945,7 +3945,7 @@ stim_data = {
         "filename": "nld_barelemma_97"
     },
     {
-        "sentence": "də vrində bəʃloːtə təʃɪnə",
+        "sentence": "də vrində bəʃloːtə tə ʃɪnə",
         "filename": "nld_lemmasentence_97"
     },
     {
@@ -3961,7 +3961,7 @@ stim_data = {
         "filename": "nld_barelemma_98"
     },
     {
-        "sentence": "də vrində bəʃloːtə təbɪnə",
+        "sentence": "də vrində bəʃloːtə tə bɪnə",
         "filename": "nld_lemmasentence_98"
     },
     {
@@ -3977,7 +3977,7 @@ stim_data = {
         "filename": "nld_barelemma_99"
     },
     {
-        "sentence": "də vrində bəʃloːtə təkɪnə",
+        "sentence": "də vrində bəʃloːtə tə kɪnə",
         "filename": "nld_lemmasentence_99"
     },
     {
@@ -3993,7 +3993,7 @@ stim_data = {
         "filename": "nld_barelemma_100"
     },
     {
-        "sentence": "də vrində bəʃloːtə təxrɛɪkə",
+        "sentence": "də vrində bəʃloːtə tə xrɛɪkə",
         "filename": "nld_lemmasentence_100"
     },
     {
@@ -4009,7 +4009,7 @@ stim_data = {
         "filename": "nld_barelemma_101"
     },
     {
-        "sentence": "də vrində bəʃloːtə təsnɛɪkə",
+        "sentence": "də vrində bəʃloːtə tə snɛɪkə",
         "filename": "nld_lemmasentence_101"
     },
     {
@@ -4025,7 +4025,7 @@ stim_data = {
         "filename": "nld_barelemma_102"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvlɛɪkə",
+        "sentence": "də vrində bəʃloːtə tə vlɛɪkə",
         "filename": "nld_lemmasentence_102"
     },
     {
@@ -4041,7 +4041,7 @@ stim_data = {
         "filename": "nld_barelemma_103"
     },
     {
-        "sentence": "də vrində bəʃloːtə təxɛlpə",
+        "sentence": "də vrində bəʃloːtə tə xɛlpə",
         "filename": "nld_lemmasentence_103"
     },
     {
@@ -4057,7 +4057,7 @@ stim_data = {
         "filename": "nld_barelemma_104"
     },
     {
-        "sentence": "də vrində bəʃloːtə təwɛlpə",
+        "sentence": "də vrində bəʃloːtə tə wɛlpə",
         "filename": "nld_lemmasentence_104"
     },
     {
@@ -4073,7 +4073,7 @@ stim_data = {
         "filename": "nld_barelemma_105"
     },
     {
-        "sentence": "də vrində bəʃloːtə təbɛlpə",
+        "sentence": "də vrində bəʃloːtə tə bɛlpə",
         "filename": "nld_lemmasentence_105"
     },
     {
@@ -4089,7 +4089,7 @@ stim_data = {
         "filename": "nld_barelemma_106"
     },
     {
-        "sentence": "də vrində bəʃloːtə təsnʊɪpə",
+        "sentence": "də vrində bəʃloːtə tə snʊɪpə",
         "filename": "nld_lemmasentence_106"
     },
     {
@@ -4105,7 +4105,7 @@ stim_data = {
         "filename": "nld_barelemma_107"
     },
     {
-        "sentence": "də vrində bəʃloːtə təblʊɪpə",
+        "sentence": "də vrində bəʃloːtə tə blʊɪpə",
         "filename": "nld_lemmasentence_107"
     },
     {
@@ -4121,7 +4121,7 @@ stim_data = {
         "filename": "nld_barelemma_108"
     },
     {
-        "sentence": "də vrində bəʃloːtə təxrʊɪpə",
+        "sentence": "də vrində bəʃloːtə tə xrʊɪpə",
         "filename": "nld_lemmasentence_108"
     },
     {
@@ -4137,7 +4137,7 @@ stim_data = {
         "filename": "nld_barelemma_109"
     },
     {
-        "sentence": "də vrində bəʃloːtə təflɛɪpə",
+        "sentence": "də vrində bəʃloːtə tə flɛɪpə",
         "filename": "nld_lemmasentence_109"
     },
     {
@@ -4153,7 +4153,7 @@ stim_data = {
         "filename": "nld_barelemma_110"
     },
     {
-        "sentence": "də vrində bəʃloːtə təplɛɪpə",
+        "sentence": "də vrində bəʃloːtə tə plɛɪpə",
         "filename": "nld_lemmasentence_110"
     },
     {
@@ -4169,7 +4169,7 @@ stim_data = {
         "filename": "nld_barelemma_111"
     },
     {
-        "sentence": "də vrində bəʃloːtə təstrɛɪzə",
+        "sentence": "də vrində bəʃloːtə tə strɛɪzə",
         "filename": "nld_lemmasentence_111"
     },
     {
@@ -4185,7 +4185,7 @@ stim_data = {
         "filename": "nld_barelemma_112"
     },
     {
-        "sentence": "də vrində bəʃloːtə təsnɛɪzə",
+        "sentence": "də vrində bəʃloːtə tə snɛɪzə",
         "filename": "nld_lemmasentence_112"
     },
     {
@@ -4201,7 +4201,7 @@ stim_data = {
         "filename": "nld_barelemma_113"
     },
     {
-        "sentence": "də vrində bəʃloːtə tədrɛɪzə",
+        "sentence": "də vrində bəʃloːtə tə drɛɪzə",
         "filename": "nld_lemmasentence_113"
     },
     {
@@ -4217,7 +4217,7 @@ stim_data = {
         "filename": "nld_barelemma_114"
     },
     {
-        "sentence": "də vrində bəʃloːtə təbrɛɪzə",
+        "sentence": "də vrində bəʃloːtə tə brɛɪzə",
         "filename": "nld_lemmasentence_114"
     },
     {
@@ -4233,7 +4233,7 @@ stim_data = {
         "filename": "nld_barelemma_115"
     },
     {
-        "sentence": "də vrində bəʃloːtə tətrɛɪɣə",
+        "sentence": "də vrində bəʃloːtə tə trɛɪɣə",
         "filename": "nld_lemmasentence_115"
     },
     {
@@ -4249,7 +4249,7 @@ stim_data = {
         "filename": "nld_barelemma_116"
     },
     {
-        "sentence": "də vrində bəʃloːtə təxɛɪɣə",
+        "sentence": "də vrində bəʃloːtə tə xɛɪɣə",
         "filename": "nld_lemmasentence_116"
     },
     {
@@ -4265,7 +4265,7 @@ stim_data = {
         "filename": "nld_barelemma_117"
     },
     {
-        "sentence": "də vrində bəʃloːtə təxrɛɪɣə",
+        "sentence": "də vrində bəʃloːtə tə xrɛɪɣə",
         "filename": "nld_lemmasentence_117"
     },
     {
@@ -4281,7 +4281,7 @@ stim_data = {
         "filename": "nld_barelemma_118"
     },
     {
-        "sentence": "də vrində bəʃloːtə təsxɛɪɣə",
+        "sentence": "də vrində bəʃloːtə tə sxɛɪɣə",
         "filename": "nld_lemmasentence_118"
     },
     {
@@ -4297,7 +4297,7 @@ stim_data = {
         "filename": "nld_barelemma_119"
     },
     {
-        "sentence": "də vrində bəʃloːtə tənʊɪkə",
+        "sentence": "də vrində bəʃloːtə tə nʊɪkə",
         "filename": "nld_lemmasentence_119"
     },
     {
@@ -4313,7 +4313,7 @@ stim_data = {
         "filename": "nld_barelemma_120"
     },
     {
-        "sentence": "də vrində bəʃloːtə tətrʊɪkə",
+        "sentence": "də vrində bəʃloːtə tə trʊɪkə",
         "filename": "nld_lemmasentence_120"
     },
     {
@@ -4329,7 +4329,7 @@ stim_data = {
         "filename": "nld_barelemma_121"
     },
     {
-        "sentence": "də vrində bəʃloːtə təʃʊɪkə",
+        "sentence": "də vrində bəʃloːtə tə ʃʊɪkə",
         "filename": "nld_lemmasentence_121"
     },
     {
@@ -4345,7 +4345,7 @@ stim_data = {
         "filename": "nld_barelemma_122"
     },
     {
-        "sentence": "də vrində bəʃloːtə təzʊɪkə",
+        "sentence": "də vrində bəʃloːtə tə zʊɪkə",
         "filename": "nld_lemmasentence_122"
     },
     {
@@ -4361,7 +4361,7 @@ stim_data = {
         "filename": "nld_barelemma_123"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvɛɪkə",
+        "sentence": "də vrində bəʃloːtə tə vɛɪkə",
         "filename": "nld_lemmasentence_123"
     },
     {
@@ -4377,7 +4377,7 @@ stim_data = {
         "filename": "nld_barelemma_124"
     },
     {
-        "sentence": "də vrində bəʃloːtə təjʊɪkə",
+        "sentence": "də vrində bəʃloːtə tə jʊɪkə",
         "filename": "nld_lemmasentence_124"
     },
     {
@@ -4393,7 +4393,7 @@ stim_data = {
         "filename": "nld_barelemma_125"
     },
     {
-        "sentence": "də vrində bəʃloːtə təwʊɪkə",
+        "sentence": "də vrində bəʃloːtə tə wʊɪkə",
         "filename": "nld_lemmasentence_125"
     },
     {
@@ -4409,7 +4409,7 @@ stim_data = {
         "filename": "nld_barelemma_126"
     },
     {
-        "sentence": "də vrində bəʃloːtə təkʊɪkə",
+        "sentence": "də vrində bəʃloːtə tə kʊɪkə",
         "filename": "nld_lemmasentence_126"
     },
     {
@@ -4425,7 +4425,7 @@ stim_data = {
         "filename": "nld_barelemma_127"
     },
     {
-        "sentence": "də vrində bəʃloːtə təflɪmə",
+        "sentence": "də vrində bəʃloːtə tə flɪmə",
         "filename": "nld_lemmasentence_127"
     },
     {
@@ -4441,7 +4441,7 @@ stim_data = {
         "filename": "nld_barelemma_128"
     },
     {
-        "sentence": "də vrində bəʃloːtə təkrɪmə",
+        "sentence": "də vrində bəʃloːtə tə krɪmə",
         "filename": "nld_lemmasentence_128"
     },
     {
@@ -4457,7 +4457,7 @@ stim_data = {
         "filename": "nld_barelemma_129"
     },
     {
-        "sentence": "də vrində bəʃloːtə təlɪmə",
+        "sentence": "də vrində bəʃloːtə tə lɪmə",
         "filename": "nld_lemmasentence_129"
     },
     {
@@ -4473,7 +4473,7 @@ stim_data = {
         "filename": "nld_barelemma_130"
     },
     {
-        "sentence": "də vrində bəʃloːtə təzɪmə",
+        "sentence": "də vrində bəʃloːtə tə zɪmə",
         "filename": "nld_lemmasentence_130"
     },
     {
@@ -4489,7 +4489,7 @@ stim_data = {
         "filename": "nld_barelemma_131"
     },
     {
-        "sentence": "də vrində bəʃloːtə tətrɪŋə",
+        "sentence": "də vrində bəʃloːtə tə trɪŋə",
         "filename": "nld_lemmasentence_131"
     },
     {
@@ -4505,7 +4505,7 @@ stim_data = {
         "filename": "nld_barelemma_132"
     },
     {
-        "sentence": "də vrində bəʃloːtə təstɪŋə",
+        "sentence": "də vrində bəʃloːtə tə stɪŋə",
         "filename": "nld_lemmasentence_132"
     },
     {
@@ -4521,7 +4521,7 @@ stim_data = {
         "filename": "nld_barelemma_133"
     },
     {
-        "sentence": "də vrində bəʃloːtə təxrɪŋə",
+        "sentence": "də vrində bəʃloːtə tə xrɪŋə",
         "filename": "nld_lemmasentence_133"
     },
     {
@@ -4537,7 +4537,7 @@ stim_data = {
         "filename": "nld_barelemma_134"
     },
     {
-        "sentence": "də vrində bəʃloːtə təknɪŋə",
+        "sentence": "də vrində bəʃloːtə tə knɪŋə",
         "filename": "nld_lemmasentence_134"
     },
     {
@@ -4553,7 +4553,7 @@ stim_data = {
         "filename": "nld_barelemma_135"
     },
     {
-        "sentence": "də vrində bəʃloːtə təzwɪŋə",
+        "sentence": "də vrində bəʃloːtə tə zwɪŋə",
         "filename": "nld_lemmasentence_135"
     },
     {
@@ -4569,7 +4569,7 @@ stim_data = {
         "filename": "nld_barelemma_136"
     },
     {
-        "sentence": "də vrində bəʃloːtə təhɪŋə",
+        "sentence": "də vrində bəʃloːtə tə hɪŋə",
         "filename": "nld_lemmasentence_136"
     },
     {
@@ -4585,7 +4585,7 @@ stim_data = {
         "filename": "nld_barelemma_137"
     },
     {
-        "sentence": "də vrində bəʃloːtə təʃɛɪɣə",
+        "sentence": "də vrində bəʃloːtə tə ʃɛɪɣə",
         "filename": "nld_lemmasentence_137"
     },
     {
@@ -4601,7 +4601,7 @@ stim_data = {
         "filename": "nld_barelemma_138"
     },
     {
-        "sentence": "də vrində bəʃloːtə tədɛɪɣə",
+        "sentence": "də vrində bəʃloːtə tə dɛɪɣə",
         "filename": "nld_lemmasentence_138"
     },
     {
@@ -4617,7 +4617,7 @@ stim_data = {
         "filename": "nld_barelemma_139"
     },
     {
-        "sentence": "də vrində bəʃloːtə təmɛɪɣə",
+        "sentence": "də vrində bəʃloːtə tə mɛɪɣə",
         "filename": "nld_lemmasentence_139"
     },
     {
@@ -4633,7 +4633,7 @@ stim_data = {
         "filename": "nld_barelemma_140"
     },
     {
-        "sentence": "də vrində bəʃloːtə təklɛɪɣə",
+        "sentence": "də vrində bəʃloːtə tə klɛɪɣə",
         "filename": "nld_lemmasentence_140"
     },
     {
@@ -4649,7 +4649,7 @@ stim_data = {
         "filename": "nld_barelemma_141"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvɛɪɣə",
+        "sentence": "də vrində bəʃloːtə tə vɛɪɣə",
         "filename": "nld_lemmasentence_141"
     },
     {
@@ -4665,7 +4665,7 @@ stim_data = {
         "filename": "nld_barelemma_142"
     },
     {
-        "sentence": "də vrində bəʃloːtə təbɛɪɣə",
+        "sentence": "də vrində bəʃloːtə tə bɛɪɣə",
         "filename": "nld_lemmasentence_142"
     },
     {
@@ -4681,7 +4681,7 @@ stim_data = {
         "filename": "nld_barelemma_143"
     },
     {
-        "sentence": "də vrində bəʃloːtə təwɛɪɣə",
+        "sentence": "də vrində bəʃloːtə tə wɛɪɣə",
         "filename": "nld_lemmasentence_143"
     },
     {
@@ -4697,7 +4697,7 @@ stim_data = {
         "filename": "nld_barelemma_144"
     },
     {
-        "sentence": "də vrində bəʃloːtə təxɛlə",
+        "sentence": "də vrində bəʃloːtə tə xɛlə",
         "filename": "nld_lemmasentence_144"
     },
     {
@@ -4713,7 +4713,7 @@ stim_data = {
         "filename": "nld_barelemma_145"
     },
     {
-        "sentence": "də vrində bəʃloːtə təneːlə",
+        "sentence": "də vrində bəʃloːtə tə neːlə",
         "filename": "nld_lemmasentence_145"
     },
     {
@@ -4729,7 +4729,7 @@ stim_data = {
         "filename": "nld_barelemma_146"
     },
     {
-        "sentence": "də vrində bəʃloːtə təplɛɪzə",
+        "sentence": "də vrində bəʃloːtə tə plɛɪzə",
         "filename": "nld_lemmasentence_146"
     },
     {
@@ -4745,7 +4745,7 @@ stim_data = {
         "filename": "nld_barelemma_147"
     },
     {
-        "sentence": "də vrində bəʃloːtə təhɑlə",
+        "sentence": "də vrində bəʃloːtə tə hɑlə",
         "filename": "nld_lemmasentence_147"
     },
     {
@@ -4761,7 +4761,7 @@ stim_data = {
         "filename": "nld_barelemma_148"
     },
     {
-        "sentence": "də vrində bəʃloːtə təxɛɪnə",
+        "sentence": "də vrində bəʃloːtə tə xɛɪnə",
         "filename": "nld_lemmasentence_148"
     },
     {
@@ -4777,7 +4777,7 @@ stim_data = {
         "filename": "nld_barelemma_149"
     },
     {
-        "sentence": "də vrində bəʃloːtə təkrɛɪnə",
+        "sentence": "də vrində bəʃloːtə tə krɛɪnə",
         "filename": "nld_lemmasentence_149"
     },
     {
@@ -4793,7 +4793,7 @@ stim_data = {
         "filename": "nld_barelemma_150"
     },
     {
-        "sentence": "də vrində bəʃloːtə təvəraːvə",
+        "sentence": "də vrində bəʃloːtə tə vəraːvə",
         "filename": "nld_lemmasentence_150"
     },
     {
