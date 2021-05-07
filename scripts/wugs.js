@@ -4860,5 +4860,2464 @@ stim_data = {
         "sentence": "het was gisteren toen ze sliːsə",
         "filename": "nld_pastsentence2_155"
     }
+],
+        'deu': [
+    {
+        "sentence": "neːzən",
+        "filename": "deu_barelemma_1"
+    },
+    {
+        "sentence": "Der Mann beschloss zu neːzən",
+        "filename": "deu_lemmasentence_1"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəneːzən",
+        "filename": "deu_pastsentence1_1"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gənaːzən",
+        "filename": "deu_pastsentence2_1"
+    },
+    {
+        "sentence": "ʃteːtən",
+        "filename": "deu_barelemma_2"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ʃteːtən",
+        "filename": "deu_lemmasentence_2"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃtoːtən",
+        "filename": "deu_pastsentence1_2"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃtaːtən",
+        "filename": "deu_pastsentence2_2"
+    },
+    {
+        "sentence": "bəriːtən",
+        "filename": "deu_barelemma_3"
+    },
+    {
+        "sentence": "Der Mann beschloss zu bəriːtən",
+        "filename": "deu_lemmasentence_3"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern bəroːtən",
+        "filename": "deu_pastsentence1_3"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern bəriːtən",
+        "filename": "deu_pastsentence2_3"
+    },
+    {
+        "sentence": "frai̯tən",
+        "filename": "deu_barelemma_4"
+    },
+    {
+        "sentence": "Der Mann beschloss zu frai̯tən",
+        "filename": "deu_lemmasentence_4"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfrai̯tət",
+        "filename": "deu_pastsentence1_4"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfrɪtən",
+        "filename": "deu_pastsentence2_4"
+    },
+    {
+        "sentence": "dai̯tən",
+        "filename": "deu_barelemma_5"
+    },
+    {
+        "sentence": "Der Mann beschloss zu dai̯tən",
+        "filename": "deu_lemmasentence_5"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədai̯tət",
+        "filename": "deu_pastsentence1_5"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədiːtən",
+        "filename": "deu_pastsentence2_5"
+    },
+    {
+        "sentence": "ɛrtsɪŋən",
+        "filename": "deu_barelemma_6"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ɛrtsɪŋən",
+        "filename": "deu_lemmasentence_6"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrtsɪŋt",
+        "filename": "deu_pastsentence1_6"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrtsʊŋən",
+        "filename": "deu_pastsentence2_6"
+    },
+    {
+        "sentence": "tsvɛrən",
+        "filename": "deu_barelemma_7"
+    },
+    {
+        "sentence": "Der Mann beschloss zu tsvɛrən",
+        "filename": "deu_lemmasentence_7"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətsvɛrt",
+        "filename": "deu_pastsentence1_7"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətsvɔrən",
+        "filename": "deu_pastsentence2_7"
+    },
+    {
+        "sentence": "bəheːtən",
+        "filename": "deu_barelemma_8"
+    },
+    {
+        "sentence": "Der Mann beschloss zu bəheːtən",
+        "filename": "deu_lemmasentence_8"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern bəhoːtən",
+        "filename": "deu_pastsentence1_8"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern bəheːtən",
+        "filename": "deu_pastsentence2_8"
+    },
+    {
+        "sentence": "ɛrzai̯ən",
+        "filename": "deu_barelemma_9"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ɛrzai̯ən",
+        "filename": "deu_lemmasentence_9"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrzai̯n",
+        "filename": "deu_pastsentence1_9"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrzɔnən",
+        "filename": "deu_pastsentence2_9"
+    },
+    {
+        "sentence": "fɛrai̯ən",
+        "filename": "deu_barelemma_10"
+    },
+    {
+        "sentence": "Der Mann beschloss zu fɛrai̯ən",
+        "filename": "deu_lemmasentence_10"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern fɛrai̯t",
+        "filename": "deu_pastsentence1_10"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfɛrai̯t",
+        "filename": "deu_pastsentence2_10"
+    },
+    {
+        "sentence": "dɛrbən",
+        "filename": "deu_barelemma_11"
+    },
+    {
+        "sentence": "Der Mann beschloss zu dɛrbən",
+        "filename": "deu_lemmasentence_11"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədarbən",
+        "filename": "deu_pastsentence1_11"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədɛrpt",
+        "filename": "deu_pastsentence2_11"
+    },
+    {
+        "sentence": "vau̯fən",
+        "filename": "deu_barelemma_12"
+    },
+    {
+        "sentence": "Der Mann beschloss zu vau̯fən",
+        "filename": "deu_lemmasentence_12"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəvau̯ft",
+        "filename": "deu_pastsentence1_12"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəvɔfən",
+        "filename": "deu_pastsentence2_12"
+    },
+    {
+        "sentence": "krɪŋən",
+        "filename": "deu_barelemma_13"
+    },
+    {
+        "sentence": "Der Mann beschloss zu krɪŋən",
+        "filename": "deu_lemmasentence_13"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəkrʊŋən",
+        "filename": "deu_pastsentence1_13"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəkrɔŋən",
+        "filename": "deu_pastsentence2_13"
+    },
+    {
+        "sentence": "trɛstən",
+        "filename": "deu_barelemma_14"
+    },
+    {
+        "sentence": "Der Mann beschloss zu trɛstən",
+        "filename": "deu_lemmasentence_14"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətrɛstət",
+        "filename": "deu_pastsentence1_14"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətrɔstən",
+        "filename": "deu_pastsentence2_14"
+    },
+    {
+        "sentence": "tsvai̯ən",
+        "filename": "deu_barelemma_15"
+    },
+    {
+        "sentence": "Der Mann beschloss zu tsvai̯ən",
+        "filename": "deu_lemmasentence_15"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətsvai̯t",
+        "filename": "deu_pastsentence1_15"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətsvai̯n",
+        "filename": "deu_pastsentence2_15"
+    },
+    {
+        "sentence": "fɛraxtən",
+        "filename": "deu_barelemma_16"
+    },
+    {
+        "sentence": "Der Mann beschloss zu fɛraxtən",
+        "filename": "deu_lemmasentence_16"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern fɛraxtət",
+        "filename": "deu_pastsentence1_16"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfraxtət",
+        "filename": "deu_pastsentence2_16"
+    },
+    {
+        "sentence": "ʃɛltsən",
+        "filename": "deu_barelemma_17"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ʃɛltsən",
+        "filename": "deu_lemmasentence_17"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃɛltst",
+        "filename": "deu_pastsentence1_17"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃɔltsən",
+        "filename": "deu_pastsentence2_17"
+    },
+    {
+        "sentence": "fɛrheːən",
+        "filename": "deu_barelemma_18"
+    },
+    {
+        "sentence": "Der Mann beschloss zu fɛrheːən",
+        "filename": "deu_lemmasentence_18"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern fɛrhoːn",
+        "filename": "deu_pastsentence1_18"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern fɛrheːt",
+        "filename": "deu_pastsentence2_18"
+    },
+    {
+        "sentence": "trɛndən",
+        "filename": "deu_barelemma_19"
+    },
+    {
+        "sentence": "Der Mann beschloss zu trɛndən",
+        "filename": "deu_lemmasentence_19"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətrɛndət",
+        "filename": "deu_pastsentence1_19"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətrandət",
+        "filename": "deu_pastsentence2_19"
+    },
+    {
+        "sentence": "tsai̯dən",
+        "filename": "deu_barelemma_20"
+    },
+    {
+        "sentence": "Der Mann beschloss zu tsai̯dən",
+        "filename": "deu_lemmasentence_20"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətsai̯dət",
+        "filename": "deu_pastsentence1_20"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətsiːdən",
+        "filename": "deu_pastsentence2_20"
+    },
+    {
+        "sentence": "tsau̯fən",
+        "filename": "deu_barelemma_21"
+    },
+    {
+        "sentence": "Der Mann beschloss zu tsau̯fən",
+        "filename": "deu_lemmasentence_21"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətsau̯ft",
+        "filename": "deu_pastsentence1_21"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətsiːfən",
+        "filename": "deu_pastsentence2_21"
+    },
+    {
+        "sentence": "rɛsən",
+        "filename": "deu_barelemma_22"
+    },
+    {
+        "sentence": "Der Mann beschloss zu rɛsən",
+        "filename": "deu_lemmasentence_22"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gərɛsən",
+        "filename": "deu_pastsentence1_22"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gərɛst",
+        "filename": "deu_pastsentence2_22"
+    },
+    {
+        "sentence": "brɛftən",
+        "filename": "deu_barelemma_23"
+    },
+    {
+        "sentence": "Der Mann beschloss zu brɛftən",
+        "filename": "deu_lemmasentence_23"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbrɔftən",
+        "filename": "deu_pastsentence1_23"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbrɛftət",
+        "filename": "deu_pastsentence2_23"
+    },
+    {
+        "sentence": "ʃtai̯xən",
+        "filename": "deu_barelemma_24"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ʃtai̯xən",
+        "filename": "deu_lemmasentence_24"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃtiːxən",
+        "filename": "deu_pastsentence1_24"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃtai̯xt",
+        "filename": "deu_pastsentence2_24"
+    },
+    {
+        "sentence": "frɛndən",
+        "filename": "deu_barelemma_25"
+    },
+    {
+        "sentence": "Der Mann beschloss zu frɛndən",
+        "filename": "deu_lemmasentence_25"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfrɛndət",
+        "filename": "deu_pastsentence1_25"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfrandət",
+        "filename": "deu_pastsentence2_25"
+    },
+    {
+        "sentence": "bai̯ən",
+        "filename": "deu_barelemma_26"
+    },
+    {
+        "sentence": "Der Mann beschloss zu bai̯ən",
+        "filename": "deu_lemmasentence_26"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbai̯n",
+        "filename": "deu_pastsentence1_26"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbai̯t",
+        "filename": "deu_pastsentence2_26"
+    },
+    {
+        "sentence": "dɪndən",
+        "filename": "deu_barelemma_27"
+    },
+    {
+        "sentence": "Der Mann beschloss zu dɪndən",
+        "filename": "deu_lemmasentence_27"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədɪndət",
+        "filename": "deu_pastsentence1_27"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədʊndən",
+        "filename": "deu_pastsentence2_27"
+    },
+    {
+        "sentence": "ɛrzɪŋən",
+        "filename": "deu_barelemma_28"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ɛrzɪŋən",
+        "filename": "deu_lemmasentence_28"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrzʊŋən",
+        "filename": "deu_pastsentence1_28"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrzeŋən",
+        "filename": "deu_pastsentence2_28"
+    },
+    {
+        "sentence": "ʃɪsən",
+        "filename": "deu_barelemma_29"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ʃɪsən",
+        "filename": "deu_lemmasentence_29"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃʊsən",
+        "filename": "deu_pastsentence1_29"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃʊst",
+        "filename": "deu_pastsentence2_29"
+    },
+    {
+        "sentence": "fleːtən",
+        "filename": "deu_barelemma_30"
+    },
+    {
+        "sentence": "Der Mann beschloss zu fleːtən",
+        "filename": "deu_lemmasentence_30"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfleːtət",
+        "filename": "deu_pastsentence1_30"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfloːtən",
+        "filename": "deu_pastsentence2_30"
+    },
+    {
+        "sentence": "freːtən",
+        "filename": "deu_barelemma_31"
+    },
+    {
+        "sentence": "Der Mann beschloss zu freːtən",
+        "filename": "deu_lemmasentence_31"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfreːtən",
+        "filename": "deu_pastsentence1_31"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfroːtən",
+        "filename": "deu_pastsentence2_31"
+    },
+    {
+        "sentence": "bəhuːtən",
+        "filename": "deu_barelemma_32"
+    },
+    {
+        "sentence": "Der Mann beschloss zu bəhuːtən",
+        "filename": "deu_lemmasentence_32"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern bəhuːtət",
+        "filename": "deu_pastsentence1_32"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern bəhuːtən",
+        "filename": "deu_pastsentence2_32"
+    },
+    {
+        "sentence": "fruːtən",
+        "filename": "deu_barelemma_33"
+    },
+    {
+        "sentence": "Der Mann beschloss zu fruːtən",
+        "filename": "deu_lemmasentence_33"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfruːtət",
+        "filename": "deu_pastsentence1_33"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfruːtən",
+        "filename": "deu_pastsentence2_33"
+    },
+    {
+        "sentence": "ʊmai̯ən",
+        "filename": "deu_barelemma_34"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ʊmai̯ən",
+        "filename": "deu_lemmasentence_34"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ʊmai̯t",
+        "filename": "deu_pastsentence1_34"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʊmai̯t",
+        "filename": "deu_pastsentence2_34"
+    },
+    {
+        "sentence": "bai̯fən",
+        "filename": "deu_barelemma_35"
+    },
+    {
+        "sentence": "Der Mann beschloss zu bai̯fən",
+        "filename": "deu_lemmasentence_35"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbai̯fən",
+        "filename": "deu_pastsentence1_35"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbɪfən",
+        "filename": "deu_pastsentence2_35"
+    },
+    {
+        "sentence": "zɪsən",
+        "filename": "deu_barelemma_36"
+    },
+    {
+        "sentence": "Der Mann beschloss zu zɪsən",
+        "filename": "deu_lemmasentence_36"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəzʊsən",
+        "filename": "deu_pastsentence1_36"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəzɔsən",
+        "filename": "deu_pastsentence2_36"
+    },
+    {
+        "sentence": "fai̯fən",
+        "filename": "deu_barelemma_37"
+    },
+    {
+        "sentence": "Der Mann beschloss zu fai̯fən",
+        "filename": "deu_lemmasentence_37"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfai̯ft",
+        "filename": "deu_pastsentence1_37"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfɪfən",
+        "filename": "deu_pastsentence2_37"
+    },
+    {
+        "sentence": "ʃpreːbən",
+        "filename": "deu_barelemma_38"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ʃpreːbən",
+        "filename": "deu_lemmasentence_38"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃpreːpt",
+        "filename": "deu_pastsentence1_38"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃproːbən",
+        "filename": "deu_pastsentence2_38"
+    },
+    {
+        "sentence": "trai̯fən",
+        "filename": "deu_barelemma_39"
+    },
+    {
+        "sentence": "Der Mann beschloss zu trai̯fən",
+        "filename": "deu_lemmasentence_39"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətrai̯ft",
+        "filename": "deu_pastsentence1_39"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətriːfən",
+        "filename": "deu_pastsentence2_39"
+    },
+    {
+        "sentence": "dɛndən",
+        "filename": "deu_barelemma_40"
+    },
+    {
+        "sentence": "Der Mann beschloss zu dɛndən",
+        "filename": "deu_lemmasentence_40"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədandət",
+        "filename": "deu_pastsentence1_40"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədant",
+        "filename": "deu_pastsentence2_40"
+    },
+    {
+        "sentence": "ərai̯zən",
+        "filename": "deu_barelemma_41"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ərai̯zən",
+        "filename": "deu_lemmasentence_41"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gərai̯st",
+        "filename": "deu_pastsentence1_41"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern bərai̯st",
+        "filename": "deu_pastsentence2_41"
+    },
+    {
+        "sentence": "ʃtɛŋkən",
+        "filename": "deu_barelemma_42"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ʃtɛŋkən",
+        "filename": "deu_lemmasentence_42"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃtɛŋkt",
+        "filename": "deu_pastsentence1_42"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃtaxt",
+        "filename": "deu_pastsentence2_42"
+    },
+    {
+        "sentence": "ɛrhaːdən",
+        "filename": "deu_barelemma_43"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ɛrhaːdən",
+        "filename": "deu_lemmasentence_43"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrhaːdət",
+        "filename": "deu_pastsentence1_43"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrhaːdən",
+        "filename": "deu_pastsentence2_43"
+    },
+    {
+        "sentence": "blai̯dən",
+        "filename": "deu_barelemma_44"
+    },
+    {
+        "sentence": "Der Mann beschloss zu blai̯dən",
+        "filename": "deu_lemmasentence_44"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəblɪtən",
+        "filename": "deu_pastsentence1_44"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəblai̯dət",
+        "filename": "deu_pastsentence2_44"
+    },
+    {
+        "sentence": "ɛrtɪŋən",
+        "filename": "deu_barelemma_45"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ɛrtɪŋən",
+        "filename": "deu_lemmasentence_45"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrtʊŋən",
+        "filename": "deu_pastsentence1_45"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrtɪŋt",
+        "filename": "deu_pastsentence2_45"
+    },
+    {
+        "sentence": "ɛrfaːlən",
+        "filename": "deu_barelemma_46"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ɛrfaːlən",
+        "filename": "deu_lemmasentence_46"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrfaːlən",
+        "filename": "deu_pastsentence1_46"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrfaːlt",
+        "filename": "deu_pastsentence2_46"
+    },
+    {
+        "sentence": "dʏndən",
+        "filename": "deu_barelemma_47"
+    },
+    {
+        "sentence": "Der Mann beschloss zu dʏndən",
+        "filename": "deu_lemmasentence_47"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədʏndət",
+        "filename": "deu_pastsentence1_47"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədondət",
+        "filename": "deu_pastsentence2_47"
+    },
+    {
+        "sentence": "bai̯tən",
+        "filename": "deu_barelemma_48"
+    },
+    {
+        "sentence": "Der Mann beschloss zu bai̯tən",
+        "filename": "deu_lemmasentence_48"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbai̯tət",
+        "filename": "deu_pastsentence1_48"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbiːtən",
+        "filename": "deu_pastsentence2_48"
+    },
+    {
+        "sentence": "rai̯tən",
+        "filename": "deu_barelemma_49"
+    },
+    {
+        "sentence": "Der Mann beschloss zu rai̯tən",
+        "filename": "deu_lemmasentence_49"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gərɪtən",
+        "filename": "deu_pastsentence1_49"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gərai̯tət",
+        "filename": "deu_pastsentence2_49"
+    },
+    {
+        "sentence": "ɛːrən",
+        "filename": "deu_barelemma_50"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ɛːrən",
+        "filename": "deu_lemmasentence_50"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəɛːrt",
+        "filename": "deu_pastsentence1_50"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəɛːrən",
+        "filename": "deu_pastsentence2_50"
+    },
+    {
+        "sentence": "lau̯ən",
+        "filename": "deu_barelemma_51"
+    },
+    {
+        "sentence": "Der Mann beschloss zu lau̯ən",
+        "filename": "deu_lemmasentence_51"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəlau̯t",
+        "filename": "deu_pastsentence1_51"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəlau̯n",
+        "filename": "deu_pastsentence2_51"
+    },
+    {
+        "sentence": "røːən",
+        "filename": "deu_barelemma_52"
+    },
+    {
+        "sentence": "Der Mann beschloss zu røːən",
+        "filename": "deu_lemmasentence_52"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gərøːt",
+        "filename": "deu_pastsentence1_52"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gərøːtən",
+        "filename": "deu_pastsentence2_52"
+    },
+    {
+        "sentence": "ɔlən",
+        "filename": "deu_barelemma_53"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ɔlən",
+        "filename": "deu_lemmasentence_53"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəɔlt",
+        "filename": "deu_pastsentence1_53"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəɔlən",
+        "filename": "deu_pastsentence2_53"
+    },
+    {
+        "sentence": "reːbən",
+        "filename": "deu_barelemma_54"
+    },
+    {
+        "sentence": "Der Mann beschloss zu reːbən",
+        "filename": "deu_lemmasentence_54"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəreːpt",
+        "filename": "deu_pastsentence1_54"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəreːbən",
+        "filename": "deu_pastsentence2_54"
+    },
+    {
+        "sentence": "hɛlən",
+        "filename": "deu_barelemma_55"
+    },
+    {
+        "sentence": "Der Mann beschloss zu hɛlən",
+        "filename": "deu_lemmasentence_55"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhɛlt",
+        "filename": "deu_pastsentence1_55"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhɔlən",
+        "filename": "deu_pastsentence2_55"
+    },
+    {
+        "sentence": "rɛːən",
+        "filename": "deu_barelemma_56"
+    },
+    {
+        "sentence": "Der Mann beschloss zu rɛːən",
+        "filename": "deu_lemmasentence_56"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gərɛːt",
+        "filename": "deu_pastsentence1_56"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gərɛːtən",
+        "filename": "deu_pastsentence2_56"
+    },
+    {
+        "sentence": "aːxən",
+        "filename": "deu_barelemma_57"
+    },
+    {
+        "sentence": "Der Mann beschloss zu aːxən",
+        "filename": "deu_lemmasentence_57"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəaːxt",
+        "filename": "deu_pastsentence1_57"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəaːxən",
+        "filename": "deu_pastsentence2_57"
+    },
+    {
+        "sentence": "ʃai̯ən",
+        "filename": "deu_barelemma_58"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ʃai̯ən",
+        "filename": "deu_lemmasentence_58"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃiːn",
+        "filename": "deu_pastsentence1_58"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃai̯n",
+        "filename": "deu_pastsentence2_58"
+    },
+    {
+        "sentence": "alən",
+        "filename": "deu_barelemma_59"
+    },
+    {
+        "sentence": "Der Mann beschloss zu alən",
+        "filename": "deu_lemmasentence_59"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəalt",
+        "filename": "deu_pastsentence1_59"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəalən",
+        "filename": "deu_pastsentence2_59"
+    },
+    {
+        "sentence": "hiːən",
+        "filename": "deu_barelemma_60"
+    },
+    {
+        "sentence": "Der Mann beschloss zu hiːən",
+        "filename": "deu_lemmasentence_60"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhoːn",
+        "filename": "deu_pastsentence1_60"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhiːt",
+        "filename": "deu_pastsentence2_60"
+    },
+    {
+        "sentence": "fɪŋən",
+        "filename": "deu_barelemma_61"
+    },
+    {
+        "sentence": "Der Mann beschloss zu fɪŋən",
+        "filename": "deu_lemmasentence_61"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfʊŋən",
+        "filename": "deu_pastsentence1_61"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfɪŋt",
+        "filename": "deu_pastsentence2_61"
+    },
+    {
+        "sentence": "heːnən",
+        "filename": "deu_barelemma_62"
+    },
+    {
+        "sentence": "Der Mann beschloss zu heːnən",
+        "filename": "deu_lemmasentence_62"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəheːnt",
+        "filename": "deu_pastsentence1_62"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhoːnən",
+        "filename": "deu_pastsentence2_62"
+    },
+    {
+        "sentence": "ɛrlau̯ən",
+        "filename": "deu_barelemma_63"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ɛrlau̯ən",
+        "filename": "deu_lemmasentence_63"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrlau̯t",
+        "filename": "deu_pastsentence1_63"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrlau̯n",
+        "filename": "deu_pastsentence2_63"
+    },
+    {
+        "sentence": "miːən",
+        "filename": "deu_barelemma_64"
+    },
+    {
+        "sentence": "Der Mann beschloss zu miːən",
+        "filename": "deu_lemmasentence_64"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəmiːt",
+        "filename": "deu_pastsentence1_64"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəmoːt",
+        "filename": "deu_pastsentence2_64"
+    },
+    {
+        "sentence": "au̯fən",
+        "filename": "deu_barelemma_65"
+    },
+    {
+        "sentence": "Der Mann beschloss zu au̯fən",
+        "filename": "deu_lemmasentence_65"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəau̯ft",
+        "filename": "deu_pastsentence1_65"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəau̯fən",
+        "filename": "deu_pastsentence2_65"
+    },
+    {
+        "sentence": "meːən",
+        "filename": "deu_barelemma_66"
+    },
+    {
+        "sentence": "Der Mann beschloss zu meːən",
+        "filename": "deu_lemmasentence_66"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəmeːt",
+        "filename": "deu_pastsentence1_66"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəmeːn",
+        "filename": "deu_pastsentence2_66"
+    },
+    {
+        "sentence": "jau̯ən",
+        "filename": "deu_barelemma_67"
+    },
+    {
+        "sentence": "Der Mann beschloss zu jau̯ən",
+        "filename": "deu_lemmasentence_67"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəjau̯t",
+        "filename": "deu_pastsentence1_67"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəjau̯n",
+        "filename": "deu_pastsentence2_67"
+    },
+    {
+        "sentence": "dau̯ən",
+        "filename": "deu_barelemma_68"
+    },
+    {
+        "sentence": "Der Mann beschloss zu dau̯ən",
+        "filename": "deu_lemmasentence_68"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədau̯t",
+        "filename": "deu_pastsentence1_68"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədau̯n",
+        "filename": "deu_pastsentence2_68"
+    },
+    {
+        "sentence": "asən",
+        "filename": "deu_barelemma_69"
+    },
+    {
+        "sentence": "Der Mann beschloss zu asən",
+        "filename": "deu_lemmasentence_69"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəast",
+        "filename": "deu_pastsentence1_69"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəasən",
+        "filename": "deu_pastsentence2_69"
+    },
+    {
+        "sentence": "talən",
+        "filename": "deu_barelemma_70"
+    },
+    {
+        "sentence": "Der Mann beschloss zu talən",
+        "filename": "deu_lemmasentence_70"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətalt",
+        "filename": "deu_pastsentence1_70"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətalən",
+        "filename": "deu_pastsentence2_70"
+    },
+    {
+        "sentence": "haksən",
+        "filename": "deu_barelemma_71"
+    },
+    {
+        "sentence": "Der Mann beschloss zu haksən",
+        "filename": "deu_lemmasentence_71"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhakst",
+        "filename": "deu_pastsentence1_71"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhaksən",
+        "filename": "deu_pastsentence2_71"
+    },
+    {
+        "sentence": "aʃən",
+        "filename": "deu_barelemma_72"
+    },
+    {
+        "sentence": "Der Mann beschloss zu aʃən",
+        "filename": "deu_lemmasentence_72"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəaʃt",
+        "filename": "deu_pastsentence1_72"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəaʃən",
+        "filename": "deu_pastsentence2_72"
+    },
+    {
+        "sentence": "tai̯ən",
+        "filename": "deu_barelemma_73"
+    },
+    {
+        "sentence": "Der Mann beschloss zu tai̯ən",
+        "filename": "deu_lemmasentence_73"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətai̯t",
+        "filename": "deu_pastsentence1_73"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətiːn",
+        "filename": "deu_pastsentence2_73"
+    },
+    {
+        "sentence": "mau̯ən",
+        "filename": "deu_barelemma_74"
+    },
+    {
+        "sentence": "Der Mann beschloss zu mau̯ən",
+        "filename": "deu_lemmasentence_74"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəmau̯t",
+        "filename": "deu_pastsentence1_74"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəmau̯n",
+        "filename": "deu_pastsentence2_74"
+    },
+    {
+        "sentence": "hai̯ən",
+        "filename": "deu_barelemma_75"
+    },
+    {
+        "sentence": "Der Mann beschloss zu hai̯ən",
+        "filename": "deu_lemmasentence_75"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhiːn",
+        "filename": "deu_pastsentence1_75"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhai̯n",
+        "filename": "deu_pastsentence2_75"
+    },
+    {
+        "sentence": "lai̯fən",
+        "filename": "deu_barelemma_76"
+    },
+    {
+        "sentence": "Der Mann beschloss zu lai̯fən",
+        "filename": "deu_lemmasentence_76"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəliːfən",
+        "filename": "deu_pastsentence1_76"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəlai̯ft",
+        "filename": "deu_pastsentence2_76"
+    },
+    {
+        "sentence": "vʏlən",
+        "filename": "deu_barelemma_77"
+    },
+    {
+        "sentence": "Der Mann beschloss zu vʏlən",
+        "filename": "deu_lemmasentence_77"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəvʏlt",
+        "filename": "deu_pastsentence1_77"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəvʏlən",
+        "filename": "deu_pastsentence2_77"
+    },
+    {
+        "sentence": "tsau̯ən",
+        "filename": "deu_barelemma_78"
+    },
+    {
+        "sentence": "Der Mann beschloss zu tsau̯ən",
+        "filename": "deu_lemmasentence_78"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətsau̯t",
+        "filename": "deu_pastsentence1_78"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətsau̯n",
+        "filename": "deu_pastsentence2_78"
+    },
+    {
+        "sentence": "fiːən",
+        "filename": "deu_barelemma_79"
+    },
+    {
+        "sentence": "Der Mann beschloss zu fiːən",
+        "filename": "deu_lemmasentence_79"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfiːt",
+        "filename": "deu_pastsentence1_79"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfoːt",
+        "filename": "deu_pastsentence2_79"
+    },
+    {
+        "sentence": "feːən",
+        "filename": "deu_barelemma_80"
+    },
+    {
+        "sentence": "Der Mann beschloss zu feːən",
+        "filename": "deu_lemmasentence_80"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfeːt",
+        "filename": "deu_pastsentence1_80"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfeːn",
+        "filename": "deu_pastsentence2_80"
+    },
+    {
+        "sentence": "kai̯ən",
+        "filename": "deu_barelemma_81"
+    },
+    {
+        "sentence": "Der Mann beschloss zu kai̯ən",
+        "filename": "deu_lemmasentence_81"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəkai̯t",
+        "filename": "deu_pastsentence1_81"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəkai̯n",
+        "filename": "deu_pastsentence2_81"
+    },
+    {
+        "sentence": "piːən",
+        "filename": "deu_barelemma_82"
+    },
+    {
+        "sentence": "Der Mann beschloss zu piːən",
+        "filename": "deu_lemmasentence_82"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəpiːt",
+        "filename": "deu_pastsentence1_82"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəpoːn",
+        "filename": "deu_pastsentence2_82"
+    },
+    {
+        "sentence": "rasən",
+        "filename": "deu_barelemma_83"
+    },
+    {
+        "sentence": "Der Mann beschloss zu rasən",
+        "filename": "deu_lemmasentence_83"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gərast",
+        "filename": "deu_pastsentence1_83"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gərasən",
+        "filename": "deu_pastsentence2_83"
+    },
+    {
+        "sentence": "jeːən",
+        "filename": "deu_barelemma_84"
+    },
+    {
+        "sentence": "Der Mann beschloss zu jeːən",
+        "filename": "deu_lemmasentence_84"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəjeːt",
+        "filename": "deu_pastsentence1_84"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəjeːn",
+        "filename": "deu_pastsentence2_84"
+    },
+    {
+        "sentence": "zeːrən",
+        "filename": "deu_barelemma_85"
+    },
+    {
+        "sentence": "Der Mann beschloss zu zeːrən",
+        "filename": "deu_lemmasentence_85"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəzeːrt",
+        "filename": "deu_pastsentence1_85"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəzoːrən",
+        "filename": "deu_pastsentence2_85"
+    },
+    {
+        "sentence": "mɔlən",
+        "filename": "deu_barelemma_86"
+    },
+    {
+        "sentence": "Der Mann beschloss zu mɔlən",
+        "filename": "deu_lemmasentence_86"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəmɔlt",
+        "filename": "deu_pastsentence1_86"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəmɔlən",
+        "filename": "deu_pastsentence2_86"
+    },
+    {
+        "sentence": "ʃɛːrən",
+        "filename": "deu_barelemma_87"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ʃɛːrən",
+        "filename": "deu_lemmasentence_87"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃɛːrt",
+        "filename": "deu_pastsentence1_87"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃoːrən",
+        "filename": "deu_pastsentence2_87"
+    },
+    {
+        "sentence": "jɪŋən",
+        "filename": "deu_barelemma_88"
+    },
+    {
+        "sentence": "Der Mann beschloss zu jɪŋən",
+        "filename": "deu_lemmasentence_88"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəjʊŋən",
+        "filename": "deu_pastsentence1_88"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəjɪŋt",
+        "filename": "deu_pastsentence2_88"
+    },
+    {
+        "sentence": "bɛːnən",
+        "filename": "deu_barelemma_89"
+    },
+    {
+        "sentence": "Der Mann beschloss zu bɛːnən",
+        "filename": "deu_lemmasentence_89"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbɛːnt",
+        "filename": "deu_pastsentence1_89"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbaːnt",
+        "filename": "deu_pastsentence2_89"
+    },
+    {
+        "sentence": "ruːtən",
+        "filename": "deu_barelemma_90"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ruːtən",
+        "filename": "deu_lemmasentence_90"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəruːtət",
+        "filename": "deu_pastsentence1_90"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəruːtən",
+        "filename": "deu_pastsentence2_90"
+    },
+    {
+        "sentence": "nai̯ən",
+        "filename": "deu_barelemma_91"
+    },
+    {
+        "sentence": "Der Mann beschloss zu nai̯ən",
+        "filename": "deu_lemmasentence_91"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gənai̯t",
+        "filename": "deu_pastsentence1_91"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gənɪt",
+        "filename": "deu_pastsentence2_91"
+    },
+    {
+        "sentence": "ɛrai̯ən",
+        "filename": "deu_barelemma_92"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ɛrai̯ən",
+        "filename": "deu_lemmasentence_92"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrai̯t",
+        "filename": "deu_pastsentence1_92"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrai̯n",
+        "filename": "deu_pastsentence2_92"
+    },
+    {
+        "sentence": "ɛrzau̯ən",
+        "filename": "deu_barelemma_93"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ɛrzau̯ən",
+        "filename": "deu_lemmasentence_93"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrzɔtən",
+        "filename": "deu_pastsentence1_93"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrzau̯n",
+        "filename": "deu_pastsentence2_93"
+    },
+    {
+        "sentence": "brɛsən",
+        "filename": "deu_barelemma_94"
+    },
+    {
+        "sentence": "Der Mann beschloss zu brɛsən",
+        "filename": "deu_lemmasentence_94"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbrɔsən",
+        "filename": "deu_pastsentence1_94"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbrɛsən",
+        "filename": "deu_pastsentence2_94"
+    },
+    {
+        "sentence": "brɛndən",
+        "filename": "deu_barelemma_95"
+    },
+    {
+        "sentence": "Der Mann beschloss zu brɛndən",
+        "filename": "deu_lemmasentence_95"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbrɛndət",
+        "filename": "deu_pastsentence1_95"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbrandət",
+        "filename": "deu_pastsentence2_95"
+    },
+    {
+        "sentence": "dau̯fən",
+        "filename": "deu_barelemma_96"
+    },
+    {
+        "sentence": "Der Mann beschloss zu dau̯fən",
+        "filename": "deu_lemmasentence_96"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədɔfən",
+        "filename": "deu_pastsentence1_96"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədau̯ft",
+        "filename": "deu_pastsentence2_96"
+    },
+    {
+        "sentence": "ɛrbɪŋən",
+        "filename": "deu_barelemma_97"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ɛrbɪŋən",
+        "filename": "deu_lemmasentence_97"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrbeŋən",
+        "filename": "deu_pastsentence1_97"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrbʊŋən",
+        "filename": "deu_pastsentence2_97"
+    },
+    {
+        "sentence": "zai̯dən",
+        "filename": "deu_barelemma_98"
+    },
+    {
+        "sentence": "Der Mann beschloss zu zai̯dən",
+        "filename": "deu_lemmasentence_98"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəzai̯dət",
+        "filename": "deu_pastsentence1_98"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəzɔtən",
+        "filename": "deu_pastsentence2_98"
+    },
+    {
+        "sentence": "frɛstən",
+        "filename": "deu_barelemma_99"
+    },
+    {
+        "sentence": "Der Mann beschloss zu frɛstən",
+        "filename": "deu_lemmasentence_99"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfrɛstət",
+        "filename": "deu_pastsentence1_99"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfrɔstən",
+        "filename": "deu_pastsentence2_99"
+    },
+    {
+        "sentence": "ʃtrɪŋən",
+        "filename": "deu_barelemma_100"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ʃtrɪŋən",
+        "filename": "deu_lemmasentence_100"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃtrʊŋən",
+        "filename": "deu_pastsentence1_100"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃtraŋən",
+        "filename": "deu_pastsentence2_100"
+    },
+    {
+        "sentence": "brai̯ən",
+        "filename": "deu_barelemma_101"
+    },
+    {
+        "sentence": "Der Mann beschloss zu brai̯ən",
+        "filename": "deu_lemmasentence_101"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbrai̯t",
+        "filename": "deu_pastsentence1_101"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbriːn",
+        "filename": "deu_pastsentence2_101"
+    },
+    {
+        "sentence": "drɛftən",
+        "filename": "deu_barelemma_102"
+    },
+    {
+        "sentence": "Der Mann beschloss zu drɛftən",
+        "filename": "deu_lemmasentence_102"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədrɔftən",
+        "filename": "deu_pastsentence1_102"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədrɛftət",
+        "filename": "deu_pastsentence2_102"
+    },
+    {
+        "sentence": "əraːbən",
+        "filename": "deu_barelemma_103"
+    },
+    {
+        "sentence": "Der Mann beschloss zu əraːbən",
+        "filename": "deu_lemmasentence_103"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəraːbən",
+        "filename": "deu_pastsentence1_103"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəraːpt",
+        "filename": "deu_pastsentence2_103"
+    },
+    {
+        "sentence": "zau̯ən",
+        "filename": "deu_barelemma_104"
+    },
+    {
+        "sentence": "Der Mann beschloss zu zau̯ən",
+        "filename": "deu_lemmasentence_104"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəzau̯t",
+        "filename": "deu_pastsentence1_104"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəzɔt",
+        "filename": "deu_pastsentence2_104"
+    },
+    {
+        "sentence": "bruːtən",
+        "filename": "deu_barelemma_105"
+    },
+    {
+        "sentence": "Der Mann beschloss zu bruːtən",
+        "filename": "deu_lemmasentence_105"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbruːtət",
+        "filename": "deu_pastsentence1_105"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbruːtən",
+        "filename": "deu_pastsentence2_105"
+    },
+    {
+        "sentence": "ɛrluːdən",
+        "filename": "deu_barelemma_106"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ɛrluːdən",
+        "filename": "deu_lemmasentence_106"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrluːdət",
+        "filename": "deu_pastsentence1_106"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrluːdən",
+        "filename": "deu_pastsentence2_106"
+    },
+    {
+        "sentence": "vai̯ʃən",
+        "filename": "deu_barelemma_107"
+    },
+    {
+        "sentence": "Der Mann beschloss zu vai̯ʃən",
+        "filename": "deu_lemmasentence_107"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəvai̯ʃt",
+        "filename": "deu_pastsentence1_107"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəviːʃən",
+        "filename": "deu_pastsentence2_107"
+    },
+    {
+        "sentence": "tai̯dən",
+        "filename": "deu_barelemma_108"
+    },
+    {
+        "sentence": "Der Mann beschloss zu tai̯dən",
+        "filename": "deu_lemmasentence_108"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətai̯dət",
+        "filename": "deu_pastsentence1_108"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətiːdən",
+        "filename": "deu_pastsentence2_108"
+    },
+    {
+        "sentence": "hau̯fən",
+        "filename": "deu_barelemma_109"
+    },
+    {
+        "sentence": "Der Mann beschloss zu hau̯fən",
+        "filename": "deu_lemmasentence_109"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhau̯ft",
+        "filename": "deu_pastsentence1_109"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhiːfən",
+        "filename": "deu_pastsentence2_109"
+    },
+    {
+        "sentence": "flai̯ən",
+        "filename": "deu_barelemma_110"
+    },
+    {
+        "sentence": "Der Mann beschloss zu flai̯ən",
+        "filename": "deu_lemmasentence_110"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfliːn",
+        "filename": "deu_pastsentence1_110"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəflai̯t",
+        "filename": "deu_pastsentence2_110"
+    },
+    {
+        "sentence": "bəneːzən",
+        "filename": "deu_barelemma_111"
+    },
+    {
+        "sentence": "Der Mann beschloss zu bəneːzən",
+        "filename": "deu_lemmasentence_111"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern bəneːzən",
+        "filename": "deu_pastsentence1_111"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern bənaːzən",
+        "filename": "deu_pastsentence2_111"
+    },
+    {
+        "sentence": "hau̯bən",
+        "filename": "deu_barelemma_112"
+    },
+    {
+        "sentence": "Der Mann beschloss zu hau̯bən",
+        "filename": "deu_lemmasentence_112"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhau̯pt",
+        "filename": "deu_pastsentence1_112"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhau̯bən",
+        "filename": "deu_pastsentence2_112"
+    },
+    {
+        "sentence": "ɛreːtən",
+        "filename": "deu_barelemma_113"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ɛreːtən",
+        "filename": "deu_lemmasentence_113"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛreːtət",
+        "filename": "deu_pastsentence1_113"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛroːtən",
+        "filename": "deu_pastsentence2_113"
+    },
+    {
+        "sentence": "hiːtən",
+        "filename": "deu_barelemma_114"
+    },
+    {
+        "sentence": "Der Mann beschloss zu hiːtən",
+        "filename": "deu_lemmasentence_114"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhiːtət",
+        "filename": "deu_pastsentence1_114"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhoːtən",
+        "filename": "deu_pastsentence2_114"
+    },
+    {
+        "sentence": "jau̯fən",
+        "filename": "deu_barelemma_115"
+    },
+    {
+        "sentence": "Der Mann beschloss zu jau̯fən",
+        "filename": "deu_lemmasentence_115"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəjau̯ft",
+        "filename": "deu_pastsentence1_115"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəjɔfən",
+        "filename": "deu_pastsentence2_115"
+    },
+    {
+        "sentence": "raːbən",
+        "filename": "deu_barelemma_116"
+    },
+    {
+        "sentence": "Der Mann beschloss zu raːbən",
+        "filename": "deu_lemmasentence_116"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəraːpt",
+        "filename": "deu_pastsentence1_116"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəraːbən",
+        "filename": "deu_pastsentence2_116"
+    },
+    {
+        "sentence": "fai̯xən",
+        "filename": "deu_barelemma_117"
+    },
+    {
+        "sentence": "Der Mann beschloss zu fai̯xən",
+        "filename": "deu_lemmasentence_117"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfai̯xt",
+        "filename": "deu_pastsentence1_117"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfɪxən",
+        "filename": "deu_pastsentence2_117"
+    },
+    {
+        "sentence": "hai̯fən",
+        "filename": "deu_barelemma_118"
+    },
+    {
+        "sentence": "Der Mann beschloss zu hai̯fən",
+        "filename": "deu_lemmasentence_118"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhai̯ft",
+        "filename": "deu_pastsentence1_118"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhiːfən",
+        "filename": "deu_pastsentence2_118"
+    },
+    {
+        "sentence": "ɛrheːən",
+        "filename": "deu_barelemma_119"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ɛrheːən",
+        "filename": "deu_lemmasentence_119"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrhoːn",
+        "filename": "deu_pastsentence1_119"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern ɛrheːn",
+        "filename": "deu_pastsentence2_119"
+    },
+    {
+        "sentence": "əlai̯nən",
+        "filename": "deu_barelemma_120"
+    },
+    {
+        "sentence": "Der Mann beschloss zu əlai̯nən",
+        "filename": "deu_lemmasentence_120"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəlai̯nt",
+        "filename": "deu_pastsentence1_120"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern bəlai̯nt",
+        "filename": "deu_pastsentence2_120"
+    },
+    {
+        "sentence": "jai̯dən",
+        "filename": "deu_barelemma_121"
+    },
+    {
+        "sentence": "Der Mann beschloss zu jai̯dən",
+        "filename": "deu_lemmasentence_121"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəjai̯dət",
+        "filename": "deu_pastsentence1_121"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəjiːdən",
+        "filename": "deu_pastsentence2_121"
+    },
+    {
+        "sentence": "ʃpai̯nən",
+        "filename": "deu_barelemma_122"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ʃpai̯nən",
+        "filename": "deu_lemmasentence_122"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃpai̯nt",
+        "filename": "deu_pastsentence1_122"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʃpiːnən",
+        "filename": "deu_pastsentence2_122"
+    },
+    {
+        "sentence": "kɪŋən",
+        "filename": "deu_barelemma_123"
+    },
+    {
+        "sentence": "Der Mann beschloss zu kɪŋən",
+        "filename": "deu_lemmasentence_123"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəkʊŋən",
+        "filename": "deu_pastsentence1_123"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəkɪŋt",
+        "filename": "deu_pastsentence2_123"
+    },
+    {
+        "sentence": "jai̯fən",
+        "filename": "deu_barelemma_124"
+    },
+    {
+        "sentence": "Der Mann beschloss zu jai̯fən",
+        "filename": "deu_lemmasentence_124"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəjai̯ft",
+        "filename": "deu_pastsentence1_124"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəjiːfən",
+        "filename": "deu_pastsentence2_124"
+    },
+    {
+        "sentence": "rai̯dən",
+        "filename": "deu_barelemma_125"
+    },
+    {
+        "sentence": "Der Mann beschloss zu rai̯dən",
+        "filename": "deu_lemmasentence_125"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gərai̯dət",
+        "filename": "deu_pastsentence1_125"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəriːdən",
+        "filename": "deu_pastsentence2_125"
+    },
+    {
+        "sentence": "fɛrzaːən",
+        "filename": "deu_barelemma_126"
+    },
+    {
+        "sentence": "Der Mann beschloss zu fɛrzaːən",
+        "filename": "deu_lemmasentence_126"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern fɛrzaːn",
+        "filename": "deu_pastsentence1_126"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern fɛrzaːt",
+        "filename": "deu_pastsentence2_126"
+    },
+    {
+        "sentence": "kɛndən",
+        "filename": "deu_barelemma_127"
+    },
+    {
+        "sentence": "Der Mann beschloss zu kɛndən",
+        "filename": "deu_lemmasentence_127"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəkandət",
+        "filename": "deu_pastsentence1_127"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəkɛndət",
+        "filename": "deu_pastsentence2_127"
+    },
+    {
+        "sentence": "blai̯nən",
+        "filename": "deu_barelemma_128"
+    },
+    {
+        "sentence": "Der Mann beschloss zu blai̯nən",
+        "filename": "deu_lemmasentence_128"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəblai̯nt",
+        "filename": "deu_pastsentence1_128"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbliːnən",
+        "filename": "deu_pastsentence2_128"
+    },
+    {
+        "sentence": "fau̯fən",
+        "filename": "deu_barelemma_129"
+    },
+    {
+        "sentence": "Der Mann beschloss zu fau̯fən",
+        "filename": "deu_lemmasentence_129"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfau̯ft",
+        "filename": "deu_pastsentence1_129"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfɔfən",
+        "filename": "deu_pastsentence2_129"
+    },
+    {
+        "sentence": "drɪŋən",
+        "filename": "deu_barelemma_130"
+    },
+    {
+        "sentence": "Der Mann beschloss zu drɪŋən",
+        "filename": "deu_lemmasentence_130"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədrʊŋən",
+        "filename": "deu_pastsentence1_130"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gədrɔŋən",
+        "filename": "deu_pastsentence2_130"
+    },
+    {
+        "sentence": "frɪŋən",
+        "filename": "deu_barelemma_131"
+    },
+    {
+        "sentence": "Der Mann beschloss zu frɪŋən",
+        "filename": "deu_lemmasentence_131"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfrʊŋən",
+        "filename": "deu_pastsentence1_131"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfrɔŋən",
+        "filename": "deu_pastsentence2_131"
+    },
+    {
+        "sentence": "ʒɛŋən",
+        "filename": "deu_barelemma_132"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ʒɛŋən",
+        "filename": "deu_lemmasentence_132"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʒɛŋt",
+        "filename": "deu_pastsentence1_132"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəʒɛŋən",
+        "filename": "deu_pastsentence2_132"
+    },
+    {
+        "sentence": "biːən",
+        "filename": "deu_barelemma_133"
+    },
+    {
+        "sentence": "Der Mann beschloss zu biːən",
+        "filename": "deu_lemmasentence_133"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəboːn",
+        "filename": "deu_pastsentence1_133"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəboːt",
+        "filename": "deu_pastsentence2_133"
+    },
+    {
+        "sentence": "jai̯ən",
+        "filename": "deu_barelemma_134"
+    },
+    {
+        "sentence": "Der Mann beschloss zu jai̯ən",
+        "filename": "deu_lemmasentence_134"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəjai̯t",
+        "filename": "deu_pastsentence1_134"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəjai̯n",
+        "filename": "deu_pastsentence2_134"
+    },
+    {
+        "sentence": "ziːən",
+        "filename": "deu_barelemma_135"
+    },
+    {
+        "sentence": "Der Mann beschloss zu ziːən",
+        "filename": "deu_lemmasentence_135"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəziːt",
+        "filename": "deu_pastsentence1_135"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəzɔt",
+        "filename": "deu_pastsentence2_135"
+    },
+    {
+        "sentence": "fau̯ən",
+        "filename": "deu_barelemma_136"
+    },
+    {
+        "sentence": "Der Mann beschloss zu fau̯ən",
+        "filename": "deu_lemmasentence_136"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfau̯t",
+        "filename": "deu_pastsentence1_136"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfau̯n",
+        "filename": "deu_pastsentence2_136"
+    },
+    {
+        "sentence": "pau̯ən",
+        "filename": "deu_barelemma_137"
+    },
+    {
+        "sentence": "Der Mann beschloss zu pau̯ən",
+        "filename": "deu_lemmasentence_137"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəpau̯t",
+        "filename": "deu_pastsentence1_137"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəpau̯n",
+        "filename": "deu_pastsentence2_137"
+    },
+    {
+        "sentence": "jiːən",
+        "filename": "deu_barelemma_138"
+    },
+    {
+        "sentence": "Der Mann beschloss zu jiːən",
+        "filename": "deu_lemmasentence_138"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəjiːt",
+        "filename": "deu_pastsentence1_138"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəjoːn",
+        "filename": "deu_pastsentence2_138"
+    },
+    {
+        "sentence": "kleːrən",
+        "filename": "deu_barelemma_139"
+    },
+    {
+        "sentence": "Der Mann beschloss zu kleːrən",
+        "filename": "deu_lemmasentence_139"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəkleːrt",
+        "filename": "deu_pastsentence1_139"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəkloːrən",
+        "filename": "deu_pastsentence2_139"
+    },
+    {
+        "sentence": "tɛŋkən",
+        "filename": "deu_barelemma_140"
+    },
+    {
+        "sentence": "Der Mann beschloss zu tɛŋkən",
+        "filename": "deu_lemmasentence_140"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətɛŋkt",
+        "filename": "deu_pastsentence1_140"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətaxt",
+        "filename": "deu_pastsentence2_140"
+    },
+    {
+        "sentence": "bəreːtən",
+        "filename": "deu_barelemma_141"
+    },
+    {
+        "sentence": "Der Mann beschloss zu bəreːtən",
+        "filename": "deu_lemmasentence_141"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern bəreːtən",
+        "filename": "deu_pastsentence1_141"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern bəroːtən",
+        "filename": "deu_pastsentence2_141"
+    },
+    {
+        "sentence": "feːrən",
+        "filename": "deu_barelemma_142"
+    },
+    {
+        "sentence": "Der Mann beschloss zu feːrən",
+        "filename": "deu_lemmasentence_142"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfeːrt",
+        "filename": "deu_pastsentence1_142"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəfoːrən",
+        "filename": "deu_pastsentence2_142"
+    },
+    {
+        "sentence": "tsɪŋən",
+        "filename": "deu_barelemma_143"
+    },
+    {
+        "sentence": "Der Mann beschloss zu tsɪŋən",
+        "filename": "deu_lemmasentence_143"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətsɪŋt",
+        "filename": "deu_pastsentence1_143"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gətsʊŋən",
+        "filename": "deu_pastsentence2_143"
+    },
+    {
+        "sentence": "vɪŋən",
+        "filename": "deu_barelemma_144"
+    },
+    {
+        "sentence": "Der Mann beschloss zu vɪŋən",
+        "filename": "deu_lemmasentence_144"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəvʊŋən",
+        "filename": "deu_pastsentence1_144"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəvɪŋt",
+        "filename": "deu_pastsentence2_144"
+    },
+    {
+        "sentence": "heːnən",
+        "filename": "deu_barelemma_145"
+    },
+    {
+        "sentence": "Der Mann beschloss zu heːnən",
+        "filename": "deu_lemmasentence_145"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəheːnt",
+        "filename": "deu_pastsentence1_145"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhoːnən",
+        "filename": "deu_pastsentence2_145"
+    },
+    {
+        "sentence": "heːrən",
+        "filename": "deu_barelemma_146"
+    },
+    {
+        "sentence": "Der Mann beschloss zu heːrən",
+        "filename": "deu_lemmasentence_146"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəheːrt",
+        "filename": "deu_pastsentence1_146"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhoːrən",
+        "filename": "deu_pastsentence2_146"
+    },
+    {
+        "sentence": "zai̯ən",
+        "filename": "deu_barelemma_147"
+    },
+    {
+        "sentence": "Der Mann beschloss zu zai̯ən",
+        "filename": "deu_lemmasentence_147"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəzai̯t",
+        "filename": "deu_pastsentence1_147"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəzɔtən",
+        "filename": "deu_pastsentence2_147"
+    },
+    {
+        "sentence": "bəhiːbən",
+        "filename": "deu_barelemma_148"
+    },
+    {
+        "sentence": "Der Mann beschloss zu bəhiːbən",
+        "filename": "deu_lemmasentence_148"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern bəhoːbən",
+        "filename": "deu_pastsentence1_148"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern bəhiːpt",
+        "filename": "deu_pastsentence2_148"
+    },
+    {
+        "sentence": "kalən",
+        "filename": "deu_barelemma_149"
+    },
+    {
+        "sentence": "Der Mann beschloss zu kalən",
+        "filename": "deu_lemmasentence_149"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəkalt",
+        "filename": "deu_pastsentence1_149"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəkau̯lt",
+        "filename": "deu_pastsentence2_149"
+    },
+    {
+        "sentence": "hɔlən",
+        "filename": "deu_barelemma_150"
+    },
+    {
+        "sentence": "Der Mann beschloss zu hɔlən",
+        "filename": "deu_lemmasentence_150"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhɔlt",
+        "filename": "deu_pastsentence1_150"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəhɔlən",
+        "filename": "deu_pastsentence2_150"
+    },
+    {
+        "sentence": "pɔlən",
+        "filename": "deu_barelemma_153"
+    },
+    {
+        "sentence": "Der Mann beschloss zu pɔlən",
+        "filename": "deu_lemmasentence_153"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəpɔlt",
+        "filename": "deu_pastsentence1_153"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəpɔlən",
+        "filename": "deu_pastsentence2_153"
+    },
+    {
+        "sentence": "breːən",
+        "filename": "deu_barelemma_154"
+    },
+    {
+        "sentence": "Der Mann beschloss zu breːən",
+        "filename": "deu_lemmasentence_154"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbroːn",
+        "filename": "deu_pastsentence1_154"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəbreːt",
+        "filename": "deu_pastsentence2_154"
+    },
+    {
+        "sentence": "leːzən",
+        "filename": "deu_barelemma_155"
+    },
+    {
+        "sentence": "Der Mann beschloss zu leːzən",
+        "filename": "deu_lemmasentence_155"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəleːzən",
+        "filename": "deu_pastsentence1_155"
+    },
+    {
+        "sentence": "Der Mann hate erst gestern gəleːzət",
+        "filename": "deu_pastsentence2_155"
+    },
+    {
+        "sentence": "Bewegen Sie den Schieberegler ganz nach rechts und senden Sie ihn ab",
+        "filename": "deu_barelemma_151"
+    },
+    {
+        "sentence": "Bewegen Sie den Schieberegler ganz nach links und senden Sie ihn ab",
+        "filename": "deu_barelemma_152"
+    }
+    
 ]
 }
