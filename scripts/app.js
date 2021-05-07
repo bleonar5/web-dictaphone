@@ -143,7 +143,8 @@ if (navigator.mediaDevices.getUserMedia) {
           type:'POST',
           url:'/saveAudio.php',
           data:data,
-          contentType:'multipart/form-data',
+          processData: false,
+          contentType: false
 
         });
         stim_idx += 1;
