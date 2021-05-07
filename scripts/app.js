@@ -136,17 +136,6 @@ if (navigator.mediaDevices.getUserMedia) {
       confirm.onclick = function() {
         console.log('confirm');
         saveAs(blob,stim_data[stim_idx]['filename']);
-        let data = new FormData();
-        data.append('file',blob);
-        data.append('filename',stim_data[stim_idx]['filename']);
-        $.ajax({
-          type:'POST',
-          url:'/saveAudio.php',
-          data:data,
-          processData: false,
-          contentType: false
-
-        });
         stim_idx += 1;
         localStorage.setItem('stim_idx',stim_idx)
         $('#stim_idx').val(stim_idx);
