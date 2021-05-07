@@ -2409,15 +2409,15 @@ stim_data = {
         "filename": "nld_barelemma_1"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vərzoːpə",
+        "sentence": "de vrienden besloten te vərzoːpə",
         "filename": "nld_lemmasentence_1"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərzɔxtə",
+        "sentence": "het was gisteren toen ze vərzoːptə",
         "filename": "nld_pastsentence1_1"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərzoːptə",
+        "sentence": "het was gisteren toen ze vərzɔxtə",
         "filename": "nld_pastsentence2_1"
     },
     {
@@ -2425,15 +2425,15 @@ stim_data = {
         "filename": "nld_barelemma_2"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə ɔntwɛɪnə",
+        "sentence": "de vrienden besloten te ɔntwɛɪnə",
         "filename": "nld_lemmasentence_2"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɔntwɛɪndə",
+        "sentence": "het was gisteren toen ze ɔntwɛɪndə",
         "filename": "nld_pastsentence1_2"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɔntweːnə",
+        "sentence": "het was gisteren toen ze ɔntweːnə",
         "filename": "nld_pastsentence2_2"
     },
     {
@@ -2441,15 +2441,15 @@ stim_data = {
         "filename": "nld_barelemma_3"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vərzɛɪzə",
+        "sentence": "de vrienden besloten te vərzɛɪzə",
         "filename": "nld_lemmasentence_3"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərzɛɪzdə",
+        "sentence": "het was gisteren toen ze vərzɛɪzdə",
         "filename": "nld_pastsentence1_3"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərzeːzə",
+        "sentence": "het was gisteren toen ze vərzeːzə",
         "filename": "nld_pastsentence2_3"
     },
     {
@@ -2457,15 +2457,15 @@ stim_data = {
         "filename": "nld_barelemma_4"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vərhɑfə",
+        "sentence": "de vrienden besloten te vərhɑfə",
         "filename": "nld_lemmasentence_4"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərhɑftə",
+        "sentence": "het was gisteren toen ze vərhɑftə",
         "filename": "nld_pastsentence1_4"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərhiːvə",
+        "sentence": "het was gisteren toen ze vərhiːvə",
         "filename": "nld_pastsentence2_4"
     },
     {
@@ -2473,15 +2473,15 @@ stim_data = {
         "filename": "nld_barelemma_5"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə ɔntrɪŋkə",
+        "sentence": "de vrienden besloten te ɔntrɪŋkə",
         "filename": "nld_lemmasentence_5"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɔntrɪŋktə",
+        "sentence": "het was gisteren toen ze ɔntrɪŋktə",
         "filename": "nld_pastsentence1_5"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɔntrɔŋkə",
+        "sentence": "het was gisteren toen ze ɔntrɔŋkə",
         "filename": "nld_pastsentence2_5"
     },
     {
@@ -2489,15 +2489,15 @@ stim_data = {
         "filename": "nld_barelemma_6"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə straːpə",
+        "sentence": "de vrienden besloten te straːpə",
         "filename": "nld_lemmasentence_6"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə straːptə",
+        "sentence": "het was gisteren toen ze straːptə",
         "filename": "nld_pastsentence1_6"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə striːpə",
+        "sentence": "het was gisteren toen ze striːpə",
         "filename": "nld_pastsentence2_6"
     },
     {
@@ -2505,15 +2505,15 @@ stim_data = {
         "filename": "nld_barelemma_7"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vərheːkə",
+        "sentence": "de vrienden besloten te vərheːkə",
         "filename": "nld_lemmasentence_7"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərheːktə",
+        "sentence": "het was gisteren toen ze vərheːktə",
         "filename": "nld_pastsentence1_7"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərhaːkə",
+        "sentence": "het was gisteren toen ze vərhaːkə",
         "filename": "nld_pastsentence2_7"
     },
     {
@@ -2521,15 +2521,15 @@ stim_data = {
         "filename": "nld_barelemma_8"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vərbʊɪnə",
+        "sentence": "de vrienden besloten te vərbʊɪnə",
         "filename": "nld_lemmasentence_8"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərbʊɪndə",
+        "sentence": "het was gisteren toen ze vərbʊɪndə",
         "filename": "nld_pastsentence1_8"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərboːnə",
+        "sentence": "het was gisteren toen ze vərboːnə",
         "filename": "nld_pastsentence2_8"
     },
     {
@@ -2537,15 +2537,15 @@ stim_data = {
         "filename": "nld_barelemma_9"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vərdrɪkə",
+        "sentence": "de vrienden besloten te vərdrɪkə",
         "filename": "nld_lemmasentence_9"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərdrɪktə",
+        "sentence": "het was gisteren toen ze vərdrɪktə",
         "filename": "nld_pastsentence1_9"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərdrɔkə",
+        "sentence": "het was gisteren toen ze vərdrɔkə",
         "filename": "nld_pastsentence2_9"
     },
     {
@@ -2553,15 +2553,15 @@ stim_data = {
         "filename": "nld_barelemma_10"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vərzɛɪkə",
+        "sentence": "de vrienden besloten te vərzɛɪkə",
         "filename": "nld_lemmasentence_10"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərzɛɪktə",
+        "sentence": "het was gisteren toen ze vərzɛɪktə",
         "filename": "nld_pastsentence1_10"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərzeːkə",
+        "sentence": "het was gisteren toen ze vərzeːkə",
         "filename": "nld_pastsentence2_10"
     },
     {
@@ -2569,15 +2569,15 @@ stim_data = {
         "filename": "nld_barelemma_11"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vərdeːvə",
+        "sentence": "de vrienden besloten te vərdeːvə",
         "filename": "nld_lemmasentence_11"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərdeːvdə",
+        "sentence": "het was gisteren toen ze vərdeːvdə",
         "filename": "nld_pastsentence1_11"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərdaːvə",
+        "sentence": "het was gisteren toen ze vərdaːvə",
         "filename": "nld_pastsentence2_11"
     },
     {
@@ -2585,15 +2585,15 @@ stim_data = {
         "filename": "nld_barelemma_12"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vərlaːvə",
+        "sentence": "de vrienden besloten te vərlaːvə",
         "filename": "nld_lemmasentence_12"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərlaːvdə",
+        "sentence": "het was gisteren toen ze vərlaːvdə",
         "filename": "nld_pastsentence1_12"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərliːvə",
+        "sentence": "het was gisteren toen ze vərliːvə",
         "filename": "nld_pastsentence2_12"
     },
     {
@@ -2601,15 +2601,15 @@ stim_data = {
         "filename": "nld_barelemma_13"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə bəzeːlə",
+        "sentence": "de vrienden besloten te bəzeːlə",
         "filename": "nld_lemmasentence_13"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bəzeːldə",
+        "sentence": "het was gisteren toen ze bəzeːldə",
         "filename": "nld_pastsentence1_13"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bəzaːlə",
+        "sentence": "het was gisteren toen ze bəzaːlə",
         "filename": "nld_pastsentence2_13"
     },
     {
@@ -2617,15 +2617,15 @@ stim_data = {
         "filename": "nld_barelemma_14"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vərwɪŋkə",
+        "sentence": "de vrienden besloten te vərwɪŋkə",
         "filename": "nld_lemmasentence_14"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərwɪŋktə",
+        "sentence": "het was gisteren toen ze vərwɪŋktə",
         "filename": "nld_pastsentence1_14"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərwɔŋkə",
+        "sentence": "het was gisteren toen ze vərwɔŋkə",
         "filename": "nld_pastsentence2_14"
     },
     {
@@ -2633,15 +2633,15 @@ stim_data = {
         "filename": "nld_barelemma_15"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vərhʊɪkə",
+        "sentence": "de vrienden besloten te vərhʊɪkə",
         "filename": "nld_lemmasentence_15"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərhoːkə",
+        "sentence": "het was gisteren toen ze vərhʊɪktə",
         "filename": "nld_pastsentence1_15"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərhʊɪktə",
+        "sentence": "het was gisteren toen ze vərhoːkə",
         "filename": "nld_pastsentence2_15"
     },
     {
@@ -2649,15 +2649,15 @@ stim_data = {
         "filename": "nld_barelemma_16"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə bəlɛɪzə",
+        "sentence": "de vrienden besloten te bəlɛɪzə",
         "filename": "nld_lemmasentence_16"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bəlɛɪzdə",
+        "sentence": "het was gisteren toen ze bəlɛɪzdə",
         "filename": "nld_pastsentence1_16"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bəleːzə",
+        "sentence": "het was gisteren toen ze bəleːzə",
         "filename": "nld_pastsentence2_16"
     },
     {
@@ -2665,15 +2665,15 @@ stim_data = {
         "filename": "nld_barelemma_17"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə ɔntraːrə",
+        "sentence": "de vrienden besloten te ɔntraːrə",
         "filename": "nld_lemmasentence_17"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɔntraːrdə",
+        "sentence": "het was gisteren toen ze ɔntraːrdə",
         "filename": "nld_pastsentence1_17"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɔntriːrə",
+        "sentence": "het was gisteren toen ze ɔntriːrə",
         "filename": "nld_pastsentence2_17"
     },
     {
@@ -2681,15 +2681,15 @@ stim_data = {
         "filename": "nld_barelemma_18"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vərhɛɪnə",
+        "sentence": "de vrienden besloten te vərhɛɪnə",
         "filename": "nld_lemmasentence_18"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərhɛɪndə",
+        "sentence": "het was gisteren toen ze vərhɛɪndə",
         "filename": "nld_pastsentence1_18"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vərheːnə",
+        "sentence": "het was gisteren toen ze vərheːnə",
         "filename": "nld_pastsentence2_18"
     },
     {
@@ -2697,15 +2697,15 @@ stim_data = {
         "filename": "nld_barelemma_19"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə ɔntrʊɪkə",
+        "sentence": "de vrienden besloten te ɔntrʊɪkə",
         "filename": "nld_lemmasentence_19"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɔntroːkə",
+        "sentence": "het was gisteren toen ze ɔntrʊɪktə",
         "filename": "nld_pastsentence1_19"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɔntrʊɪktə",
+        "sentence": "het was gisteren toen ze ɔntroːkə",
         "filename": "nld_pastsentence2_19"
     },
     {
@@ -2713,15 +2713,15 @@ stim_data = {
         "filename": "nld_barelemma_20"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə meːzə",
+        "sentence": "de vrienden besloten te meːzə",
         "filename": "nld_lemmasentence_20"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə maːzə",
+        "sentence": "het was gisteren toen ze meːzdə",
         "filename": "nld_pastsentence1_20"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə meːzdə",
+        "sentence": "het was gisteren toen ze maːzə",
         "filename": "nld_pastsentence2_20"
     },
     {
@@ -2729,15 +2729,15 @@ stim_data = {
         "filename": "nld_barelemma_21"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə bɛɪzə",
+        "sentence": "de vrienden besloten te bɛɪzə",
         "filename": "nld_lemmasentence_21"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə beːzə",
+        "sentence": "het was gisteren toen ze bɛɪzdə",
         "filename": "nld_pastsentence1_21"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bɛɪzdə",
+        "sentence": "het was gisteren toen ze beːzə",
         "filename": "nld_pastsentence2_21"
     },
     {
@@ -2745,15 +2745,15 @@ stim_data = {
         "filename": "nld_barelemma_22"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə ʃɪŋkə",
+        "sentence": "de vrienden besloten te ʃɪŋkə",
         "filename": "nld_lemmasentence_22"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ʃɪŋktə",
+        "sentence": "het was gisteren toen ze ʃɪŋktə",
         "filename": "nld_pastsentence1_22"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ʃɔŋkə",
+        "sentence": "het was gisteren toen ze ʃɔŋkə",
         "filename": "nld_pastsentence2_22"
     },
     {
@@ -2761,31 +2761,31 @@ stim_data = {
         "filename": "nld_barelemma_23"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə tɛɪzə",
+        "sentence": "de vrienden besloten te tɛɪzə",
         "filename": "nld_lemmasentence_23"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə tɛɪzdə",
+        "sentence": "het was gisteren toen ze tɛɪzdə",
         "filename": "nld_pastsentence1_23"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə toːzə",
+        "sentence": "het was gisteren toen ze toːzə",
         "filename": "nld_pastsentence2_23"
     },
     {
-        "sentence": "drɑʊwə",
+        "sentence": "kɛɪɣə",
         "filename": "nld_barelemma_24"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə drɑʊwə",
+        "sentence": "de vrienden besloten te kɛɪɣə",
         "filename": "nld_lemmasentence_24"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə drɑʊwdə",
+        "sentence": "het was gisteren toen ze kɛɪɣdə",
         "filename": "nld_pastsentence1_24"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə drɑʊwdəstə",
+        "sentence": "het was gisteren toen ze keːɣə",
         "filename": "nld_pastsentence2_24"
     },
     {
@@ -2793,15 +2793,15 @@ stim_data = {
         "filename": "nld_barelemma_25"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə zʊɪvə",
+        "sentence": "de vrienden besloten te zʊɪvə",
         "filename": "nld_lemmasentence_25"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zoːvə",
+        "sentence": "het was gisteren toen ze zʊɪvdə",
         "filename": "nld_pastsentence1_25"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zʊɪvdə",
+        "sentence": "het was gisteren toen ze zoːvə",
         "filename": "nld_pastsentence2_25"
     },
     {
@@ -2809,15 +2809,15 @@ stim_data = {
         "filename": "nld_barelemma_26"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə krɪŋə",
+        "sentence": "de vrienden besloten te krɪŋə",
         "filename": "nld_lemmasentence_26"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə krɔŋə",
+        "sentence": "het was gisteren toen ze krɪŋdə",
         "filename": "nld_pastsentence1_26"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə krɪŋdə",
+        "sentence": "het was gisteren toen ze krɔŋə",
         "filename": "nld_pastsentence2_26"
     },
     {
@@ -2825,15 +2825,15 @@ stim_data = {
         "filename": "nld_barelemma_27"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə nɛɪvə",
+        "sentence": "de vrienden besloten te nɛɪvə",
         "filename": "nld_lemmasentence_27"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə neːvə",
+        "sentence": "het was gisteren toen ze nɛɪvdə",
         "filename": "nld_pastsentence1_27"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə nɛɪvdə",
+        "sentence": "het was gisteren toen ze neːvə",
         "filename": "nld_pastsentence2_27"
     },
     {
@@ -2841,15 +2841,15 @@ stim_data = {
         "filename": "nld_barelemma_28"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə tɛrvə",
+        "sentence": "de vrienden besloten te tɛrvə",
         "filename": "nld_lemmasentence_28"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə tɛrvdə",
+        "sentence": "het was gisteren toen ze tɛrvdə",
         "filename": "nld_pastsentence1_28"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə tiːrvə",
+        "sentence": "het was gisteren toen ze tiːrvə",
         "filename": "nld_pastsentence2_28"
     },
     {
@@ -2857,15 +2857,15 @@ stim_data = {
         "filename": "nld_barelemma_29"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə ɑsə",
+        "sentence": "de vrienden besloten te ɑsə",
         "filename": "nld_lemmasentence_29"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɑstə",
+        "sentence": "het was gisteren toen ze ɑstə",
         "filename": "nld_pastsentence1_29"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɑiːsə",
+        "sentence": "het was gisteren toen ze ɑiːsə",
         "filename": "nld_pastsentence2_29"
     },
     {
@@ -2873,15 +2873,15 @@ stim_data = {
         "filename": "nld_barelemma_30"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə tɛɪkə",
+        "sentence": "de vrienden besloten te tɛɪkə",
         "filename": "nld_lemmasentence_30"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə tɛɪktə",
+        "sentence": "het was gisteren toen ze tɛɪktə",
         "filename": "nld_pastsentence1_30"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə toːkə",
+        "sentence": "het was gisteren toen ze toːkə",
         "filename": "nld_pastsentence2_30"
     },
     {
@@ -2889,15 +2889,15 @@ stim_data = {
         "filename": "nld_barelemma_31"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə nuːzə",
+        "sentence": "de vrienden besloten te nuːzə",
         "filename": "nld_lemmasentence_31"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə nuːzdə",
+        "sentence": "het was gisteren toen ze nuːzdə",
         "filename": "nld_pastsentence1_31"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə nuːstə",
+        "sentence": "het was gisteren toen ze nuːstə",
         "filename": "nld_pastsentence2_31"
     },
     {
@@ -2905,15 +2905,15 @@ stim_data = {
         "filename": "nld_barelemma_32"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə zwɪŋkə",
+        "sentence": "de vrienden besloten te zwɪŋkə",
         "filename": "nld_lemmasentence_32"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zwɪŋktə",
+        "sentence": "het was gisteren toen ze zwɪŋktə",
         "filename": "nld_pastsentence1_32"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zwɔŋkə",
+        "sentence": "het was gisteren toen ze zwɔŋkə",
         "filename": "nld_pastsentence2_32"
     },
     {
@@ -2921,15 +2921,15 @@ stim_data = {
         "filename": "nld_barelemma_33"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə xrɪŋkə",
+        "sentence": "de vrienden besloten te xrɪŋkə",
         "filename": "nld_lemmasentence_33"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xrɔŋkə",
+        "sentence": "het was gisteren toen ze xrɪŋktə",
         "filename": "nld_pastsentence1_33"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xrɪŋktə",
+        "sentence": "het was gisteren toen ze xrɔŋkə",
         "filename": "nld_pastsentence2_33"
     },
     {
@@ -2937,15 +2937,15 @@ stim_data = {
         "filename": "nld_barelemma_34"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə trɪŋkə",
+        "sentence": "de vrienden besloten te trɪŋkə",
         "filename": "nld_lemmasentence_34"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə trɪŋktə",
+        "sentence": "het was gisteren toen ze trɪŋktə",
         "filename": "nld_pastsentence1_34"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə trɔŋkə",
+        "sentence": "het was gisteren toen ze trɔŋkə",
         "filename": "nld_pastsentence2_34"
     },
     {
@@ -2953,15 +2953,15 @@ stim_data = {
         "filename": "nld_barelemma_35"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə brɪŋkə",
+        "sentence": "de vrienden besloten te brɪŋkə",
         "filename": "nld_lemmasentence_35"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə brɔŋkə",
+        "sentence": "het was gisteren toen ze brɪŋktə",
         "filename": "nld_pastsentence1_35"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə brɪŋktə",
+        "sentence": "het was gisteren toen ze brɔŋkə",
         "filename": "nld_pastsentence2_35"
     },
     {
@@ -2969,15 +2969,15 @@ stim_data = {
         "filename": "nld_barelemma_36"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə blɪmə",
+        "sentence": "de vrienden besloten te blɪmə",
         "filename": "nld_lemmasentence_36"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə blɔmə",
+        "sentence": "het was gisteren toen ze blɪmdə",
         "filename": "nld_pastsentence1_36"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə blɪmdə",
+        "sentence": "het was gisteren toen ze blɔmə",
         "filename": "nld_pastsentence2_36"
     },
     {
@@ -2985,15 +2985,15 @@ stim_data = {
         "filename": "nld_barelemma_37"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə drɪmə",
+        "sentence": "de vrienden besloten te drɪmə",
         "filename": "nld_lemmasentence_37"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə drɔmə",
+        "sentence": "het was gisteren toen ze drɪmdə",
         "filename": "nld_pastsentence1_37"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə drɪmdə",
+        "sentence": "het was gisteren toen ze drɔmə",
         "filename": "nld_pastsentence2_37"
     },
     {
@@ -3001,15 +3001,15 @@ stim_data = {
         "filename": "nld_barelemma_38"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə knɪmə",
+        "sentence": "de vrienden besloten te knɪmə",
         "filename": "nld_lemmasentence_38"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə knɪmdə",
+        "sentence": "het was gisteren toen ze knɪmdə",
         "filename": "nld_pastsentence1_38"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə knɔmə",
+        "sentence": "het was gisteren toen ze knɔmə",
         "filename": "nld_pastsentence2_38"
     },
     {
@@ -3017,15 +3017,15 @@ stim_data = {
         "filename": "nld_barelemma_39"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə zɛɪpə",
+        "sentence": "de vrienden besloten te zɛɪpə",
         "filename": "nld_lemmasentence_39"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zeːpə",
+        "sentence": "het was gisteren toen ze zɛɪptə",
         "filename": "nld_pastsentence1_39"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zɛɪptə",
+        "sentence": "het was gisteren toen ze zeːpə",
         "filename": "nld_pastsentence2_39"
     },
     {
@@ -3033,15 +3033,15 @@ stim_data = {
         "filename": "nld_barelemma_40"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə stɛɪpə",
+        "sentence": "de vrienden besloten te stɛɪpə",
         "filename": "nld_lemmasentence_40"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə steːpə",
+        "sentence": "het was gisteren toen ze stɛɪptə",
         "filename": "nld_pastsentence1_40"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə stɛɪptə",
+        "sentence": "het was gisteren toen ze steːpə",
         "filename": "nld_pastsentence2_40"
     },
     {
@@ -3049,15 +3049,15 @@ stim_data = {
         "filename": "nld_barelemma_41"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə klʊɪkə",
+        "sentence": "de vrienden besloten te klʊɪkə",
         "filename": "nld_lemmasentence_41"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kloːkə",
+        "sentence": "het was gisteren toen ze klʊɪktə",
         "filename": "nld_pastsentence1_41"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə klʊɪktə",
+        "sentence": "het was gisteren toen ze kloːkə",
         "filename": "nld_pastsentence2_41"
     },
     {
@@ -3065,15 +3065,15 @@ stim_data = {
         "filename": "nld_barelemma_42"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə zwɛŋə",
+        "sentence": "de vrienden besloten te zwɛŋə",
         "filename": "nld_lemmasentence_42"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zwɔŋə",
+        "sentence": "het was gisteren toen ze zwɛŋdə",
         "filename": "nld_pastsentence1_42"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zwɛŋdə",
+        "sentence": "het was gisteren toen ze zwɔŋə",
         "filename": "nld_pastsentence2_42"
     },
     {
@@ -3081,15 +3081,15 @@ stim_data = {
         "filename": "nld_barelemma_43"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə klɛɪpə",
+        "sentence": "de vrienden besloten te klɛɪpə",
         "filename": "nld_lemmasentence_43"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kleːpə",
+        "sentence": "het was gisteren toen ze klɛɪptə",
         "filename": "nld_pastsentence1_43"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə klɛɪptə",
+        "sentence": "het was gisteren toen ze kleːpə",
         "filename": "nld_pastsentence2_43"
     },
     {
@@ -3097,15 +3097,15 @@ stim_data = {
         "filename": "nld_barelemma_44"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə zwɑŋə",
+        "sentence": "de vrienden besloten te zwɑŋə",
         "filename": "nld_lemmasentence_44"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zwɑŋdə",
+        "sentence": "het was gisteren toen ze zwɑŋdə",
         "filename": "nld_pastsentence1_44"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zwɪŋdə",
+        "sentence": "het was gisteren toen ze zwɪŋdə",
         "filename": "nld_pastsentence2_44"
     },
     {
@@ -3113,15 +3113,15 @@ stim_data = {
         "filename": "nld_barelemma_45"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə trɛɪpə",
+        "sentence": "de vrienden besloten te trɛɪpə",
         "filename": "nld_lemmasentence_45"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə treːpə",
+        "sentence": "het was gisteren toen ze trɛɪptə",
         "filename": "nld_pastsentence1_45"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə trɛɪptə",
+        "sentence": "het was gisteren toen ze treːpə",
         "filename": "nld_pastsentence2_45"
     },
     {
@@ -3129,15 +3129,15 @@ stim_data = {
         "filename": "nld_barelemma_46"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə krɛɪpə",
+        "sentence": "de vrienden besloten te krɛɪpə",
         "filename": "nld_lemmasentence_46"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kreːpə",
+        "sentence": "het was gisteren toen ze krɛɪptə",
         "filename": "nld_pastsentence1_46"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə krɛɪptə",
+        "sentence": "het was gisteren toen ze kreːpə",
         "filename": "nld_pastsentence2_46"
     },
     {
@@ -3145,15 +3145,15 @@ stim_data = {
         "filename": "nld_barelemma_47"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə klaːzə",
+        "sentence": "de vrienden besloten te klaːzə",
         "filename": "nld_lemmasentence_47"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kliːzə",
+        "sentence": "het was gisteren toen ze klaːzdə",
         "filename": "nld_pastsentence1_47"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə klaːzdə",
+        "sentence": "het was gisteren toen ze kliːzə",
         "filename": "nld_pastsentence2_47"
     },
     {
@@ -3161,15 +3161,15 @@ stim_data = {
         "filename": "nld_barelemma_48"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vlaːzə",
+        "sentence": "de vrienden besloten te vlaːzə",
         "filename": "nld_lemmasentence_48"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vliːzə",
+        "sentence": "het was gisteren toen ze vlaːzdə",
         "filename": "nld_pastsentence1_48"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vlaːzdə",
+        "sentence": "het was gisteren toen ze vliːzə",
         "filename": "nld_pastsentence2_48"
     },
     {
@@ -3177,15 +3177,15 @@ stim_data = {
         "filename": "nld_barelemma_49"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə ziːzə",
+        "sentence": "de vrienden besloten te ziːzə",
         "filename": "nld_lemmasentence_49"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ziːzdə",
+        "sentence": "het was gisteren toen ze ziːzdə",
         "filename": "nld_pastsentence1_49"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ziːstə",
+        "sentence": "het was gisteren toen ze ziːstə",
         "filename": "nld_pastsentence2_49"
     },
     {
@@ -3193,15 +3193,15 @@ stim_data = {
         "filename": "nld_barelemma_50"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə ɣeːkə",
+        "sentence": "de vrienden besloten te ɣeːkə",
         "filename": "nld_lemmasentence_50"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɣaːkə",
+        "sentence": "het was gisteren toen ze ɣeːktə",
         "filename": "nld_pastsentence1_50"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɣeːktə",
+        "sentence": "het was gisteren toen ze ɣaːkə",
         "filename": "nld_pastsentence2_50"
     },
     {
@@ -3209,15 +3209,15 @@ stim_data = {
         "filename": "nld_barelemma_51"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə kreːkə",
+        "sentence": "de vrienden besloten te kreːkə",
         "filename": "nld_lemmasentence_51"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kreːktə",
+        "sentence": "het was gisteren toen ze kreːktə",
         "filename": "nld_pastsentence1_51"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kraːkə",
+        "sentence": "het was gisteren toen ze kraːkə",
         "filename": "nld_pastsentence2_51"
     },
     {
@@ -3225,15 +3225,15 @@ stim_data = {
         "filename": "nld_barelemma_52"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə dreːkə",
+        "sentence": "de vrienden besloten te dreːkə",
         "filename": "nld_lemmasentence_52"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə dreːktə",
+        "sentence": "het was gisteren toen ze dreːktə",
         "filename": "nld_pastsentence1_52"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə draːkə",
+        "sentence": "het was gisteren toen ze draːkə",
         "filename": "nld_pastsentence2_52"
     },
     {
@@ -3241,15 +3241,15 @@ stim_data = {
         "filename": "nld_barelemma_53"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə kneːkə",
+        "sentence": "de vrienden besloten te kneːkə",
         "filename": "nld_lemmasentence_53"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kneːktə",
+        "sentence": "het was gisteren toen ze kneːktə",
         "filename": "nld_pastsentence1_53"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə knaːkə",
+        "sentence": "het was gisteren toen ze knaːkə",
         "filename": "nld_pastsentence2_53"
     },
     {
@@ -3257,15 +3257,15 @@ stim_data = {
         "filename": "nld_barelemma_54"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə xeːkə",
+        "sentence": "de vrienden besloten te xeːkə",
         "filename": "nld_lemmasentence_54"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xeːktə",
+        "sentence": "het was gisteren toen ze xeːktə",
         "filename": "nld_pastsentence1_54"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xaːkə",
+        "sentence": "het was gisteren toen ze xaːkə",
         "filename": "nld_pastsentence2_54"
     },
     {
@@ -3273,15 +3273,15 @@ stim_data = {
         "filename": "nld_barelemma_55"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə xlaːpə",
+        "sentence": "de vrienden besloten te xlaːpə",
         "filename": "nld_lemmasentence_55"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xliːpə",
+        "sentence": "het was gisteren toen ze xlaːptə",
         "filename": "nld_pastsentence1_55"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xlaːptə",
+        "sentence": "het was gisteren toen ze xliːpə",
         "filename": "nld_pastsentence2_55"
     },
     {
@@ -3289,15 +3289,15 @@ stim_data = {
         "filename": "nld_barelemma_56"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə kruːpə",
+        "sentence": "de vrienden besloten te kruːpə",
         "filename": "nld_lemmasentence_56"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kruːptə",
+        "sentence": "het was gisteren toen ze kruːptə",
         "filename": "nld_pastsentence1_56"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kriːpə",
+        "sentence": "het was gisteren toen ze kriːpə",
         "filename": "nld_pastsentence2_56"
     },
     {
@@ -3305,15 +3305,15 @@ stim_data = {
         "filename": "nld_barelemma_57"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə fruːpə",
+        "sentence": "de vrienden besloten te fruːpə",
         "filename": "nld_lemmasentence_57"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə fruːptə",
+        "sentence": "het was gisteren toen ze fruːptə",
         "filename": "nld_pastsentence1_57"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə friːpə",
+        "sentence": "het was gisteren toen ze friːpə",
         "filename": "nld_pastsentence2_57"
     },
     {
@@ -3321,15 +3321,15 @@ stim_data = {
         "filename": "nld_barelemma_58"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə blaːpə",
+        "sentence": "de vrienden besloten te blaːpə",
         "filename": "nld_lemmasentence_58"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bliːpə",
+        "sentence": "het was gisteren toen ze blaːptə",
         "filename": "nld_pastsentence1_58"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə blaːptə",
+        "sentence": "het was gisteren toen ze bliːpə",
         "filename": "nld_pastsentence2_58"
     },
     {
@@ -3337,15 +3337,15 @@ stim_data = {
         "filename": "nld_barelemma_59"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə bruːpə",
+        "sentence": "de vrienden besloten te bruːpə",
         "filename": "nld_lemmasentence_59"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə briːpə",
+        "sentence": "het was gisteren toen ze bruːptə",
         "filename": "nld_pastsentence1_59"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bruːptə",
+        "sentence": "het was gisteren toen ze briːpə",
         "filename": "nld_pastsentence2_59"
     },
     {
@@ -3353,15 +3353,15 @@ stim_data = {
         "filename": "nld_barelemma_60"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə braːɣə",
+        "sentence": "de vrienden besloten te braːɣə",
         "filename": "nld_lemmasentence_60"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə braːɣdə",
+        "sentence": "het was gisteren toen ze braːɣdə",
         "filename": "nld_pastsentence1_60"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bruːɣə",
+        "sentence": "het was gisteren toen ze bruːɣə",
         "filename": "nld_pastsentence2_60"
     },
     {
@@ -3369,15 +3369,15 @@ stim_data = {
         "filename": "nld_barelemma_61"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə kraːɣə",
+        "sentence": "de vrienden besloten te kraːɣə",
         "filename": "nld_lemmasentence_61"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kruːɣə",
+        "sentence": "het was gisteren toen ze kraːɣdə",
         "filename": "nld_pastsentence1_61"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kraːɣdə",
+        "sentence": "het was gisteren toen ze kruːɣə",
         "filename": "nld_pastsentence2_61"
     },
     {
@@ -3385,15 +3385,15 @@ stim_data = {
         "filename": "nld_barelemma_62"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə blaːɣə",
+        "sentence": "de vrienden besloten te blaːɣə",
         "filename": "nld_lemmasentence_62"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə blaːɣdə",
+        "sentence": "het was gisteren toen ze blaːɣdə",
         "filename": "nld_pastsentence1_62"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bliːɣə",
+        "sentence": "het was gisteren toen ze bliːɣə",
         "filename": "nld_pastsentence2_62"
     },
     {
@@ -3401,15 +3401,15 @@ stim_data = {
         "filename": "nld_barelemma_63"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə wɛrɣə",
+        "sentence": "de vrienden besloten te wɛrɣə",
         "filename": "nld_lemmasentence_63"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə wɛrɣdə",
+        "sentence": "het was gisteren toen ze wɛrɣdə",
         "filename": "nld_pastsentence1_63"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə wiːrɣə",
+        "sentence": "het was gisteren toen ze wiːrɣə",
         "filename": "nld_pastsentence2_63"
     },
     {
@@ -3417,15 +3417,15 @@ stim_data = {
         "filename": "nld_barelemma_64"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə kɛrɣə",
+        "sentence": "de vrienden besloten te kɛrɣə",
         "filename": "nld_lemmasentence_64"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kɔrɣə",
+        "sentence": "het was gisteren toen ze kɛrɣdə",
         "filename": "nld_pastsentence1_64"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kɛrɣdə",
+        "sentence": "het was gisteren toen ze kɔrɣə",
         "filename": "nld_pastsentence2_64"
     },
     {
@@ -3433,15 +3433,15 @@ stim_data = {
         "filename": "nld_barelemma_65"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə bəraːɣə",
+        "sentence": "de vrienden besloten te bəraːɣə",
         "filename": "nld_lemmasentence_65"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bəriːɣə",
+        "sentence": "het was gisteren toen ze bəraːɣdə",
         "filename": "nld_pastsentence1_65"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bəraːɣdə",
+        "sentence": "het was gisteren toen ze bəriːɣə",
         "filename": "nld_pastsentence2_65"
     },
     {
@@ -3449,15 +3449,15 @@ stim_data = {
         "filename": "nld_barelemma_66"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə ɔntraːɣə",
+        "sentence": "de vrienden besloten te ɔntraːɣə",
         "filename": "nld_lemmasentence_66"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɔntriːɣə",
+        "sentence": "het was gisteren toen ze ɔntraːɣdə",
         "filename": "nld_pastsentence1_66"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɔntraːɣdə",
+        "sentence": "het was gisteren toen ze ɔntriːɣə",
         "filename": "nld_pastsentence2_66"
     },
     {
@@ -3465,15 +3465,15 @@ stim_data = {
         "filename": "nld_barelemma_67"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vəraːɣə",
+        "sentence": "de vrienden besloten te vəraːɣə",
         "filename": "nld_lemmasentence_67"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vəriːɣə",
+        "sentence": "het was gisteren toen ze vəraːɣdə",
         "filename": "nld_pastsentence1_67"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vəraːɣdə",
+        "sentence": "het was gisteren toen ze vəriːɣə",
         "filename": "nld_pastsentence2_67"
     },
     {
@@ -3481,15 +3481,15 @@ stim_data = {
         "filename": "nld_barelemma_68"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə ɣiːzə",
+        "sentence": "de vrienden besloten te ɣiːzə",
         "filename": "nld_lemmasentence_68"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɣiːzdə",
+        "sentence": "het was gisteren toen ze ɣiːzdə",
         "filename": "nld_pastsentence1_68"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɣoːzə",
+        "sentence": "het was gisteren toen ze ɣoːzə",
         "filename": "nld_pastsentence2_68"
     },
     {
@@ -3497,15 +3497,15 @@ stim_data = {
         "filename": "nld_barelemma_69"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə stiːzə",
+        "sentence": "de vrienden besloten te stiːzə",
         "filename": "nld_lemmasentence_69"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə stiːzdə",
+        "sentence": "het was gisteren toen ze stiːzdə",
         "filename": "nld_pastsentence1_69"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə stoːzə",
+        "sentence": "het was gisteren toen ze stoːzə",
         "filename": "nld_pastsentence2_69"
     },
     {
@@ -3513,15 +3513,15 @@ stim_data = {
         "filename": "nld_barelemma_70"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə briːzə",
+        "sentence": "de vrienden besloten te briːzə",
         "filename": "nld_lemmasentence_70"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə briːzdə",
+        "sentence": "het was gisteren toen ze briːzdə",
         "filename": "nld_pastsentence1_70"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə broːzə",
+        "sentence": "het was gisteren toen ze broːzə",
         "filename": "nld_pastsentence2_70"
     },
     {
@@ -3529,15 +3529,15 @@ stim_data = {
         "filename": "nld_barelemma_71"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə kliːzə",
+        "sentence": "de vrienden besloten te kliːzə",
         "filename": "nld_lemmasentence_71"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kliːzdə",
+        "sentence": "het was gisteren toen ze kliːzdə",
         "filename": "nld_pastsentence1_71"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kloːzə",
+        "sentence": "het was gisteren toen ze kloːzə",
         "filename": "nld_pastsentence2_71"
     },
     {
@@ -3545,15 +3545,15 @@ stim_data = {
         "filename": "nld_barelemma_72"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə triːzə",
+        "sentence": "de vrienden besloten te triːzə",
         "filename": "nld_lemmasentence_72"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə triːzdə",
+        "sentence": "het was gisteren toen ze triːzdə",
         "filename": "nld_pastsentence1_72"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə troːzə",
+        "sentence": "het was gisteren toen ze troːzə",
         "filename": "nld_pastsentence2_72"
     },
     {
@@ -3561,15 +3561,15 @@ stim_data = {
         "filename": "nld_barelemma_73"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə kriːzə",
+        "sentence": "de vrienden besloten te kriːzə",
         "filename": "nld_lemmasentence_73"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kriːzdə",
+        "sentence": "het was gisteren toen ze kriːzdə",
         "filename": "nld_pastsentence1_73"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kroːzə",
+        "sentence": "het was gisteren toen ze kroːzə",
         "filename": "nld_pastsentence2_73"
     },
     {
@@ -3577,15 +3577,15 @@ stim_data = {
         "filename": "nld_barelemma_74"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə driːzə",
+        "sentence": "de vrienden besloten te driːzə",
         "filename": "nld_lemmasentence_74"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə driːzdə",
+        "sentence": "het was gisteren toen ze driːzdə",
         "filename": "nld_pastsentence1_74"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə droːzə",
+        "sentence": "het was gisteren toen ze droːzə",
         "filename": "nld_pastsentence2_74"
     },
     {
@@ -3593,15 +3593,15 @@ stim_data = {
         "filename": "nld_barelemma_75"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə fliːzə",
+        "sentence": "de vrienden besloten te fliːzə",
         "filename": "nld_lemmasentence_75"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə floːzə",
+        "sentence": "het was gisteren toen ze fliːzdə",
         "filename": "nld_pastsentence1_75"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə fliːzdə",
+        "sentence": "het was gisteren toen ze floːzə",
         "filename": "nld_pastsentence2_75"
     },
     {
@@ -3609,15 +3609,15 @@ stim_data = {
         "filename": "nld_barelemma_76"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə treːmə",
+        "sentence": "de vrienden besloten te treːmə",
         "filename": "nld_lemmasentence_76"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə treːmdə",
+        "sentence": "het was gisteren toen ze treːmdə",
         "filename": "nld_pastsentence1_76"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə traːmə",
+        "sentence": "het was gisteren toen ze traːmə",
         "filename": "nld_pastsentence2_76"
     },
     {
@@ -3625,15 +3625,15 @@ stim_data = {
         "filename": "nld_barelemma_77"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə xeːmə",
+        "sentence": "de vrienden besloten te xeːmə",
         "filename": "nld_lemmasentence_77"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xeːmdə",
+        "sentence": "het was gisteren toen ze xeːmdə",
         "filename": "nld_pastsentence1_77"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xaːmə",
+        "sentence": "het was gisteren toen ze xaːmə",
         "filename": "nld_pastsentence2_77"
     },
     {
@@ -3641,15 +3641,15 @@ stim_data = {
         "filename": "nld_barelemma_78"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə meːmə",
+        "sentence": "de vrienden besloten te meːmə",
         "filename": "nld_lemmasentence_78"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə meːmdə",
+        "sentence": "het was gisteren toen ze meːmdə",
         "filename": "nld_pastsentence1_78"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə maːmə",
+        "sentence": "het was gisteren toen ze maːmə",
         "filename": "nld_pastsentence2_78"
     },
     {
@@ -3657,15 +3657,15 @@ stim_data = {
         "filename": "nld_barelemma_79"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə kreːzə",
+        "sentence": "de vrienden besloten te kreːzə",
         "filename": "nld_lemmasentence_79"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kreːzdə",
+        "sentence": "het was gisteren toen ze kreːzdə",
         "filename": "nld_pastsentence1_79"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kraːzə",
+        "sentence": "het was gisteren toen ze kraːzə",
         "filename": "nld_pastsentence2_79"
     },
     {
@@ -3673,15 +3673,15 @@ stim_data = {
         "filename": "nld_barelemma_80"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə neːzə",
+        "sentence": "de vrienden besloten te neːzə",
         "filename": "nld_lemmasentence_80"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə naːzə",
+        "sentence": "het was gisteren toen ze naːrə",
         "filename": "nld_pastsentence1_80"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə naːrə",
+        "sentence": "het was gisteren toen ze naːzə",
         "filename": "nld_pastsentence2_80"
     },
     {
@@ -3689,15 +3689,15 @@ stim_data = {
         "filename": "nld_barelemma_81"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə veːzə",
+        "sentence": "de vrienden besloten te veːzə",
         "filename": "nld_lemmasentence_81"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə veːzdə",
+        "sentence": "het was gisteren toen ze veːzdə",
         "filename": "nld_pastsentence1_81"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vaːzə",
+        "sentence": "het was gisteren toen ze vaːzə",
         "filename": "nld_pastsentence2_81"
     },
     {
@@ -3705,15 +3705,15 @@ stim_data = {
         "filename": "nld_barelemma_82"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə ɣeːzə",
+        "sentence": "de vrienden besloten te ɣeːzə",
         "filename": "nld_lemmasentence_82"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɣaːzə",
+        "sentence": "het was gisteren toen ze ɣaːrə",
         "filename": "nld_pastsentence1_82"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ɣaːrə",
+        "sentence": "het was gisteren toen ze ɣaːzə",
         "filename": "nld_pastsentence2_82"
     },
     {
@@ -3721,15 +3721,15 @@ stim_data = {
         "filename": "nld_barelemma_83"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə treːzə",
+        "sentence": "de vrienden besloten te treːzə",
         "filename": "nld_lemmasentence_83"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə traːzə",
+        "sentence": "het was gisteren toen ze traːrə",
         "filename": "nld_pastsentence1_83"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə traːrə",
+        "sentence": "het was gisteren toen ze traːzə",
         "filename": "nld_pastsentence2_83"
     },
     {
@@ -3737,15 +3737,15 @@ stim_data = {
         "filename": "nld_barelemma_84"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə xeːzə",
+        "sentence": "de vrienden besloten te xeːzə",
         "filename": "nld_lemmasentence_84"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xaːrə",
+        "sentence": "het was gisteren toen ze xaːzə",
         "filename": "nld_pastsentence1_84"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xaːzə",
+        "sentence": "het was gisteren toen ze xaːrə",
         "filename": "nld_pastsentence2_84"
     },
     {
@@ -3753,15 +3753,15 @@ stim_data = {
         "filename": "nld_barelemma_85"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə draːzə",
+        "sentence": "de vrienden besloten te draːzə",
         "filename": "nld_lemmasentence_85"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə draːzdə",
+        "sentence": "het was gisteren toen ze draːzdə",
         "filename": "nld_pastsentence1_85"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə driːzə",
+        "sentence": "het was gisteren toen ze driːzə",
         "filename": "nld_pastsentence2_85"
     },
     {
@@ -3769,15 +3769,15 @@ stim_data = {
         "filename": "nld_barelemma_86"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə traːzə",
+        "sentence": "de vrienden besloten te traːzə",
         "filename": "nld_lemmasentence_86"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə traːzdə",
+        "sentence": "het was gisteren toen ze traːzdə",
         "filename": "nld_pastsentence1_86"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə triːzə",
+        "sentence": "het was gisteren toen ze triːzə",
         "filename": "nld_pastsentence2_86"
     },
     {
@@ -3785,15 +3785,15 @@ stim_data = {
         "filename": "nld_barelemma_87"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə slaːzə",
+        "sentence": "de vrienden besloten te slaːzə",
         "filename": "nld_lemmasentence_87"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə sliːzə",
+        "sentence": "het was gisteren toen ze slaːzdə",
         "filename": "nld_pastsentence1_87"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə slaːzdə",
+        "sentence": "het was gisteren toen ze sliːzə",
         "filename": "nld_pastsentence2_87"
     },
     {
@@ -3801,15 +3801,15 @@ stim_data = {
         "filename": "nld_barelemma_88"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə plaːzə",
+        "sentence": "de vrienden besloten te plaːzə",
         "filename": "nld_lemmasentence_88"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə pliːzə",
+        "sentence": "het was gisteren toen ze plaːzdə",
         "filename": "nld_pastsentence1_88"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə plaːzdə",
+        "sentence": "het was gisteren toen ze pliːzə",
         "filename": "nld_pastsentence2_88"
     },
     {
@@ -3817,15 +3817,15 @@ stim_data = {
         "filename": "nld_barelemma_89"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə zwɑsə",
+        "sentence": "de vrienden besloten te zwɑsə",
         "filename": "nld_lemmasentence_89"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zwɑstə",
+        "sentence": "het was gisteren toen ze zwɑstə",
         "filename": "nld_pastsentence1_89"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zwiːsə",
+        "sentence": "het was gisteren toen ze zwiːsə",
         "filename": "nld_pastsentence2_89"
     },
     {
@@ -3833,15 +3833,15 @@ stim_data = {
         "filename": "nld_barelemma_90"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vɛɪsə",
+        "sentence": "de vrienden besloten te vɛɪsə",
         "filename": "nld_lemmasentence_90"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə veːsə",
+        "sentence": "het was gisteren toen ze vɛɪstə",
         "filename": "nld_pastsentence1_90"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vɛɪstə",
+        "sentence": "het was gisteren toen ze veːsə",
         "filename": "nld_pastsentence2_90"
     },
     {
@@ -3849,15 +3849,15 @@ stim_data = {
         "filename": "nld_barelemma_91"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vɑsə",
+        "sentence": "de vrienden besloten te vɑsə",
         "filename": "nld_lemmasentence_91"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vɑstə",
+        "sentence": "het was gisteren toen ze vɑstə",
         "filename": "nld_pastsentence1_91"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə viːsə",
+        "sentence": "het was gisteren toen ze viːsə",
         "filename": "nld_pastsentence2_91"
     },
     {
@@ -3865,15 +3865,15 @@ stim_data = {
         "filename": "nld_barelemma_92"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə kwɑsə",
+        "sentence": "de vrienden besloten te kwɑsə",
         "filename": "nld_lemmasentence_92"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kwɑstə",
+        "sentence": "het was gisteren toen ze kwɑstə",
         "filename": "nld_pastsentence1_92"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kwiːsə",
+        "sentence": "het was gisteren toen ze kwiːsə",
         "filename": "nld_pastsentence2_92"
     },
     {
@@ -3881,15 +3881,15 @@ stim_data = {
         "filename": "nld_barelemma_93"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə jɪnə",
+        "sentence": "de vrienden besloten te jɪnə",
         "filename": "nld_lemmasentence_93"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə jɔnə",
+        "sentence": "het was gisteren toen ze jɪndə",
         "filename": "nld_pastsentence1_93"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə jɪndə",
+        "sentence": "het was gisteren toen ze jɔnə",
         "filename": "nld_pastsentence2_93"
     },
     {
@@ -3897,15 +3897,15 @@ stim_data = {
         "filename": "nld_barelemma_94"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vɪnə",
+        "sentence": "de vrienden besloten te vɪnə",
         "filename": "nld_lemmasentence_94"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vɔnə",
+        "sentence": "het was gisteren toen ze vɪndə",
         "filename": "nld_pastsentence1_94"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vɪndə",
+        "sentence": "het was gisteren toen ze vɔnə",
         "filename": "nld_pastsentence2_94"
     },
     {
@@ -3913,15 +3913,15 @@ stim_data = {
         "filename": "nld_barelemma_95"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə fɪnə",
+        "sentence": "de vrienden besloten te fɪnə",
         "filename": "nld_lemmasentence_95"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə fɪndə",
+        "sentence": "het was gisteren toen ze fɪndə",
         "filename": "nld_pastsentence1_95"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə fɔnə",
+        "sentence": "het was gisteren toen ze fɔnə",
         "filename": "nld_pastsentence2_95"
     },
     {
@@ -3929,15 +3929,15 @@ stim_data = {
         "filename": "nld_barelemma_96"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə prɪnə",
+        "sentence": "de vrienden besloten te prɪnə",
         "filename": "nld_lemmasentence_96"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə prɪndə",
+        "sentence": "het was gisteren toen ze prɪndə",
         "filename": "nld_pastsentence1_96"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə prɔnə",
+        "sentence": "het was gisteren toen ze prɔnə",
         "filename": "nld_pastsentence2_96"
     },
     {
@@ -3945,15 +3945,15 @@ stim_data = {
         "filename": "nld_barelemma_97"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə ʃɪnə",
+        "sentence": "de vrienden besloten te ʃɪnə",
         "filename": "nld_lemmasentence_97"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ʃɪndə",
+        "sentence": "het was gisteren toen ze ʃɪndə",
         "filename": "nld_pastsentence1_97"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ʃɔnə",
+        "sentence": "het was gisteren toen ze ʃɔnə",
         "filename": "nld_pastsentence2_97"
     },
     {
@@ -3961,15 +3961,15 @@ stim_data = {
         "filename": "nld_barelemma_98"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə bɪnə",
+        "sentence": "de vrienden besloten te bɪnə",
         "filename": "nld_lemmasentence_98"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bɔnə",
+        "sentence": "het was gisteren toen ze bɪndə",
         "filename": "nld_pastsentence1_98"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bɪndə",
+        "sentence": "het was gisteren toen ze bɔnə",
         "filename": "nld_pastsentence2_98"
     },
     {
@@ -3977,15 +3977,15 @@ stim_data = {
         "filename": "nld_barelemma_99"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə kɪnə",
+        "sentence": "de vrienden besloten te kɪnə",
         "filename": "nld_lemmasentence_99"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kɪndə",
+        "sentence": "het was gisteren toen ze kɪndə",
         "filename": "nld_pastsentence1_99"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kɔnə",
+        "sentence": "het was gisteren toen ze kɔnə",
         "filename": "nld_pastsentence2_99"
     },
     {
@@ -3993,15 +3993,15 @@ stim_data = {
         "filename": "nld_barelemma_100"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə xrɛɪkə",
+        "sentence": "de vrienden besloten te xrɛɪkə",
         "filename": "nld_lemmasentence_100"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xreːkə",
+        "sentence": "het was gisteren toen ze xrɛɪktə",
         "filename": "nld_pastsentence1_100"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xrɛɪktə",
+        "sentence": "het was gisteren toen ze xreːkə",
         "filename": "nld_pastsentence2_100"
     },
     {
@@ -4009,15 +4009,15 @@ stim_data = {
         "filename": "nld_barelemma_101"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə snɛɪkə",
+        "sentence": "de vrienden besloten te snɛɪkə",
         "filename": "nld_lemmasentence_101"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə sneːkə",
+        "sentence": "het was gisteren toen ze snɛɪktə",
         "filename": "nld_pastsentence1_101"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə snɛɪktə",
+        "sentence": "het was gisteren toen ze sneːkə",
         "filename": "nld_pastsentence2_101"
     },
     {
@@ -4025,15 +4025,15 @@ stim_data = {
         "filename": "nld_barelemma_102"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vlɛɪkə",
+        "sentence": "de vrienden besloten te vlɛɪkə",
         "filename": "nld_lemmasentence_102"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vleːkə",
+        "sentence": "het was gisteren toen ze vlɛɪktə",
         "filename": "nld_pastsentence1_102"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vlɛɪktə",
+        "sentence": "het was gisteren toen ze vleːkə",
         "filename": "nld_pastsentence2_102"
     },
     {
@@ -4041,15 +4041,15 @@ stim_data = {
         "filename": "nld_barelemma_103"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə xɛlpə",
+        "sentence": "de vrienden besloten te xɛlpə",
         "filename": "nld_lemmasentence_103"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xɔlpə",
+        "sentence": "het was gisteren toen ze xɛlptə",
         "filename": "nld_pastsentence1_103"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xɛlptə",
+        "sentence": "het was gisteren toen ze xɔlpə",
         "filename": "nld_pastsentence2_103"
     },
     {
@@ -4057,15 +4057,15 @@ stim_data = {
         "filename": "nld_barelemma_104"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə wɛlpə",
+        "sentence": "de vrienden besloten te wɛlpə",
         "filename": "nld_lemmasentence_104"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə wiːlpə",
+        "sentence": "het was gisteren toen ze wɛlptə",
         "filename": "nld_pastsentence1_104"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə wɛlptə",
+        "sentence": "het was gisteren toen ze wiːlpə",
         "filename": "nld_pastsentence2_104"
     },
     {
@@ -4073,15 +4073,15 @@ stim_data = {
         "filename": "nld_barelemma_105"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə bɛlpə",
+        "sentence": "de vrienden besloten te bɛlpə",
         "filename": "nld_lemmasentence_105"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bɛlptə",
+        "sentence": "het was gisteren toen ze bɛlptə",
         "filename": "nld_pastsentence1_105"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bɔlpə",
+        "sentence": "het was gisteren toen ze bɔlpə",
         "filename": "nld_pastsentence2_105"
     },
     {
@@ -4089,15 +4089,15 @@ stim_data = {
         "filename": "nld_barelemma_106"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə snʊɪpə",
+        "sentence": "de vrienden besloten te snʊɪpə",
         "filename": "nld_lemmasentence_106"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə snoːpə",
+        "sentence": "het was gisteren toen ze snʊɪptə",
         "filename": "nld_pastsentence1_106"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə snʊɪptə",
+        "sentence": "het was gisteren toen ze snoːpə",
         "filename": "nld_pastsentence2_106"
     },
     {
@@ -4105,15 +4105,15 @@ stim_data = {
         "filename": "nld_barelemma_107"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə blʊɪpə",
+        "sentence": "de vrienden besloten te blʊɪpə",
         "filename": "nld_lemmasentence_107"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bloːpə",
+        "sentence": "het was gisteren toen ze blʊɪptə",
         "filename": "nld_pastsentence1_107"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə blʊɪptə",
+        "sentence": "het was gisteren toen ze bloːpə",
         "filename": "nld_pastsentence2_107"
     },
     {
@@ -4121,15 +4121,15 @@ stim_data = {
         "filename": "nld_barelemma_108"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə xrʊɪpə",
+        "sentence": "de vrienden besloten te xrʊɪpə",
         "filename": "nld_lemmasentence_108"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xrʊɪptə",
+        "sentence": "het was gisteren toen ze xrʊɪptə",
         "filename": "nld_pastsentence1_108"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xroːpə",
+        "sentence": "het was gisteren toen ze xroːpə",
         "filename": "nld_pastsentence2_108"
     },
     {
@@ -4137,15 +4137,15 @@ stim_data = {
         "filename": "nld_barelemma_109"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə flɛɪpə",
+        "sentence": "de vrienden besloten te flɛɪpə",
         "filename": "nld_lemmasentence_109"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə fleːpə",
+        "sentence": "het was gisteren toen ze flɛɪptə",
         "filename": "nld_pastsentence1_109"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə flɛɪptə",
+        "sentence": "het was gisteren toen ze fleːpə",
         "filename": "nld_pastsentence2_109"
     },
     {
@@ -4153,15 +4153,15 @@ stim_data = {
         "filename": "nld_barelemma_110"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə plɛɪpə",
+        "sentence": "de vrienden besloten te plɛɪpə",
         "filename": "nld_lemmasentence_110"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə plɛɪptə",
+        "sentence": "het was gisteren toen ze plɛɪptə",
         "filename": "nld_pastsentence1_110"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə pleːpə",
+        "sentence": "het was gisteren toen ze pleːpə",
         "filename": "nld_pastsentence2_110"
     },
     {
@@ -4169,15 +4169,15 @@ stim_data = {
         "filename": "nld_barelemma_111"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə strɛɪzə",
+        "sentence": "de vrienden besloten te strɛɪzə",
         "filename": "nld_lemmasentence_111"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə streːzə",
+        "sentence": "het was gisteren toen ze strɛɪzdə",
         "filename": "nld_pastsentence1_111"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə strɛɪzdə",
+        "sentence": "het was gisteren toen ze streːzə",
         "filename": "nld_pastsentence2_111"
     },
     {
@@ -4185,15 +4185,15 @@ stim_data = {
         "filename": "nld_barelemma_112"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə snɛɪzə",
+        "sentence": "de vrienden besloten te snɛɪzə",
         "filename": "nld_lemmasentence_112"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə sneːzə",
+        "sentence": "het was gisteren toen ze snɛɪzdə",
         "filename": "nld_pastsentence1_112"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə snɛɪzdə",
+        "sentence": "het was gisteren toen ze sneːzə",
         "filename": "nld_pastsentence2_112"
     },
     {
@@ -4201,15 +4201,15 @@ stim_data = {
         "filename": "nld_barelemma_113"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə drɛɪzə",
+        "sentence": "de vrienden besloten te drɛɪzə",
         "filename": "nld_lemmasentence_113"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə drɛɪzdə",
+        "sentence": "het was gisteren toen ze drɛɪzdə",
         "filename": "nld_pastsentence1_113"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə dreːzə",
+        "sentence": "het was gisteren toen ze dreːzə",
         "filename": "nld_pastsentence2_113"
     },
     {
@@ -4217,15 +4217,15 @@ stim_data = {
         "filename": "nld_barelemma_114"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə brɛɪzə",
+        "sentence": "de vrienden besloten te brɛɪzə",
         "filename": "nld_lemmasentence_114"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə breːzə",
+        "sentence": "het was gisteren toen ze brɛɪzdə",
         "filename": "nld_pastsentence1_114"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə brɛɪzdə",
+        "sentence": "het was gisteren toen ze breːzə",
         "filename": "nld_pastsentence2_114"
     },
     {
@@ -4233,15 +4233,15 @@ stim_data = {
         "filename": "nld_barelemma_115"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə trɛɪɣə",
+        "sentence": "de vrienden besloten te trɛɪɣə",
         "filename": "nld_lemmasentence_115"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə treːɣə",
+        "sentence": "het was gisteren toen ze trɛɪɣdə",
         "filename": "nld_pastsentence1_115"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə trɛɪɣdə",
+        "sentence": "het was gisteren toen ze treːɣə",
         "filename": "nld_pastsentence2_115"
     },
     {
@@ -4249,15 +4249,15 @@ stim_data = {
         "filename": "nld_barelemma_116"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə xɛɪɣə",
+        "sentence": "de vrienden besloten te xɛɪɣə",
         "filename": "nld_lemmasentence_116"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xeːɣə",
+        "sentence": "het was gisteren toen ze xɛɪɣdə",
         "filename": "nld_pastsentence1_116"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xɛɪɣdə",
+        "sentence": "het was gisteren toen ze xeːɣə",
         "filename": "nld_pastsentence2_116"
     },
     {
@@ -4265,15 +4265,15 @@ stim_data = {
         "filename": "nld_barelemma_117"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə xrɛɪɣə",
+        "sentence": "de vrienden besloten te xrɛɪɣə",
         "filename": "nld_lemmasentence_117"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xreːɣə",
+        "sentence": "het was gisteren toen ze xrɛɪɣdə",
         "filename": "nld_pastsentence1_117"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xrɛɪɣdə",
+        "sentence": "het was gisteren toen ze xreːɣə",
         "filename": "nld_pastsentence2_117"
     },
     {
@@ -4281,15 +4281,15 @@ stim_data = {
         "filename": "nld_barelemma_118"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə sxɛɪɣə",
+        "sentence": "de vrienden besloten te sxɛɪɣə",
         "filename": "nld_lemmasentence_118"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə sxeːɣə",
+        "sentence": "het was gisteren toen ze sxɛɪɣdə",
         "filename": "nld_pastsentence1_118"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə sxɛɪɣdə",
+        "sentence": "het was gisteren toen ze sxeːɣə",
         "filename": "nld_pastsentence2_118"
     },
     {
@@ -4297,15 +4297,15 @@ stim_data = {
         "filename": "nld_barelemma_119"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə nʊɪkə",
+        "sentence": "de vrienden besloten te nʊɪkə",
         "filename": "nld_lemmasentence_119"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə noːkə",
+        "sentence": "het was gisteren toen ze nʊɪktə",
         "filename": "nld_pastsentence1_119"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə nʊɪktə",
+        "sentence": "het was gisteren toen ze noːkə",
         "filename": "nld_pastsentence2_119"
     },
     {
@@ -4313,15 +4313,15 @@ stim_data = {
         "filename": "nld_barelemma_120"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə trʊɪkə",
+        "sentence": "de vrienden besloten te trʊɪkə",
         "filename": "nld_lemmasentence_120"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə troːkə",
+        "sentence": "het was gisteren toen ze trʊɪktə",
         "filename": "nld_pastsentence1_120"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə trʊɪktə",
+        "sentence": "het was gisteren toen ze troːkə",
         "filename": "nld_pastsentence2_120"
     },
     {
@@ -4329,15 +4329,15 @@ stim_data = {
         "filename": "nld_barelemma_121"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə ʃʊɪkə",
+        "sentence": "de vrienden besloten te ʃʊɪkə",
         "filename": "nld_lemmasentence_121"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ʃʊɪktə",
+        "sentence": "het was gisteren toen ze ʃʊɪktə",
         "filename": "nld_pastsentence1_121"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ʃoːkə",
+        "sentence": "het was gisteren toen ze ʃoːkə",
         "filename": "nld_pastsentence2_121"
     },
     {
@@ -4345,15 +4345,15 @@ stim_data = {
         "filename": "nld_barelemma_122"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə zʊɪkə",
+        "sentence": "de vrienden besloten te zʊɪkə",
         "filename": "nld_lemmasentence_122"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zoːkə",
+        "sentence": "het was gisteren toen ze zʊɪktə",
         "filename": "nld_pastsentence1_122"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zʊɪktə",
+        "sentence": "het was gisteren toen ze zoːkə",
         "filename": "nld_pastsentence2_122"
     },
     {
@@ -4361,15 +4361,15 @@ stim_data = {
         "filename": "nld_barelemma_123"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vɛɪkə",
+        "sentence": "de vrienden besloten te vɛɪkə",
         "filename": "nld_lemmasentence_123"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə veːkə",
+        "sentence": "het was gisteren toen ze vɛɪktə",
         "filename": "nld_pastsentence1_123"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vɛɪktə",
+        "sentence": "het was gisteren toen ze veːkə",
         "filename": "nld_pastsentence2_123"
     },
     {
@@ -4377,15 +4377,15 @@ stim_data = {
         "filename": "nld_barelemma_124"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə jʊɪkə",
+        "sentence": "de vrienden besloten te jʊɪkə",
         "filename": "nld_lemmasentence_124"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə jʊɪktə",
+        "sentence": "het was gisteren toen ze jʊɪktə",
         "filename": "nld_pastsentence1_124"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə joːkə",
+        "sentence": "het was gisteren toen ze joːkə",
         "filename": "nld_pastsentence2_124"
     },
     {
@@ -4393,15 +4393,15 @@ stim_data = {
         "filename": "nld_barelemma_125"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə wʊɪkə",
+        "sentence": "de vrienden besloten te wʊɪkə",
         "filename": "nld_lemmasentence_125"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə wʊɪktə",
+        "sentence": "het was gisteren toen ze wʊɪktə",
         "filename": "nld_pastsentence1_125"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə woːkə",
+        "sentence": "het was gisteren toen ze woːkə",
         "filename": "nld_pastsentence2_125"
     },
     {
@@ -4409,15 +4409,15 @@ stim_data = {
         "filename": "nld_barelemma_126"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə kʊɪkə",
+        "sentence": "de vrienden besloten te kʊɪkə",
         "filename": "nld_lemmasentence_126"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kʊɪktə",
+        "sentence": "het was gisteren toen ze kʊɪktə",
         "filename": "nld_pastsentence1_126"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə koːkə",
+        "sentence": "het was gisteren toen ze koːkə",
         "filename": "nld_pastsentence2_126"
     },
     {
@@ -4425,15 +4425,15 @@ stim_data = {
         "filename": "nld_barelemma_127"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə flɪmə",
+        "sentence": "de vrienden besloten te flɪmə",
         "filename": "nld_lemmasentence_127"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə flɔmə",
+        "sentence": "het was gisteren toen ze flɪmdə",
         "filename": "nld_pastsentence1_127"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə flɪmdə",
+        "sentence": "het was gisteren toen ze flɔmə",
         "filename": "nld_pastsentence2_127"
     },
     {
@@ -4441,15 +4441,15 @@ stim_data = {
         "filename": "nld_barelemma_128"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə krɪmə",
+        "sentence": "de vrienden besloten te krɪmə",
         "filename": "nld_lemmasentence_128"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə krɔmə",
+        "sentence": "het was gisteren toen ze krɪmdə",
         "filename": "nld_pastsentence1_128"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə krɪmdə",
+        "sentence": "het was gisteren toen ze krɔmə",
         "filename": "nld_pastsentence2_128"
     },
     {
@@ -4457,15 +4457,15 @@ stim_data = {
         "filename": "nld_barelemma_129"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə lɪmə",
+        "sentence": "de vrienden besloten te lɪmə",
         "filename": "nld_lemmasentence_129"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə lɔmə",
+        "sentence": "het was gisteren toen ze lɪmdə",
         "filename": "nld_pastsentence1_129"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə lɪmdə",
+        "sentence": "het was gisteren toen ze lɔmə",
         "filename": "nld_pastsentence2_129"
     },
     {
@@ -4473,15 +4473,15 @@ stim_data = {
         "filename": "nld_barelemma_130"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə zɪmə",
+        "sentence": "de vrienden besloten te zɪmə",
         "filename": "nld_lemmasentence_130"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zɔmə",
+        "sentence": "het was gisteren toen ze zɪmdə",
         "filename": "nld_pastsentence1_130"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zɪmdə",
+        "sentence": "het was gisteren toen ze zɔmə",
         "filename": "nld_pastsentence2_130"
     },
     {
@@ -4489,15 +4489,15 @@ stim_data = {
         "filename": "nld_barelemma_131"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə trɪŋə",
+        "sentence": "de vrienden besloten te trɪŋə",
         "filename": "nld_lemmasentence_131"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə trɪŋdə",
+        "sentence": "het was gisteren toen ze trɪŋdə",
         "filename": "nld_pastsentence1_131"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə trɔŋə",
+        "sentence": "het was gisteren toen ze trɔŋə",
         "filename": "nld_pastsentence2_131"
     },
     {
@@ -4505,15 +4505,15 @@ stim_data = {
         "filename": "nld_barelemma_132"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə stɪŋə",
+        "sentence": "de vrienden besloten te stɪŋə",
         "filename": "nld_lemmasentence_132"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə stɔŋə",
+        "sentence": "het was gisteren toen ze stɪŋdə",
         "filename": "nld_pastsentence1_132"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə stɪŋdə",
+        "sentence": "het was gisteren toen ze stɔŋə",
         "filename": "nld_pastsentence2_132"
     },
     {
@@ -4521,15 +4521,15 @@ stim_data = {
         "filename": "nld_barelemma_133"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə xrɪŋə",
+        "sentence": "de vrienden besloten te xrɪŋə",
         "filename": "nld_lemmasentence_133"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xrɔŋə",
+        "sentence": "het was gisteren toen ze xrɪŋdə",
         "filename": "nld_pastsentence1_133"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xrɪŋdə",
+        "sentence": "het was gisteren toen ze xrɔŋə",
         "filename": "nld_pastsentence2_133"
     },
     {
@@ -4537,15 +4537,15 @@ stim_data = {
         "filename": "nld_barelemma_134"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə knɪŋə",
+        "sentence": "de vrienden besloten te knɪŋə",
         "filename": "nld_lemmasentence_134"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə knɔŋə",
+        "sentence": "het was gisteren toen ze knɪŋdə",
         "filename": "nld_pastsentence1_134"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə knɪŋdə",
+        "sentence": "het was gisteren toen ze knɔŋə",
         "filename": "nld_pastsentence2_134"
     },
     {
@@ -4553,15 +4553,15 @@ stim_data = {
         "filename": "nld_barelemma_135"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə zwɪŋə",
+        "sentence": "de vrienden besloten te zwɪŋə",
         "filename": "nld_lemmasentence_135"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zwɪŋdə",
+        "sentence": "het was gisteren toen ze zwɪŋdə",
         "filename": "nld_pastsentence1_135"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə zwɔŋə",
+        "sentence": "het was gisteren toen ze zwɔŋə",
         "filename": "nld_pastsentence2_135"
     },
     {
@@ -4569,15 +4569,15 @@ stim_data = {
         "filename": "nld_barelemma_136"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə hɪŋə",
+        "sentence": "de vrienden besloten te hɪŋə",
         "filename": "nld_lemmasentence_136"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə hɪŋə",
+        "sentence": "het was gisteren toen ze hɪŋdə",
         "filename": "nld_pastsentence1_136"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə hɪŋdə",
+        "sentence": "het was gisteren toen ze hɪŋə",
         "filename": "nld_pastsentence2_136"
     },
     {
@@ -4585,15 +4585,15 @@ stim_data = {
         "filename": "nld_barelemma_137"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə ʃɛɪɣə",
+        "sentence": "de vrienden besloten te ʃɛɪɣə",
         "filename": "nld_lemmasentence_137"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ʃeːɣə",
+        "sentence": "het was gisteren toen ze ʃɛɪɣdə",
         "filename": "nld_pastsentence1_137"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə ʃɛɪɣdə",
+        "sentence": "het was gisteren toen ze ʃeːɣə",
         "filename": "nld_pastsentence2_137"
     },
     {
@@ -4601,15 +4601,15 @@ stim_data = {
         "filename": "nld_barelemma_138"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə dɛɪɣə",
+        "sentence": "de vrienden besloten te dɛɪɣə",
         "filename": "nld_lemmasentence_138"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə dɛɪɣdə",
+        "sentence": "het was gisteren toen ze dɛɪɣdə",
         "filename": "nld_pastsentence1_138"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə deːɣə",
+        "sentence": "het was gisteren toen ze deːɣə",
         "filename": "nld_pastsentence2_138"
     },
     {
@@ -4617,15 +4617,15 @@ stim_data = {
         "filename": "nld_barelemma_139"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə mɛɪɣə",
+        "sentence": "de vrienden besloten te mɛɪɣə",
         "filename": "nld_lemmasentence_139"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə meːɣə",
+        "sentence": "het was gisteren toen ze mɛɪɣdə",
         "filename": "nld_pastsentence1_139"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə mɛɪɣdə",
+        "sentence": "het was gisteren toen ze meːɣə",
         "filename": "nld_pastsentence2_139"
     },
     {
@@ -4633,15 +4633,15 @@ stim_data = {
         "filename": "nld_barelemma_140"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə klɛɪɣə",
+        "sentence": "de vrienden besloten te klɛɪɣə",
         "filename": "nld_lemmasentence_140"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə klɛɪɣdə",
+        "sentence": "het was gisteren toen ze klɛɪɣdə",
         "filename": "nld_pastsentence1_140"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kleːɣə",
+        "sentence": "het was gisteren toen ze kleːɣə",
         "filename": "nld_pastsentence2_140"
     },
     {
@@ -4649,15 +4649,15 @@ stim_data = {
         "filename": "nld_barelemma_141"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vɛɪɣə",
+        "sentence": "de vrienden besloten te vɛɪɣə",
         "filename": "nld_lemmasentence_141"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə veːɣə",
+        "sentence": "het was gisteren toen ze vɛɪɣdə",
         "filename": "nld_pastsentence1_141"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vɛɪɣdə",
+        "sentence": "het was gisteren toen ze veːɣə",
         "filename": "nld_pastsentence2_141"
     },
     {
@@ -4665,15 +4665,15 @@ stim_data = {
         "filename": "nld_barelemma_142"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə bɛɪɣə",
+        "sentence": "de vrienden besloten te bɛɪɣə",
         "filename": "nld_lemmasentence_142"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə beːɣə",
+        "sentence": "het was gisteren toen ze bɛɪɣdə",
         "filename": "nld_pastsentence1_142"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə bɛɪɣdə",
+        "sentence": "het was gisteren toen ze beːɣə",
         "filename": "nld_pastsentence2_142"
     },
     {
@@ -4681,15 +4681,15 @@ stim_data = {
         "filename": "nld_barelemma_143"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə wɛɪɣə",
+        "sentence": "de vrienden besloten te wɛɪɣə",
         "filename": "nld_lemmasentence_143"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə weːɣə",
+        "sentence": "het was gisteren toen ze wɛɪɣdə",
         "filename": "nld_pastsentence1_143"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə wɛɪɣdə",
+        "sentence": "het was gisteren toen ze weːɣə",
         "filename": "nld_pastsentence2_143"
     },
     {
@@ -4697,15 +4697,15 @@ stim_data = {
         "filename": "nld_barelemma_144"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə xɛlə",
+        "sentence": "de vrienden besloten te xɛlə",
         "filename": "nld_lemmasentence_144"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xɛldə",
+        "sentence": "het was gisteren toen ze xɛldə",
         "filename": "nld_pastsentence1_144"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xɔlə",
+        "sentence": "het was gisteren toen ze xɔlə",
         "filename": "nld_pastsentence2_144"
     },
     {
@@ -4713,15 +4713,15 @@ stim_data = {
         "filename": "nld_barelemma_145"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə neːlə",
+        "sentence": "de vrienden besloten te neːlə",
         "filename": "nld_lemmasentence_145"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə neːldə",
+        "sentence": "het was gisteren toen ze neːldə",
         "filename": "nld_pastsentence1_145"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə naːlə",
+        "sentence": "het was gisteren toen ze naːlə",
         "filename": "nld_pastsentence2_145"
     },
     {
@@ -4729,15 +4729,15 @@ stim_data = {
         "filename": "nld_barelemma_146"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə plɛɪzə",
+        "sentence": "de vrienden besloten te plɛɪzə",
         "filename": "nld_lemmasentence_146"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə plɛɪzdə",
+        "sentence": "het was gisteren toen ze plɛɪzdə",
         "filename": "nld_pastsentence1_146"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə pleːzə",
+        "sentence": "het was gisteren toen ze pleːzə",
         "filename": "nld_pastsentence2_146"
     },
     {
@@ -4745,15 +4745,15 @@ stim_data = {
         "filename": "nld_barelemma_147"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə hɑlə",
+        "sentence": "de vrienden besloten te hɑlə",
         "filename": "nld_lemmasentence_147"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə hɑldə",
+        "sentence": "het was gisteren toen ze hɑldə",
         "filename": "nld_pastsentence1_147"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə hiːlə",
+        "sentence": "het was gisteren toen ze hiːlə",
         "filename": "nld_pastsentence2_147"
     },
     {
@@ -4761,15 +4761,15 @@ stim_data = {
         "filename": "nld_barelemma_148"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə xɛɪnə",
+        "sentence": "de vrienden besloten te xɛɪnə",
         "filename": "nld_lemmasentence_148"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xeːnə",
+        "sentence": "het was gisteren toen ze xɛɪndə",
         "filename": "nld_pastsentence1_148"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə xɛɪndə",
+        "sentence": "het was gisteren toen ze xeːnə",
         "filename": "nld_pastsentence2_148"
     },
     {
@@ -4777,15 +4777,15 @@ stim_data = {
         "filename": "nld_barelemma_149"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə krɛɪnə",
+        "sentence": "de vrienden besloten te krɛɪnə",
         "filename": "nld_lemmasentence_149"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə krɛɪndə",
+        "sentence": "het was gisteren toen ze krɛɪndə",
         "filename": "nld_pastsentence1_149"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə kreːnə",
+        "sentence": "het was gisteren toen ze kreːnə",
         "filename": "nld_pastsentence2_149"
     },
     {
@@ -4793,2418 +4793,72 @@ stim_data = {
         "filename": "nld_barelemma_150"
     },
     {
-        "sentence": "də vrində bəʃloːtə tə vəraːvə",
+        "sentence": "de vrienden besloten te vəraːvə",
         "filename": "nld_lemmasentence_150"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vəriːvə",
+        "sentence": "het was gisteren toen ze vəraːvdə",
         "filename": "nld_pastsentence1_150"
     },
     {
-        "sentence": "hɛt ʋɑs ɣɪstərə tun zə vəraːvdə",
+        "sentence": "het was gisteren toen ze vəriːvə",
         "filename": "nld_pastsentence2_150"
-    }
-],
-'deu': [
-    {
-        "sentence": "neːzən",
-        "filename": "deu_barelemma_1"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: neːzən",
-        "filename": "deu_lemmasentence_1"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəneːzən",
-        "filename": "deu_pastsentence1_1"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gənaːzən",
-        "filename": "deu_pastsentence2_1"
-    },
-    {
-        "sentence": "ʃteːtən",
-        "filename": "deu_barelemma_2"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ʃteːtən",
-        "filename": "deu_lemmasentence_2"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtoːtən",
-        "filename": "deu_pastsentence1_2"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtaːtən",
-        "filename": "deu_pastsentence2_2"
-    },
-    {
-        "sentence": "bəriːtən",
-        "filename": "deu_barelemma_3"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: bəriːtən",
-        "filename": "deu_lemmasentence_3"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəroːtən",
-        "filename": "deu_pastsentence1_3"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəriːtən",
-        "filename": "deu_pastsentence2_3"
-    },
-    {
-        "sentence": "frai̯tən",
-        "filename": "deu_barelemma_4"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: frai̯tən",
-        "filename": "deu_lemmasentence_4"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfrai̯tət",
-        "filename": "deu_pastsentence1_4"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfrɪtən",
-        "filename": "deu_pastsentence2_4"
-    },
-    {
-        "sentence": "dai̯tən",
-        "filename": "deu_barelemma_5"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: dai̯tən",
-        "filename": "deu_lemmasentence_5"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədai̯tət",
-        "filename": "deu_pastsentence1_5"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədiːtən",
-        "filename": "deu_pastsentence2_5"
-    },
-    {
-        "sentence": "ɛrtsɪŋən",
-        "filename": "deu_barelemma_6"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ɛrtsɪŋən",
-        "filename": "deu_lemmasentence_6"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrtsɪŋt",
-        "filename": "deu_pastsentence1_6"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrtsʊŋən",
-        "filename": "deu_pastsentence2_6"
-    },
-    {
-        "sentence": "tsvɛrən",
-        "filename": "deu_barelemma_7"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: tsvɛrən",
-        "filename": "deu_lemmasentence_7"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsvɛrt",
-        "filename": "deu_pastsentence1_7"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsvɔrən",
-        "filename": "deu_pastsentence2_7"
-    },
-    {
-        "sentence": "bəheːtən",
-        "filename": "deu_barelemma_8"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: bəheːtən",
-        "filename": "deu_lemmasentence_8"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəhoːtən",
-        "filename": "deu_pastsentence1_8"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəheːtən",
-        "filename": "deu_pastsentence2_8"
-    },
-    {
-        "sentence": "ɛrzai̯ən",
-        "filename": "deu_barelemma_9"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ɛrzai̯ən",
-        "filename": "deu_lemmasentence_9"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrzai̯n",
-        "filename": "deu_pastsentence1_9"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrzɔnən",
-        "filename": "deu_pastsentence2_9"
-    },
-    {
-        "sentence": "fɛrai̯ən",
-        "filename": "deu_barelemma_10"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: fɛrai̯ən",
-        "filename": "deu_lemmasentence_10"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn fɛrai̯t",
-        "filename": "deu_pastsentence1_10"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfɛrai̯t",
-        "filename": "deu_pastsentence2_10"
-    },
-    {
-        "sentence": "dɛrbən",
-        "filename": "deu_barelemma_11"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: dɛrbən",
-        "filename": "deu_lemmasentence_11"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədarbən",
-        "filename": "deu_pastsentence1_11"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədɛrpt",
-        "filename": "deu_pastsentence2_11"
-    },
-    {
-        "sentence": "vau̯fən",
-        "filename": "deu_barelemma_12"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: vau̯fən",
-        "filename": "deu_lemmasentence_12"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəvau̯ft",
-        "filename": "deu_pastsentence1_12"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəvɔfən",
-        "filename": "deu_pastsentence2_12"
-    },
-    {
-        "sentence": "krɪŋən",
-        "filename": "deu_barelemma_13"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: krɪŋən",
-        "filename": "deu_lemmasentence_13"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkrʊŋən",
-        "filename": "deu_pastsentence1_13"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkrɔŋən",
-        "filename": "deu_pastsentence2_13"
-    },
-    {
-        "sentence": "trɛstən",
-        "filename": "deu_barelemma_14"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: trɛstən",
-        "filename": "deu_lemmasentence_14"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətrɛstət",
-        "filename": "deu_pastsentence1_14"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətrɔstən",
-        "filename": "deu_pastsentence2_14"
-    },
-    {
-        "sentence": "tsvai̯ən",
-        "filename": "deu_barelemma_15"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: tsvai̯ən",
-        "filename": "deu_lemmasentence_15"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsvai̯t",
-        "filename": "deu_pastsentence1_15"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsvai̯n",
-        "filename": "deu_pastsentence2_15"
-    },
-    {
-        "sentence": "fɛraxtən",
-        "filename": "deu_barelemma_16"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: fɛraxtən",
-        "filename": "deu_lemmasentence_16"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn fɛraxtət",
-        "filename": "deu_pastsentence1_16"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfraxtət",
-        "filename": "deu_pastsentence2_16"
-    },
-    {
-        "sentence": "ʃɛltsən",
-        "filename": "deu_barelemma_17"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ʃɛltsən",
-        "filename": "deu_lemmasentence_17"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃɛltst",
-        "filename": "deu_pastsentence1_17"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃɔltsən",
-        "filename": "deu_pastsentence2_17"
-    },
-    {
-        "sentence": "fɛrheːən",
-        "filename": "deu_barelemma_18"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: fɛrheːən",
-        "filename": "deu_lemmasentence_18"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn fɛrhoːn",
-        "filename": "deu_pastsentence1_18"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn fɛrheːt",
-        "filename": "deu_pastsentence2_18"
-    },
-    {
-        "sentence": "trɛndən",
-        "filename": "deu_barelemma_19"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: trɛndən",
-        "filename": "deu_lemmasentence_19"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətrɛndət",
-        "filename": "deu_pastsentence1_19"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətrandət",
-        "filename": "deu_pastsentence2_19"
-    },
-    {
-        "sentence": "tsai̯dən",
-        "filename": "deu_barelemma_20"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: tsai̯dən",
-        "filename": "deu_lemmasentence_20"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsai̯dət",
-        "filename": "deu_pastsentence1_20"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsiːdən",
-        "filename": "deu_pastsentence2_20"
-    },
-    {
-        "sentence": "tsau̯fən",
-        "filename": "deu_barelemma_21"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: tsau̯fən",
-        "filename": "deu_lemmasentence_21"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsau̯ft",
-        "filename": "deu_pastsentence1_21"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsiːfən",
-        "filename": "deu_pastsentence2_21"
-    },
-    {
-        "sentence": "rɛsən",
-        "filename": "deu_barelemma_22"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: rɛsən",
-        "filename": "deu_lemmasentence_22"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərɛsən",
-        "filename": "deu_pastsentence1_22"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərɛst",
-        "filename": "deu_pastsentence2_22"
-    },
-    {
-        "sentence": "brɛftən",
-        "filename": "deu_barelemma_23"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: brɛftən",
-        "filename": "deu_lemmasentence_23"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbrɔftən",
-        "filename": "deu_pastsentence1_23"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbrɛftət",
-        "filename": "deu_pastsentence2_23"
-    },
-    {
-        "sentence": "ʃtai̯xən",
-        "filename": "deu_barelemma_24"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ʃtai̯xən",
-        "filename": "deu_lemmasentence_24"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtiːxən",
-        "filename": "deu_pastsentence1_24"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtai̯xt",
-        "filename": "deu_pastsentence2_24"
-    },
-    {
-        "sentence": "frɛndən",
-        "filename": "deu_barelemma_25"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: frɛndən",
-        "filename": "deu_lemmasentence_25"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfrɛndət",
-        "filename": "deu_pastsentence1_25"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfrandət",
-        "filename": "deu_pastsentence2_25"
-    },
-    {
-        "sentence": "bai̯ən",
-        "filename": "deu_barelemma_26"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: bai̯ən",
-        "filename": "deu_lemmasentence_26"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbai̯n",
-        "filename": "deu_pastsentence1_26"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbai̯t",
-        "filename": "deu_pastsentence2_26"
-    },
-    {
-        "sentence": "dɪndən",
-        "filename": "deu_barelemma_27"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: dɪndən",
-        "filename": "deu_lemmasentence_27"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədɪndət",
-        "filename": "deu_pastsentence1_27"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədʊndən",
-        "filename": "deu_pastsentence2_27"
-    },
-    {
-        "sentence": "ɛrzɪŋən",
-        "filename": "deu_barelemma_28"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ɛrzɪŋən",
-        "filename": "deu_lemmasentence_28"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrzʊŋən",
-        "filename": "deu_pastsentence1_28"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrzeŋən",
-        "filename": "deu_pastsentence2_28"
-    },
-    {
-        "sentence": "ʃɪsən",
-        "filename": "deu_barelemma_29"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ʃɪsən",
-        "filename": "deu_lemmasentence_29"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃʊsən",
-        "filename": "deu_pastsentence1_29"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃʊst",
-        "filename": "deu_pastsentence2_29"
-    },
-    {
-        "sentence": "fleːtən",
-        "filename": "deu_barelemma_30"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: fleːtən",
-        "filename": "deu_lemmasentence_30"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfleːtət",
-        "filename": "deu_pastsentence1_30"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfloːtən",
-        "filename": "deu_pastsentence2_30"
-    },
-    {
-        "sentence": "freːtən",
-        "filename": "deu_barelemma_31"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: freːtən",
-        "filename": "deu_lemmasentence_31"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfreːtən",
-        "filename": "deu_pastsentence1_31"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfroːtən",
-        "filename": "deu_pastsentence2_31"
-    },
-    {
-        "sentence": "bəhuːtən",
-        "filename": "deu_barelemma_32"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: bəhuːtən",
-        "filename": "deu_lemmasentence_32"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəhuːtət",
-        "filename": "deu_pastsentence1_32"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəhuːtən",
-        "filename": "deu_pastsentence2_32"
-    },
-    {
-        "sentence": "fruːtən",
-        "filename": "deu_barelemma_33"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: fruːtən",
-        "filename": "deu_lemmasentence_33"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfruːtət",
-        "filename": "deu_pastsentence1_33"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfruːtən",
-        "filename": "deu_pastsentence2_33"
-    },
-    {
-        "sentence": "ʊmai̯ən",
-        "filename": "deu_barelemma_34"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ʊmai̯ən",
-        "filename": "deu_lemmasentence_34"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ʊmai̯t",
-        "filename": "deu_pastsentence1_34"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʊmai̯t",
-        "filename": "deu_pastsentence2_34"
-    },
-    {
-        "sentence": "bai̯fən",
-        "filename": "deu_barelemma_35"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: bai̯fən",
-        "filename": "deu_lemmasentence_35"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbai̯fən",
-        "filename": "deu_pastsentence1_35"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbɪfən",
-        "filename": "deu_pastsentence2_35"
-    },
-    {
-        "sentence": "zɪsən",
-        "filename": "deu_barelemma_36"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: zɪsən",
-        "filename": "deu_lemmasentence_36"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzʊsən",
-        "filename": "deu_pastsentence1_36"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzɔsən",
-        "filename": "deu_pastsentence2_36"
-    },
-    {
-        "sentence": "fai̯fən",
-        "filename": "deu_barelemma_37"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: fai̯fən",
-        "filename": "deu_lemmasentence_37"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfai̯ft",
-        "filename": "deu_pastsentence1_37"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfɪfən",
-        "filename": "deu_pastsentence2_37"
-    },
-    {
-        "sentence": "ʃpreːbən",
-        "filename": "deu_barelemma_38"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ʃpreːbən",
-        "filename": "deu_lemmasentence_38"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃpreːpt",
-        "filename": "deu_pastsentence1_38"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃproːbən",
-        "filename": "deu_pastsentence2_38"
-    },
-    {
-        "sentence": "trai̯fən",
-        "filename": "deu_barelemma_39"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: trai̯fən",
-        "filename": "deu_lemmasentence_39"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətrai̯ft",
-        "filename": "deu_pastsentence1_39"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətriːfən",
-        "filename": "deu_pastsentence2_39"
-    },
-    {
-        "sentence": "dɛndən",
-        "filename": "deu_barelemma_40"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: dɛndən",
-        "filename": "deu_lemmasentence_40"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədandət",
-        "filename": "deu_pastsentence1_40"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədant",
-        "filename": "deu_pastsentence2_40"
-    },
-    {
-        "sentence": "ərai̯zən",
-        "filename": "deu_barelemma_41"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ərai̯zən",
-        "filename": "deu_lemmasentence_41"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərai̯st",
-        "filename": "deu_pastsentence1_41"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bərai̯st",
-        "filename": "deu_pastsentence2_41"
-    },
-    {
-        "sentence": "ʃtɛŋkən",
-        "filename": "deu_barelemma_42"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ʃtɛŋkən",
-        "filename": "deu_lemmasentence_42"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtɛŋkt",
-        "filename": "deu_pastsentence1_42"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtaxt",
-        "filename": "deu_pastsentence2_42"
-    },
-    {
-        "sentence": "ɛrhaːdən",
-        "filename": "deu_barelemma_43"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ɛrhaːdən",
-        "filename": "deu_lemmasentence_43"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrhaːdət",
-        "filename": "deu_pastsentence1_43"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrhaːdən",
-        "filename": "deu_pastsentence2_43"
-    },
-    {
-        "sentence": "blai̯dən",
-        "filename": "deu_barelemma_44"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: blai̯dən",
-        "filename": "deu_lemmasentence_44"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəblɪtən",
-        "filename": "deu_pastsentence1_44"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəblai̯dət",
-        "filename": "deu_pastsentence2_44"
-    },
-    {
-        "sentence": "ɛrtɪŋən",
-        "filename": "deu_barelemma_45"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ɛrtɪŋən",
-        "filename": "deu_lemmasentence_45"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrtʊŋən",
-        "filename": "deu_pastsentence1_45"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrtɪŋt",
-        "filename": "deu_pastsentence2_45"
-    },
-    {
-        "sentence": "ɛrfaːlən",
-        "filename": "deu_barelemma_46"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ɛrfaːlən",
-        "filename": "deu_lemmasentence_46"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrfaːlən",
-        "filename": "deu_pastsentence1_46"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrfaːlt",
-        "filename": "deu_pastsentence2_46"
-    },
-    {
-        "sentence": "dʏndən",
-        "filename": "deu_barelemma_47"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: dʏndən",
-        "filename": "deu_lemmasentence_47"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədʏndət",
-        "filename": "deu_pastsentence1_47"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədondət",
-        "filename": "deu_pastsentence2_47"
-    },
-    {
-        "sentence": "bai̯tən",
-        "filename": "deu_barelemma_48"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: bai̯tən",
-        "filename": "deu_lemmasentence_48"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbai̯tət",
-        "filename": "deu_pastsentence1_48"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbiːtən",
-        "filename": "deu_pastsentence2_48"
-    },
-    {
-        "sentence": "rai̯tən",
-        "filename": "deu_barelemma_49"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: rai̯tən",
-        "filename": "deu_lemmasentence_49"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərɪtən",
-        "filename": "deu_pastsentence1_49"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərai̯tət",
-        "filename": "deu_pastsentence2_49"
-    },
-    {
-        "sentence": "ɛːrən",
-        "filename": "deu_barelemma_50"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ɛːrən",
-        "filename": "deu_lemmasentence_50"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəɛːrt",
-        "filename": "deu_pastsentence1_50"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəɛːrən",
-        "filename": "deu_pastsentence2_50"
-    },
-    {
-        "sentence": "lau̯ən",
-        "filename": "deu_barelemma_51"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: lau̯ən",
-        "filename": "deu_lemmasentence_51"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəlau̯t",
-        "filename": "deu_pastsentence1_51"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəlau̯n",
-        "filename": "deu_pastsentence2_51"
-    },
-    {
-        "sentence": "røːən",
-        "filename": "deu_barelemma_52"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: røːən",
-        "filename": "deu_lemmasentence_52"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərøːt",
-        "filename": "deu_pastsentence1_52"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərøːtən",
-        "filename": "deu_pastsentence2_52"
-    },
-    {
-        "sentence": "ɔlən",
-        "filename": "deu_barelemma_53"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ɔlən",
-        "filename": "deu_lemmasentence_53"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəɔlt",
-        "filename": "deu_pastsentence1_53"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəɔlən",
-        "filename": "deu_pastsentence2_53"
-    },
-    {
-        "sentence": "reːbən",
-        "filename": "deu_barelemma_54"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: reːbən",
-        "filename": "deu_lemmasentence_54"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəreːpt",
-        "filename": "deu_pastsentence1_54"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəreːbən",
-        "filename": "deu_pastsentence2_54"
-    },
-    {
-        "sentence": "hɛlən",
-        "filename": "deu_barelemma_55"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: hɛlən",
-        "filename": "deu_lemmasentence_55"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhɛlt",
-        "filename": "deu_pastsentence1_55"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhɔlən",
-        "filename": "deu_pastsentence2_55"
-    },
-    {
-        "sentence": "rɛːən",
-        "filename": "deu_barelemma_56"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: rɛːən",
-        "filename": "deu_lemmasentence_56"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərɛːt",
-        "filename": "deu_pastsentence1_56"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərɛːtən",
-        "filename": "deu_pastsentence2_56"
-    },
-    {
-        "sentence": "aːxən",
-        "filename": "deu_barelemma_57"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: aːxən",
-        "filename": "deu_lemmasentence_57"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəaːxt",
-        "filename": "deu_pastsentence1_57"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəaːxən",
-        "filename": "deu_pastsentence2_57"
-    },
-    {
-        "sentence": "ʃai̯ən",
-        "filename": "deu_barelemma_58"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ʃai̯ən",
-        "filename": "deu_lemmasentence_58"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃiːn",
-        "filename": "deu_pastsentence1_58"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃai̯n",
-        "filename": "deu_pastsentence2_58"
-    },
-    {
-        "sentence": "alən",
-        "filename": "deu_barelemma_59"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: alən",
-        "filename": "deu_lemmasentence_59"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəalt",
-        "filename": "deu_pastsentence1_59"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəalən",
-        "filename": "deu_pastsentence2_59"
-    },
-    {
-        "sentence": "hiːən",
-        "filename": "deu_barelemma_60"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: hiːən",
-        "filename": "deu_lemmasentence_60"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhoːn",
-        "filename": "deu_pastsentence1_60"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhiːt",
-        "filename": "deu_pastsentence2_60"
-    },
-    {
-        "sentence": "fɪŋən",
-        "filename": "deu_barelemma_61"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: fɪŋən",
-        "filename": "deu_lemmasentence_61"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfʊŋən",
-        "filename": "deu_pastsentence1_61"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfɪŋt",
-        "filename": "deu_pastsentence2_61"
-    },
-    {
-        "sentence": "heːnən",
-        "filename": "deu_barelemma_62"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: heːnən",
-        "filename": "deu_lemmasentence_62"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəheːnt",
-        "filename": "deu_pastsentence1_62"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhoːnən",
-        "filename": "deu_pastsentence2_62"
-    },
-    {
-        "sentence": "ɛrlau̯ən",
-        "filename": "deu_barelemma_63"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ɛrlau̯ən",
-        "filename": "deu_lemmasentence_63"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrlau̯t",
-        "filename": "deu_pastsentence1_63"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrlau̯n",
-        "filename": "deu_pastsentence2_63"
-    },
-    {
-        "sentence": "miːən",
-        "filename": "deu_barelemma_64"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: miːən",
-        "filename": "deu_lemmasentence_64"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəmiːt",
-        "filename": "deu_pastsentence1_64"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəmoːt",
-        "filename": "deu_pastsentence2_64"
-    },
-    {
-        "sentence": "au̯fən",
-        "filename": "deu_barelemma_65"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: au̯fən",
-        "filename": "deu_lemmasentence_65"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəau̯ft",
-        "filename": "deu_pastsentence1_65"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəau̯fən",
-        "filename": "deu_pastsentence2_65"
-    },
-    {
-        "sentence": "meːən",
-        "filename": "deu_barelemma_66"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: meːən",
-        "filename": "deu_lemmasentence_66"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəmeːt",
-        "filename": "deu_pastsentence1_66"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəmeːn",
-        "filename": "deu_pastsentence2_66"
-    },
-    {
-        "sentence": "jau̯ən",
-        "filename": "deu_barelemma_67"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: jau̯ən",
-        "filename": "deu_lemmasentence_67"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjau̯t",
-        "filename": "deu_pastsentence1_67"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjau̯n",
-        "filename": "deu_pastsentence2_67"
-    },
-    {
-        "sentence": "dau̯ən",
-        "filename": "deu_barelemma_68"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: dau̯ən",
-        "filename": "deu_lemmasentence_68"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədau̯t",
-        "filename": "deu_pastsentence1_68"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədau̯n",
-        "filename": "deu_pastsentence2_68"
-    },
-    {
-        "sentence": "asən",
-        "filename": "deu_barelemma_69"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: asən",
-        "filename": "deu_lemmasentence_69"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəast",
-        "filename": "deu_pastsentence1_69"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəasən",
-        "filename": "deu_pastsentence2_69"
-    },
-    {
-        "sentence": "talən",
-        "filename": "deu_barelemma_70"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: talən",
-        "filename": "deu_lemmasentence_70"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətalt",
-        "filename": "deu_pastsentence1_70"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətalən",
-        "filename": "deu_pastsentence2_70"
-    },
-    {
-        "sentence": "haksən",
-        "filename": "deu_barelemma_71"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: haksən",
-        "filename": "deu_lemmasentence_71"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhakst",
-        "filename": "deu_pastsentence1_71"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhaksən",
-        "filename": "deu_pastsentence2_71"
-    },
-    {
-        "sentence": "aʃən",
-        "filename": "deu_barelemma_72"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: aʃən",
-        "filename": "deu_lemmasentence_72"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəaʃt",
-        "filename": "deu_pastsentence1_72"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəaʃən",
-        "filename": "deu_pastsentence2_72"
-    },
-    {
-        "sentence": "tai̯ən",
-        "filename": "deu_barelemma_73"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: tai̯ən",
-        "filename": "deu_lemmasentence_73"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətai̯t",
-        "filename": "deu_pastsentence1_73"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətiːn",
-        "filename": "deu_pastsentence2_73"
-    },
-    {
-        "sentence": "mau̯ən",
-        "filename": "deu_barelemma_74"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: mau̯ən",
-        "filename": "deu_lemmasentence_74"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəmau̯t",
-        "filename": "deu_pastsentence1_74"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəmau̯n",
-        "filename": "deu_pastsentence2_74"
-    },
-    {
-        "sentence": "hai̯ən",
-        "filename": "deu_barelemma_75"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: hai̯ən",
-        "filename": "deu_lemmasentence_75"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhiːn",
-        "filename": "deu_pastsentence1_75"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhai̯n",
-        "filename": "deu_pastsentence2_75"
-    },
-    {
-        "sentence": "lai̯fən",
-        "filename": "deu_barelemma_76"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: lai̯fən",
-        "filename": "deu_lemmasentence_76"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəliːfən",
-        "filename": "deu_pastsentence1_76"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəlai̯ft",
-        "filename": "deu_pastsentence2_76"
-    },
-    {
-        "sentence": "vʏlən",
-        "filename": "deu_barelemma_77"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: vʏlən",
-        "filename": "deu_lemmasentence_77"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəvʏlt",
-        "filename": "deu_pastsentence1_77"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəvʏlən",
-        "filename": "deu_pastsentence2_77"
-    },
-    {
-        "sentence": "tsau̯ən",
-        "filename": "deu_barelemma_78"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: tsau̯ən",
-        "filename": "deu_lemmasentence_78"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsau̯t",
-        "filename": "deu_pastsentence1_78"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsau̯n",
-        "filename": "deu_pastsentence2_78"
-    },
-    {
-        "sentence": "fiːən",
-        "filename": "deu_barelemma_79"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: fiːən",
-        "filename": "deu_lemmasentence_79"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfiːt",
-        "filename": "deu_pastsentence1_79"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfoːt",
-        "filename": "deu_pastsentence2_79"
-    },
-    {
-        "sentence": "feːən",
-        "filename": "deu_barelemma_80"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: feːən",
-        "filename": "deu_lemmasentence_80"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfeːt",
-        "filename": "deu_pastsentence1_80"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfeːn",
-        "filename": "deu_pastsentence2_80"
-    },
-    {
-        "sentence": "kai̯ən",
-        "filename": "deu_barelemma_81"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: kai̯ən",
-        "filename": "deu_lemmasentence_81"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkai̯t",
-        "filename": "deu_pastsentence1_81"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkai̯n",
-        "filename": "deu_pastsentence2_81"
-    },
-    {
-        "sentence": "piːən",
-        "filename": "deu_barelemma_82"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: piːən",
-        "filename": "deu_lemmasentence_82"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəpiːt",
-        "filename": "deu_pastsentence1_82"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəpoːn",
-        "filename": "deu_pastsentence2_82"
-    },
-    {
-        "sentence": "rasən",
-        "filename": "deu_barelemma_83"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: rasən",
-        "filename": "deu_lemmasentence_83"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərast",
-        "filename": "deu_pastsentence1_83"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərasən",
-        "filename": "deu_pastsentence2_83"
-    },
-    {
-        "sentence": "jeːən",
-        "filename": "deu_barelemma_84"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: jeːən",
-        "filename": "deu_lemmasentence_84"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjeːt",
-        "filename": "deu_pastsentence1_84"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjeːn",
-        "filename": "deu_pastsentence2_84"
-    },
-    {
-        "sentence": "zeːrən",
-        "filename": "deu_barelemma_85"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: zeːrən",
-        "filename": "deu_lemmasentence_85"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzeːrt",
-        "filename": "deu_pastsentence1_85"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzoːrən",
-        "filename": "deu_pastsentence2_85"
-    },
-    {
-        "sentence": "mɔlən",
-        "filename": "deu_barelemma_86"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: mɔlən",
-        "filename": "deu_lemmasentence_86"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəmɔlt",
-        "filename": "deu_pastsentence1_86"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəmɔlən",
-        "filename": "deu_pastsentence2_86"
-    },
-    {
-        "sentence": "ʃɛːrən",
-        "filename": "deu_barelemma_87"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ʃɛːrən",
-        "filename": "deu_lemmasentence_87"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃɛːrt",
-        "filename": "deu_pastsentence1_87"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃoːrən",
-        "filename": "deu_pastsentence2_87"
-    },
-    {
-        "sentence": "jɪŋən",
-        "filename": "deu_barelemma_88"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: jɪŋən",
-        "filename": "deu_lemmasentence_88"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjʊŋən",
-        "filename": "deu_pastsentence1_88"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjɪŋt",
-        "filename": "deu_pastsentence2_88"
-    },
-    {
-        "sentence": "bɛːnən",
-        "filename": "deu_barelemma_89"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: bɛːnən",
-        "filename": "deu_lemmasentence_89"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbɛːnt",
-        "filename": "deu_pastsentence1_89"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbaːnt",
-        "filename": "deu_pastsentence2_89"
-    },
-    {
-        "sentence": "ruːtən",
-        "filename": "deu_barelemma_90"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ruːtən",
-        "filename": "deu_lemmasentence_90"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəruːtət",
-        "filename": "deu_pastsentence1_90"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəruːtən",
-        "filename": "deu_pastsentence2_90"
-    },
-    {
-        "sentence": "nai̯ən",
-        "filename": "deu_barelemma_91"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: nai̯ən",
-        "filename": "deu_lemmasentence_91"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gənai̯t",
-        "filename": "deu_pastsentence1_91"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gənɪt",
-        "filename": "deu_pastsentence2_91"
-    },
-    {
-        "sentence": "ɛrai̯ən",
-        "filename": "deu_barelemma_92"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ɛrai̯ən",
-        "filename": "deu_lemmasentence_92"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrai̯t",
-        "filename": "deu_pastsentence1_92"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrai̯n",
-        "filename": "deu_pastsentence2_92"
-    },
-    {
-        "sentence": "ɛrzau̯ən",
-        "filename": "deu_barelemma_93"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ɛrzau̯ən",
-        "filename": "deu_lemmasentence_93"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrzɔtən",
-        "filename": "deu_pastsentence1_93"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrzau̯n",
-        "filename": "deu_pastsentence2_93"
-    },
-    {
-        "sentence": "brɛsən",
-        "filename": "deu_barelemma_94"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: brɛsən",
-        "filename": "deu_lemmasentence_94"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbrɔsən",
-        "filename": "deu_pastsentence1_94"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbrɛsən",
-        "filename": "deu_pastsentence2_94"
-    },
-    {
-        "sentence": "brɛndən",
-        "filename": "deu_barelemma_95"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: brɛndən",
-        "filename": "deu_lemmasentence_95"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbrɛndət",
-        "filename": "deu_pastsentence1_95"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbrandət",
-        "filename": "deu_pastsentence2_95"
-    },
-    {
-        "sentence": "dau̯fən",
-        "filename": "deu_barelemma_96"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: dau̯fən",
-        "filename": "deu_lemmasentence_96"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədɔfən",
-        "filename": "deu_pastsentence1_96"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədau̯ft",
-        "filename": "deu_pastsentence2_96"
-    },
-    {
-        "sentence": "ɛrbɪŋən",
-        "filename": "deu_barelemma_97"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ɛrbɪŋən",
-        "filename": "deu_lemmasentence_97"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrbeŋən",
-        "filename": "deu_pastsentence1_97"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrbʊŋən",
-        "filename": "deu_pastsentence2_97"
-    },
-    {
-        "sentence": "zai̯dən",
-        "filename": "deu_barelemma_98"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: zai̯dən",
-        "filename": "deu_lemmasentence_98"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzai̯dət",
-        "filename": "deu_pastsentence1_98"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzɔtən",
-        "filename": "deu_pastsentence2_98"
-    },
-    {
-        "sentence": "frɛstən",
-        "filename": "deu_barelemma_99"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: frɛstən",
-        "filename": "deu_lemmasentence_99"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfrɛstət",
-        "filename": "deu_pastsentence1_99"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfrɔstən",
-        "filename": "deu_pastsentence2_99"
-    },
-    {
-        "sentence": "ʃtrɪŋən",
-        "filename": "deu_barelemma_100"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ʃtrɪŋən",
-        "filename": "deu_lemmasentence_100"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtrʊŋən",
-        "filename": "deu_pastsentence1_100"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃtraŋən",
-        "filename": "deu_pastsentence2_100"
-    },
-    {
-        "sentence": "brai̯ən",
-        "filename": "deu_barelemma_101"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: brai̯ən",
-        "filename": "deu_lemmasentence_101"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbrai̯t",
-        "filename": "deu_pastsentence1_101"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbriːn",
-        "filename": "deu_pastsentence2_101"
-    },
-    {
-        "sentence": "drɛftən",
-        "filename": "deu_barelemma_102"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: drɛftən",
-        "filename": "deu_lemmasentence_102"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədrɔftən",
-        "filename": "deu_pastsentence1_102"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədrɛftət",
-        "filename": "deu_pastsentence2_102"
-    },
-    {
-        "sentence": "əraːbən",
-        "filename": "deu_barelemma_103"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: əraːbən",
-        "filename": "deu_lemmasentence_103"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəraːbən",
-        "filename": "deu_pastsentence1_103"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəraːpt",
-        "filename": "deu_pastsentence2_103"
-    },
-    {
-        "sentence": "zau̯ən",
-        "filename": "deu_barelemma_104"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: zau̯ən",
-        "filename": "deu_lemmasentence_104"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzau̯t",
-        "filename": "deu_pastsentence1_104"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzɔt",
-        "filename": "deu_pastsentence2_104"
-    },
-    {
-        "sentence": "bruːtən",
-        "filename": "deu_barelemma_105"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: bruːtən",
-        "filename": "deu_lemmasentence_105"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbruːtət",
-        "filename": "deu_pastsentence1_105"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbruːtən",
-        "filename": "deu_pastsentence2_105"
-    },
-    {
-        "sentence": "ɛrluːdən",
-        "filename": "deu_barelemma_106"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ɛrluːdən",
-        "filename": "deu_lemmasentence_106"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrluːdət",
-        "filename": "deu_pastsentence1_106"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrluːdən",
-        "filename": "deu_pastsentence2_106"
-    },
-    {
-        "sentence": "vai̯ʃən",
-        "filename": "deu_barelemma_107"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: vai̯ʃən",
-        "filename": "deu_lemmasentence_107"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəvai̯ʃt",
-        "filename": "deu_pastsentence1_107"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəviːʃən",
-        "filename": "deu_pastsentence2_107"
-    },
-    {
-        "sentence": "tai̯dən",
-        "filename": "deu_barelemma_108"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: tai̯dən",
-        "filename": "deu_lemmasentence_108"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətai̯dət",
-        "filename": "deu_pastsentence1_108"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətiːdən",
-        "filename": "deu_pastsentence2_108"
-    },
-    {
-        "sentence": "hau̯fən",
-        "filename": "deu_barelemma_109"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: hau̯fən",
-        "filename": "deu_lemmasentence_109"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhau̯ft",
-        "filename": "deu_pastsentence1_109"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhiːfən",
-        "filename": "deu_pastsentence2_109"
-    },
-    {
-        "sentence": "flai̯ən",
-        "filename": "deu_barelemma_110"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: flai̯ən",
-        "filename": "deu_lemmasentence_110"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfliːn",
-        "filename": "deu_pastsentence1_110"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəflai̯t",
-        "filename": "deu_pastsentence2_110"
-    },
-    {
-        "sentence": "bəneːzən",
-        "filename": "deu_barelemma_111"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: bəneːzən",
-        "filename": "deu_lemmasentence_111"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəneːzən",
-        "filename": "deu_pastsentence1_111"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bənaːzən",
-        "filename": "deu_pastsentence2_111"
-    },
-    {
-        "sentence": "hau̯bən",
-        "filename": "deu_barelemma_112"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: hau̯bən",
-        "filename": "deu_lemmasentence_112"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhau̯pt",
-        "filename": "deu_pastsentence1_112"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhau̯bən",
-        "filename": "deu_pastsentence2_112"
-    },
-    {
-        "sentence": "ɛreːtən",
-        "filename": "deu_barelemma_113"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ɛreːtən",
-        "filename": "deu_lemmasentence_113"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛreːtət",
-        "filename": "deu_pastsentence1_113"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛroːtən",
-        "filename": "deu_pastsentence2_113"
-    },
-    {
-        "sentence": "hiːtən",
-        "filename": "deu_barelemma_114"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: hiːtən",
-        "filename": "deu_lemmasentence_114"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhiːtət",
-        "filename": "deu_pastsentence1_114"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhoːtən",
-        "filename": "deu_pastsentence2_114"
-    },
-    {
-        "sentence": "jau̯fən",
-        "filename": "deu_barelemma_115"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: jau̯fən",
-        "filename": "deu_lemmasentence_115"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjau̯ft",
-        "filename": "deu_pastsentence1_115"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjɔfən",
-        "filename": "deu_pastsentence2_115"
-    },
-    {
-        "sentence": "raːbən",
-        "filename": "deu_barelemma_116"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: raːbən",
-        "filename": "deu_lemmasentence_116"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəraːpt",
-        "filename": "deu_pastsentence1_116"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəraːbən",
-        "filename": "deu_pastsentence2_116"
-    },
-    {
-        "sentence": "fai̯xən",
-        "filename": "deu_barelemma_117"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: fai̯xən",
-        "filename": "deu_lemmasentence_117"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfai̯xt",
-        "filename": "deu_pastsentence1_117"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfɪxən",
-        "filename": "deu_pastsentence2_117"
-    },
-    {
-        "sentence": "hai̯fən",
-        "filename": "deu_barelemma_118"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: hai̯fən",
-        "filename": "deu_lemmasentence_118"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhai̯ft",
-        "filename": "deu_pastsentence1_118"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhiːfən",
-        "filename": "deu_pastsentence2_118"
-    },
-    {
-        "sentence": "ɛrheːən",
-        "filename": "deu_barelemma_119"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ɛrheːən",
-        "filename": "deu_lemmasentence_119"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrhoːn",
-        "filename": "deu_pastsentence1_119"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn ɛrheːn",
-        "filename": "deu_pastsentence2_119"
-    },
-    {
-        "sentence": "əlai̯nən",
-        "filename": "deu_barelemma_120"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: əlai̯nən",
-        "filename": "deu_lemmasentence_120"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəlai̯nt",
-        "filename": "deu_pastsentence1_120"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəlai̯nt",
-        "filename": "deu_pastsentence2_120"
-    },
-    {
-        "sentence": "jai̯dən",
-        "filename": "deu_barelemma_121"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: jai̯dən",
-        "filename": "deu_lemmasentence_121"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjai̯dət",
-        "filename": "deu_pastsentence1_121"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjiːdən",
-        "filename": "deu_pastsentence2_121"
-    },
-    {
-        "sentence": "ʃpai̯nən",
-        "filename": "deu_barelemma_122"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ʃpai̯nən",
-        "filename": "deu_lemmasentence_122"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃpai̯nt",
-        "filename": "deu_pastsentence1_122"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʃpiːnən",
-        "filename": "deu_pastsentence2_122"
-    },
-    {
-        "sentence": "kɪŋən",
-        "filename": "deu_barelemma_123"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: kɪŋən",
-        "filename": "deu_lemmasentence_123"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkʊŋən",
-        "filename": "deu_pastsentence1_123"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkɪŋt",
-        "filename": "deu_pastsentence2_123"
-    },
-    {
-        "sentence": "jai̯fən",
-        "filename": "deu_barelemma_124"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: jai̯fən",
-        "filename": "deu_lemmasentence_124"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjai̯ft",
-        "filename": "deu_pastsentence1_124"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjiːfən",
-        "filename": "deu_pastsentence2_124"
-    },
-    {
-        "sentence": "rai̯dən",
-        "filename": "deu_barelemma_125"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: rai̯dən",
-        "filename": "deu_lemmasentence_125"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gərai̯dət",
-        "filename": "deu_pastsentence1_125"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəriːdən",
-        "filename": "deu_pastsentence2_125"
-    },
-    {
-        "sentence": "fɛrzaːən",
-        "filename": "deu_barelemma_126"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: fɛrzaːən",
-        "filename": "deu_lemmasentence_126"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn fɛrzaːn",
-        "filename": "deu_pastsentence1_126"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn fɛrzaːt",
-        "filename": "deu_pastsentence2_126"
-    },
-    {
-        "sentence": "kɛndən",
-        "filename": "deu_barelemma_127"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: kɛndən",
-        "filename": "deu_lemmasentence_127"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkandət",
-        "filename": "deu_pastsentence1_127"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkɛndət",
-        "filename": "deu_pastsentence2_127"
-    },
-    {
-        "sentence": "blai̯nən",
-        "filename": "deu_barelemma_128"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: blai̯nən",
-        "filename": "deu_lemmasentence_128"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəblai̯nt",
-        "filename": "deu_pastsentence1_128"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəbliːnən",
-        "filename": "deu_pastsentence2_128"
-    },
-    {
-        "sentence": "fau̯fən",
-        "filename": "deu_barelemma_129"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: fau̯fən",
-        "filename": "deu_lemmasentence_129"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfau̯ft",
-        "filename": "deu_pastsentence1_129"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfɔfən",
-        "filename": "deu_pastsentence2_129"
-    },
-    {
-        "sentence": "drɪŋən",
-        "filename": "deu_barelemma_130"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: drɪŋən",
-        "filename": "deu_lemmasentence_130"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədrʊŋən",
-        "filename": "deu_pastsentence1_130"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gədrɔŋən",
-        "filename": "deu_pastsentence2_130"
-    },
-    {
-        "sentence": "frɪŋən",
-        "filename": "deu_barelemma_131"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: frɪŋən",
-        "filename": "deu_lemmasentence_131"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfrʊŋən",
-        "filename": "deu_pastsentence1_131"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfrɔŋən",
-        "filename": "deu_pastsentence2_131"
-    },
-    {
-        "sentence": "ʒɛŋən",
-        "filename": "deu_barelemma_132"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ʒɛŋən",
-        "filename": "deu_lemmasentence_132"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʒɛŋt",
-        "filename": "deu_pastsentence1_132"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəʒɛŋən",
-        "filename": "deu_pastsentence2_132"
-    },
-    {
-        "sentence": "biːən",
-        "filename": "deu_barelemma_133"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: biːən",
-        "filename": "deu_lemmasentence_133"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəboːn",
-        "filename": "deu_pastsentence1_133"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəboːt",
-        "filename": "deu_pastsentence2_133"
-    },
-    {
-        "sentence": "jai̯ən",
-        "filename": "deu_barelemma_134"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: jai̯ən",
-        "filename": "deu_lemmasentence_134"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjai̯t",
-        "filename": "deu_pastsentence1_134"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjai̯n",
-        "filename": "deu_pastsentence2_134"
-    },
-    {
-        "sentence": "ziːən",
-        "filename": "deu_barelemma_135"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: ziːən",
-        "filename": "deu_lemmasentence_135"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəziːt",
-        "filename": "deu_pastsentence1_135"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzɔt",
-        "filename": "deu_pastsentence2_135"
-    },
-    {
-        "sentence": "fau̯ən",
-        "filename": "deu_barelemma_136"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: fau̯ən",
-        "filename": "deu_lemmasentence_136"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfau̯t",
-        "filename": "deu_pastsentence1_136"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfau̯n",
-        "filename": "deu_pastsentence2_136"
-    },
-    {
-        "sentence": "pau̯ən",
-        "filename": "deu_barelemma_137"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: pau̯ən",
-        "filename": "deu_lemmasentence_137"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəpau̯t",
-        "filename": "deu_pastsentence1_137"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəpau̯n",
-        "filename": "deu_pastsentence2_137"
-    },
-    {
-        "sentence": "jiːən",
-        "filename": "deu_barelemma_138"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: jiːən",
-        "filename": "deu_lemmasentence_138"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjiːt",
-        "filename": "deu_pastsentence1_138"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəjoːn",
-        "filename": "deu_pastsentence2_138"
-    },
-    {
-        "sentence": "kleːrən",
-        "filename": "deu_barelemma_139"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: kleːrən",
-        "filename": "deu_lemmasentence_139"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkleːrt",
-        "filename": "deu_pastsentence1_139"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkloːrən",
-        "filename": "deu_pastsentence2_139"
-    },
-    {
-        "sentence": "tɛŋkən",
-        "filename": "deu_barelemma_140"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: tɛŋkən",
-        "filename": "deu_lemmasentence_140"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətɛŋkt",
-        "filename": "deu_pastsentence1_140"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətaxt",
-        "filename": "deu_pastsentence2_140"
-    },
-    {
-        "sentence": "bəreːtən",
-        "filename": "deu_barelemma_141"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: bəreːtən",
-        "filename": "deu_lemmasentence_141"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəreːtən",
-        "filename": "deu_pastsentence1_141"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəroːtən",
-        "filename": "deu_pastsentence2_141"
-    },
-    {
-        "sentence": "feːrən",
-        "filename": "deu_barelemma_142"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: feːrən",
-        "filename": "deu_lemmasentence_142"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfeːrt",
-        "filename": "deu_pastsentence1_142"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəfoːrən",
-        "filename": "deu_pastsentence2_142"
-    },
-    {
-        "sentence": "tsɪŋən",
-        "filename": "deu_barelemma_143"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: tsɪŋən",
-        "filename": "deu_lemmasentence_143"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsɪŋt",
-        "filename": "deu_pastsentence1_143"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gətsʊŋən",
-        "filename": "deu_pastsentence2_143"
-    },
-    {
-        "sentence": "vɪŋən",
-        "filename": "deu_barelemma_144"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: vɪŋən",
-        "filename": "deu_lemmasentence_144"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəvʊŋən",
-        "filename": "deu_pastsentence1_144"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəvɪŋt",
-        "filename": "deu_pastsentence2_144"
-    },
-    {
-        "sentence": "heːnən",
-        "filename": "deu_barelemma_145"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: heːnən",
-        "filename": "deu_lemmasentence_145"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəheːnt",
-        "filename": "deu_pastsentence1_145"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhoːnən",
-        "filename": "deu_pastsentence2_145"
-    },
-    {
-        "sentence": "heːrən",
-        "filename": "deu_barelemma_146"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: heːrən",
-        "filename": "deu_lemmasentence_146"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəheːrt",
-        "filename": "deu_pastsentence1_146"
-    },
-    {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhoːrən",
-        "filename": "deu_pastsentence2_146"
-    },
-    {
-        "sentence": "zai̯ən",
-        "filename": "deu_barelemma_147"
-    },
-    {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: zai̯ən",
-        "filename": "deu_lemmasentence_147"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzai̯t",
-        "filename": "deu_pastsentence1_147"
+        "sentence": "Verplaats de schuifregelaar helemaal naar links en dien in",
+        "filename": "nld_barelemma_151"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəzɔtən",
-        "filename": "deu_pastsentence2_147"
+        "sentence": "Verplaats de schuifregelaar helemaal naar rechts en dien in",
+        "filename": "nld_barelemma_152"
     },
     {
-        "sentence": "bəhiːbən",
-        "filename": "deu_barelemma_148"
+        "sentence": "vərzɛɪɣə",
+        "filename": "nld_barelemma_153"
     },
     {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: bəhiːbən",
-        "filename": "deu_lemmasentence_148"
+        "sentence": "de vrienden besloten te vərzɛɪɣə",
+        "filename": "nld_lemmasentence_153"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəhoːbən",
-        "filename": "deu_pastsentence1_148"
+        "sentence": "het was gisteren toen ze vərzɛɪɣdə",
+        "filename": "nld_pastsentence1_153"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn bəhiːpt",
-        "filename": "deu_pastsentence2_148"
+        "sentence": "het was gisteren toen ze vərzeːɣə",
+        "filename": "nld_pastsentence2_153"
     },
     {
-        "sentence": "kalən",
-        "filename": "deu_barelemma_149"
+        "sentence": "wɑlvə",
+        "filename": "nld_barelemma_154"
     },
     {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: kalən",
-        "filename": "deu_lemmasentence_149"
+        "sentence": "de vrienden besloten te wɑlvə",
+        "filename": "nld_lemmasentence_154"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkalt",
-        "filename": "deu_pastsentence1_149"
+        "sentence": "het was gisteren toen ze wɑlvdə",
+        "filename": "nld_pastsentence1_154"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəkau̯lt",
-        "filename": "deu_pastsentence2_149"
+        "sentence": "het was gisteren toen ze wiːlvə",
+        "filename": "nld_pastsentence2_154"
     },
     {
-        "sentence": "hɔlən",
-        "filename": "deu_barelemma_150"
+        "sentence": "slʊɪzə",
+        "filename": "nld_barelemma_155"
     },
     {
-        "sentence": "de:ɐ̯ man bəʃlɔs t͡su: hɔlən",
-        "filename": "deu_lemmasentence_150"
+        "sentence": "de vrienden besloten te slʊɪzə",
+        "filename": "nld_lemmasentence_155"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhɔlt",
-        "filename": "deu_pastsentence1_150"
+        "sentence": "het was gisteren toen ze slʊɪzdə",
+        "filename": "nld_pastsentence1_155"
     },
     {
-        "sentence": "de:ɐ̯ man hatə ɛɐ̯st gəʃtɐn gəhɔlən",
-        "filename": "deu_pastsentence2_150"
+        "sentence": "het was gisteren toen ze sliːsə",
+        "filename": "nld_pastsentence2_155"
     }
 ]
 }
