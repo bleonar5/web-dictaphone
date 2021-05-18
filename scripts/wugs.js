@@ -7319,5 +7319,2464 @@ stim_data = {
         "filename": "deu_barelemma_152"
     }
     
+],
+    'rus': [
+    {
+        "sentence": "zəvʲɪsʲtʲi",
+        "filename": "rus_barelemma_1"
+    },
+    {
+        "sentence": "Мужчина решил zəvʲɪsʲtʲi",
+        "filename": "rus_lemmasentence_1"
+    },
+    {
+        "sentence": "Вчера мужчина zɐvʲɵlˠ",
+        "filename": "rus_pastsentence1_1"
+    },
+    {
+        "sentence": "Вчера мужчина zɐvʲɵs",
+        "filename": "rus_pastsentence2_1"
+    },
+    {
+        "sentence": "dɐtʲisʲ",
+        "filename": "rus_barelemma_2"
+    },
+    {
+        "sentence": "Мужчина решил dɐtʲisʲ",
+        "filename": "rus_lemmasentence_2"
+    },
+    {
+        "sentence": "Вчера мужчина dɐtʲɵlˠsʲə",
+        "filename": "rus_pastsentence1_2"
+    },
+    {
+        "sentence": "Вчера мужчина dɐtʲɵsʲːə",
+        "filename": "rus_pastsentence2_2"
+    },
+    {
+        "sentence": "sʲtʲisʲ",
+        "filename": "rus_barelemma_3"
+    },
+    {
+        "sentence": "Мужчина решил sʲtʲisʲ",
+        "filename": "rus_lemmasentence_3"
+    },
+    {
+        "sentence": "Вчера мужчина sʲɵlˠsʲə",
+        "filename": "rus_pastsentence1_3"
+    },
+    {
+        "sentence": "Вчера мужчина sʲɵsʲːə",
+        "filename": "rus_pastsentence2_3"
+    },
+    {
+        "sentence": "rəzgɐnʲtʲi",
+        "filename": "rus_barelemma_4"
+    },
+    {
+        "sentence": "Мужчина решил rəzgɐnʲtʲi",
+        "filename": "rus_lemmasentence_4"
+    },
+    {
+        "sentence": "Вчера мужчина rɐzganʲ",
+        "filename": "rus_pastsentence1_4"
+    },
+    {
+        "sentence": "Вчера мужчина rɐzganʲɪlˠ",
+        "filename": "rus_pastsentence2_4"
+    },
+    {
+        "sentence": "ʂɐsʲtʲi",
+        "filename": "rus_barelemma_5"
+    },
+    {
+        "sentence": "Мужчина решил ʂɐsʲtʲi",
+        "filename": "rus_lemmasentence_5"
+    },
+    {
+        "sentence": "Вчера мужчина ʂɐsʲɵ",
+        "filename": "rus_pastsentence1_5"
+    },
+    {
+        "sentence": "Вчера мужчина ʂos",
+        "filename": "rus_pastsentence2_5"
+    },
+    {
+        "sentence": "dosnʊtʲ",
+        "filename": "rus_barelemma_6"
+    },
+    {
+        "sentence": "Мужчина решил dosnʊtʲ",
+        "filename": "rus_lemmasentence_6"
+    },
+    {
+        "sentence": "Вчера мужчина dos",
+        "filename": "rus_pastsentence1_6"
+    },
+    {
+        "sentence": "Вчера мужчина dosnʊlˠ",
+        "filename": "rus_pastsentence2_6"
+    },
+    {
+        "sentence": "rɐsʲtʲi",
+        "filename": "rus_barelemma_7"
+    },
+    {
+        "sentence": "Мужчина решил rɐsʲtʲi",
+        "filename": "rus_lemmasentence_7"
+    },
+    {
+        "sentence": "Вчера мужчина ros",
+        "filename": "rus_pastsentence1_7"
+    },
+    {
+        "sentence": "Вчера мужчина rɐsʲɵk",
+        "filename": "rus_pastsentence2_7"
+    },
+    {
+        "sentence": "rɐsʲːtʲi",
+        "filename": "rus_barelemma_8"
+    },
+    {
+        "sentence": "Мужчина решил rɐsʲːtʲi",
+        "filename": "rus_lemmasentence_8"
+    },
+    {
+        "sentence": "Вчера мужчина rɐsʲːɵlˠ",
+        "filename": "rus_pastsentence1_8"
+    },
+    {
+        "sentence": "Вчера мужчина rosʲːə",
+        "filename": "rus_pastsentence2_8"
+    },
+    {
+        "sentence": "rɐzvatsːə",
+        "filename": "rus_barelemma_9"
+    },
+    {
+        "sentence": "Мужчина решил rɐzvatsːə",
+        "filename": "rus_lemmasentence_9"
+    },
+    {
+        "sentence": "Вчера мужчина rɐzvalˠsʲə",
+        "filename": "rus_pastsentence1_9"
+    },
+    {
+        "sentence": "Вчера мужчина rəzvɐlˠsʲa",
+        "filename": "rus_pastsentence2_9"
+    },
+    {
+        "sentence": "pɐdvatsːə",
+        "filename": "rus_barelemma_10"
+    },
+    {
+        "sentence": "Мужчина решил pɐdvatsːə",
+        "filename": "rus_lemmasentence_10"
+    },
+    {
+        "sentence": "Вчера мужчина pɐdvalˠsʲə",
+        "filename": "rus_pastsentence1_10"
+    },
+    {
+        "sentence": "Вчера мужчина pɐdvɐlˠsʲa",
+        "filename": "rus_pastsentence2_10"
+    },
+    {
+        "sentence": "grʲɪsʲtʲisʲ",
+        "filename": "rus_barelemma_11"
+    },
+    {
+        "sentence": "Мужчина решил grʲɪsʲtʲisʲ",
+        "filename": "rus_lemmasentence_11"
+    },
+    {
+        "sentence": "Вчера мужчина grʲɵlˠsʲə",
+        "filename": "rus_pastsentence1_11"
+    },
+    {
+        "sentence": "Вчера мужчина grʲɵsʲːə",
+        "filename": "rus_pastsentence2_11"
+    },
+    {
+        "sentence": "dɐsʲtʲisʲ",
+        "filename": "rus_barelemma_12"
+    },
+    {
+        "sentence": "Мужчина решил dɐsʲtʲisʲ",
+        "filename": "rus_lemmasentence_12"
+    },
+    {
+        "sentence": "Вчера мужчина dɐsʲɵlˠsʲə",
+        "filename": "rus_pastsentence1_12"
+    },
+    {
+        "sentence": "Вчера мужчина dosʲə",
+        "filename": "rus_pastsentence2_12"
+    },
+    {
+        "sentence": "kɐsʲtʲisʲ",
+        "filename": "rus_barelemma_13"
+    },
+    {
+        "sentence": "Мужчина решил kɐsʲtʲisʲ",
+        "filename": "rus_lemmasentence_13"
+    },
+    {
+        "sentence": "Вчера мужчина kosʲə",
+        "filename": "rus_pastsentence1_13"
+    },
+    {
+        "sentence": "Вчера мужчина kolˠsʲə",
+        "filename": "rus_pastsentence2_13"
+    },
+    {
+        "sentence": "dɐdvatsːə",
+        "filename": "rus_barelemma_14"
+    },
+    {
+        "sentence": "Мужчина решил dɐdvatsːə",
+        "filename": "rus_lemmasentence_14"
+    },
+    {
+        "sentence": "Вчера мужчина dɐdvalˠsʲə",
+        "filename": "rus_pastsentence1_14"
+    },
+    {
+        "sentence": "Вчера мужчина dɐdvɐlˠsʲa",
+        "filename": "rus_pastsentence2_14"
+    },
+    {
+        "sentence": "prʲɪvatsːə",
+        "filename": "rus_barelemma_15"
+    },
+    {
+        "sentence": "Мужчина решил prʲɪvatsːə",
+        "filename": "rus_lemmasentence_15"
+    },
+    {
+        "sentence": "Вчера мужчина prʲɪvalˠsʲə",
+        "filename": "rus_pastsentence1_15"
+    },
+    {
+        "sentence": "Вчера мужчина prʲɪvɐlˠsʲa",
+        "filename": "rus_pastsentence2_15"
+    },
+    {
+        "sentence": "pʲɪrʲɪdatsːə",
+        "filename": "rus_barelemma_16"
+    },
+    {
+        "sentence": "Мужчина решил pʲɪrʲɪdatsːə",
+        "filename": "rus_lemmasentence_16"
+    },
+    {
+        "sentence": "Вчера мужчина pʲɪrʲɪdɐlˠsʲa",
+        "filename": "rus_pastsentence1_16"
+    },
+    {
+        "sentence": "Вчера мужчина pʲɪrʲɪdalˠsʲə",
+        "filename": "rus_pastsentence2_16"
+    },
+    {
+        "sentence": "zɐdvatsːə",
+        "filename": "rus_barelemma_17"
+    },
+    {
+        "sentence": "Мужчина решил zɐdvatsːə",
+        "filename": "rus_lemmasentence_17"
+    },
+    {
+        "sentence": "Вчера мужчина zɐdvalˠsʲə",
+        "filename": "rus_pastsentence1_17"
+    },
+    {
+        "sentence": "Вчера мужчина zɐdvɐlˠsʲa",
+        "filename": "rus_pastsentence2_17"
+    },
+    {
+        "sentence": "ɐblˠapnʊtʲ",
+        "filename": "rus_barelemma_18"
+    },
+    {
+        "sentence": "Мужчина решил ɐblˠapnʊtʲ",
+        "filename": "rus_lemmasentence_18"
+    },
+    {
+        "sentence": "Вчера мужчина ɐblˠapnʊlˠ",
+        "filename": "rus_pastsentence1_18"
+    },
+    {
+        "sentence": "Вчера мужчина ɐblˠap",
+        "filename": "rus_pastsentence2_18"
+    },
+    {
+        "sentence": "zɐvʲenʊtsə",
+        "filename": "rus_barelemma_19"
+    },
+    {
+        "sentence": "Мужчина решил zɐvʲenʊtsə",
+        "filename": "rus_lemmasentence_19"
+    },
+    {
+        "sentence": "Вчера мужчина zɐvʲenʊlˠsʲə",
+        "filename": "rus_pastsentence1_19"
+    },
+    {
+        "sentence": "Вчера мужчина zɐvʲelˠsʲə",
+        "filename": "rus_pastsentence2_19"
+    },
+    {
+        "sentence": "rɐsʲːisʲ",
+        "filename": "rus_barelemma_20"
+    },
+    {
+        "sentence": "Мужчина решил rɐsʲːisʲ",
+        "filename": "rus_lemmasentence_20"
+    },
+    {
+        "sentence": "Вчера мужчина rosʲːə",
+        "filename": "rus_pastsentence1_20"
+    },
+    {
+        "sentence": "Вчера мужчина rɐsʲːɵ",
+        "filename": "rus_pastsentence2_20"
+    },
+    {
+        "sentence": "zɐgusʲtʲ",
+        "filename": "rus_barelemma_21"
+    },
+    {
+        "sentence": "Мужчина решил zɐgusʲtʲ",
+        "filename": "rus_lemmasentence_21"
+    },
+    {
+        "sentence": "Вчера мужчина zɐgulˠ",
+        "filename": "rus_pastsentence1_21"
+    },
+    {
+        "sentence": "Вчера мужчина zɐgus",
+        "filename": "rus_pastsentence2_21"
+    },
+    {
+        "sentence": "zəpʲɪrʲetʲ",
+        "filename": "rus_barelemma_22"
+    },
+    {
+        "sentence": "Мужчина решил zəpʲɪrʲetʲ",
+        "filename": "rus_lemmasentence_22"
+    },
+    {
+        "sentence": "Вчера мужчина zɐprulˠ",
+        "filename": "rus_pastsentence1_22"
+    },
+    {
+        "sentence": "Вчера мужчина zɐpʲɵr",
+        "filename": "rus_pastsentence2_22"
+    },
+    {
+        "sentence": "ɐsvʲitsːə",
+        "filename": "rus_barelemma_23"
+    },
+    {
+        "sentence": "Мужчина решил ɐsvʲitsːə",
+        "filename": "rus_lemmasentence_23"
+    },
+    {
+        "sentence": "Вчера мужчина ɐsvʲɪlˠsʲa",
+        "filename": "rus_pastsentence1_23"
+    },
+    {
+        "sentence": "Вчера мужчина ɐsvʲilˠsʲə",
+        "filename": "rus_pastsentence2_23"
+    },
+    {
+        "sentence": "ɐprɐsʲtʲi",
+        "filename": "rus_barelemma_24"
+    },
+    {
+        "sentence": "Мужчина решил ɐprɐsʲtʲi",
+        "filename": "rus_lemmasentence_24"
+    },
+    {
+        "sentence": "Вчера мужчина ɐpros",
+        "filename": "rus_pastsentence1_24"
+    },
+    {
+        "sentence": "Вчера мужчина ɐprɐs",
+        "filename": "rus_pastsentence2_24"
+    },
+    {
+        "sentence": "mɐsʲtʲi",
+        "filename": "rus_barelemma_25"
+    },
+    {
+        "sentence": "Мужчина решил mɐsʲtʲi",
+        "filename": "rus_lemmasentence_25"
+    },
+    {
+        "sentence": "Вчера мужчина mos",
+        "filename": "rus_pastsentence1_25"
+    },
+    {
+        "sentence": "Вчера мужчина mosʲə",
+        "filename": "rus_pastsentence2_25"
+    },
+    {
+        "sentence": "nɐsʲtʲisʲ",
+        "filename": "rus_barelemma_26"
+    },
+    {
+        "sentence": "Мужчина решил nɐsʲtʲisʲ",
+        "filename": "rus_lemmasentence_26"
+    },
+    {
+        "sentence": "Вчера мужчина nɐsʲɵlˠsʲə",
+        "filename": "rus_pastsentence1_26"
+    },
+    {
+        "sentence": "Вчера мужчина nosʲə",
+        "filename": "rus_pastsentence2_26"
+    },
+    {
+        "sentence": "prɐdvʲitsːə",
+        "filename": "rus_barelemma_27"
+    },
+    {
+        "sentence": "Мужчина решил prɐdvʲitsːə",
+        "filename": "rus_lemmasentence_27"
+    },
+    {
+        "sentence": "Вчера мужчина prɐdvʲilˠsʲə",
+        "filename": "rus_pastsentence1_27"
+    },
+    {
+        "sentence": "Вчера мужчина prədvʲɪlˠsʲa",
+        "filename": "rus_pastsentence2_27"
+    },
+    {
+        "sentence": "lˠɐsʲtʲi",
+        "filename": "rus_barelemma_28"
+    },
+    {
+        "sentence": "Мужчина решил lˠɐsʲtʲi",
+        "filename": "rus_lemmasentence_28"
+    },
+    {
+        "sentence": "Вчера мужчина lˠos",
+        "filename": "rus_pastsentence1_28"
+    },
+    {
+        "sentence": "Вчера мужчина lˠosʲə",
+        "filename": "rus_pastsentence2_28"
+    },
+    {
+        "sentence": "nɐzvatsːə",
+        "filename": "rus_barelemma_29"
+    },
+    {
+        "sentence": "Мужчина решил nɐzvatsːə",
+        "filename": "rus_lemmasentence_29"
+    },
+    {
+        "sentence": "Вчера мужчина nɐzvalˠsʲə",
+        "filename": "rus_pastsentence1_29"
+    },
+    {
+        "sentence": "Вчера мужчина nəzvɐlˠsʲa",
+        "filename": "rus_pastsentence2_29"
+    },
+    {
+        "sentence": "rəzvʲɪsʲtʲe",
+        "filename": "rus_barelemma_30"
+    },
+    {
+        "sentence": "Мужчина решил rəzvʲɪsʲtʲe",
+        "filename": "rus_lemmasentence_30"
+    },
+    {
+        "sentence": "Вчера мужчина rəzvʲɪlˠ",
+        "filename": "rus_pastsentence1_30"
+    },
+    {
+        "sentence": "Вчера мужчина rəzvʲɪz",
+        "filename": "rus_pastsentence2_30"
+    },
+    {
+        "sentence": "pɐtasnʊtʲ",
+        "filename": "rus_barelemma_31"
+    },
+    {
+        "sentence": "Мужчина решил pɐtasnʊtʲ",
+        "filename": "rus_lemmasentence_31"
+    },
+    {
+        "sentence": "Вчера мужчина pɐtasnʊlˠ",
+        "filename": "rus_pastsentence1_31"
+    },
+    {
+        "sentence": "Вчера мужчина pɐtas",
+        "filename": "rus_pastsentence2_31"
+    },
+    {
+        "sentence": "mʲesnʊtʲ",
+        "filename": "rus_barelemma_32"
+    },
+    {
+        "sentence": "Мужчина решил mʲesnʊtʲ",
+        "filename": "rus_lemmasentence_32"
+    },
+    {
+        "sentence": "Вчера мужчина mʲes",
+        "filename": "rus_pastsentence1_32"
+    },
+    {
+        "sentence": "Вчера мужчина mʲesnʊlˠ",
+        "filename": "rus_pastsentence2_32"
+    },
+    {
+        "sentence": "spʲisʲtʲ",
+        "filename": "rus_barelemma_33"
+    },
+    {
+        "sentence": "Мужчина решил spʲisʲtʲ",
+        "filename": "rus_lemmasentence_33"
+    },
+    {
+        "sentence": "Вчера мужчина spʲilˠ",
+        "filename": "rus_pastsentence1_33"
+    },
+    {
+        "sentence": "Вчера мужчина spʲɵlˠ",
+        "filename": "rus_pastsentence2_33"
+    },
+    {
+        "sentence": "vɨvʲɪxnʊtʲ",
+        "filename": "rus_barelemma_34"
+    },
+    {
+        "sentence": "Мужчина решил vɨvʲɪxnʊtʲ",
+        "filename": "rus_lemmasentence_34"
+    },
+    {
+        "sentence": "Вчера мужчина vɨvʲɪxnʊlˠ",
+        "filename": "rus_pastsentence1_34"
+    },
+    {
+        "sentence": "Вчера мужчина vɨvʲɪx",
+        "filename": "rus_pastsentence2_34"
+    },
+    {
+        "sentence": "prəvʲɪsʲtʲi",
+        "filename": "rus_barelemma_35"
+    },
+    {
+        "sentence": "Мужчина решил prəvʲɪsʲtʲi",
+        "filename": "rus_lemmasentence_35"
+    },
+    {
+        "sentence": "Вчера мужчина prɐvʲɵs",
+        "filename": "rus_pastsentence1_35"
+    },
+    {
+        "sentence": "Вчера мужчина prɐvʲɵlˠ",
+        "filename": "rus_pastsentence2_35"
+    },
+    {
+        "sentence": "ɪzɐbatsːə",
+        "filename": "rus_barelemma_36"
+    },
+    {
+        "sentence": "Мужчина решил ɪzɐbatsːə",
+        "filename": "rus_lemmasentence_36"
+    },
+    {
+        "sentence": "Вчера мужчина ɪzɐbalˠsʲə",
+        "filename": "rus_pastsentence1_36"
+    },
+    {
+        "sentence": "Вчера мужчина ɪzəbɐlˠsʲa",
+        "filename": "rus_pastsentence2_36"
+    },
+    {
+        "sentence": "prɐsʲtʲi",
+        "filename": "rus_barelemma_37"
+    },
+    {
+        "sentence": "Мужчина решил prɐsʲtʲi",
+        "filename": "rus_lemmasentence_37"
+    },
+    {
+        "sentence": "Вчера мужчина prɐs",
+        "filename": "rus_pastsentence1_37"
+    },
+    {
+        "sentence": "Вчера мужчина pros",
+        "filename": "rus_pastsentence2_37"
+    },
+    {
+        "sentence": "svʲenʊtsə",
+        "filename": "rus_barelemma_38"
+    },
+    {
+        "sentence": "Мужчина решил svʲenʊtsə",
+        "filename": "rus_lemmasentence_38"
+    },
+    {
+        "sentence": "Вчера мужчина svʲenʊlˠsʲə",
+        "filename": "rus_pastsentence1_38"
+    },
+    {
+        "sentence": "Вчера мужчина svʲelˠsʲə",
+        "filename": "rus_pastsentence2_38"
+    },
+    {
+        "sentence": "ɐbrʲɪsʲtʲi",
+        "filename": "rus_barelemma_39"
+    },
+    {
+        "sentence": "Мужчина решил ɐbrʲɪsʲtʲi",
+        "filename": "rus_lemmasentence_39"
+    },
+    {
+        "sentence": "Вчера мужчина ɐbrʲɵlˠ",
+        "filename": "rus_pastsentence1_39"
+    },
+    {
+        "sentence": "Вчера мужчина ɐbrʲɵs",
+        "filename": "rus_pastsentence2_39"
+    },
+    {
+        "sentence": "zəmʲɪsʲtʲi",
+        "filename": "rus_barelemma_40"
+    },
+    {
+        "sentence": "Мужчина решил zəmʲɪsʲtʲi",
+        "filename": "rus_lemmasentence_40"
+    },
+    {
+        "sentence": "Вчера мужчина zɐmʲɵlˠ",
+        "filename": "rus_pastsentence1_40"
+    },
+    {
+        "sentence": "Вчера мужчина zɐmʲɵs",
+        "filename": "rus_pastsentence2_40"
+    },
+    {
+        "sentence": "pɐtaknʊtʲ",
+        "filename": "rus_barelemma_41"
+    },
+    {
+        "sentence": "Мужчина решил pɐtaknʊtʲ",
+        "filename": "rus_lemmasentence_41"
+    },
+    {
+        "sentence": "Вчера мужчина pɐtaknʊlˠ",
+        "filename": "rus_pastsentence1_41"
+    },
+    {
+        "sentence": "Вчера мужчина pɐtak",
+        "filename": "rus_pastsentence2_41"
+    },
+    {
+        "sentence": "prɐpʲitsːə",
+        "filename": "rus_barelemma_42"
+    },
+    {
+        "sentence": "Мужчина решил prɐpʲitsːə",
+        "filename": "rus_lemmasentence_42"
+    },
+    {
+        "sentence": "Вчера мужчина prɐpʲilˠsʲə",
+        "filename": "rus_pastsentence1_42"
+    },
+    {
+        "sentence": "Вчера мужчина prəpʲɪlˠsʲa",
+        "filename": "rus_pastsentence2_42"
+    },
+    {
+        "sentence": "nɐlʲiknʊtʲ",
+        "filename": "rus_barelemma_43"
+    },
+    {
+        "sentence": "Мужчина решил nɐlʲiknʊtʲ",
+        "filename": "rus_lemmasentence_43"
+    },
+    {
+        "sentence": "Вчера мужчина nɐlʲiknʊlˠ",
+        "filename": "rus_pastsentence1_43"
+    },
+    {
+        "sentence": "Вчера мужчина nɐlʲik",
+        "filename": "rus_pastsentence2_43"
+    },
+    {
+        "sentence": "pɐtaxnʊtʲ",
+        "filename": "rus_barelemma_44"
+    },
+    {
+        "sentence": "Мужчина решил pɐtaxnʊtʲ",
+        "filename": "rus_lemmasentence_44"
+    },
+    {
+        "sentence": "Вчера мужчина pɐtaxnʊlˠ",
+        "filename": "rus_pastsentence1_44"
+    },
+    {
+        "sentence": "Вчера мужчина pɐtax",
+        "filename": "rus_pastsentence2_44"
+    },
+    {
+        "sentence": "brʲɪsʲtʲi",
+        "filename": "rus_barelemma_45"
+    },
+    {
+        "sentence": "Мужчина решил brʲɪsʲtʲi",
+        "filename": "rus_lemmasentence_45"
+    },
+    {
+        "sentence": "Вчера мужчина brʲɵlˠ",
+        "filename": "rus_pastsentence1_45"
+    },
+    {
+        "sentence": "Вчера мужчина brʲɵs",
+        "filename": "rus_pastsentence2_45"
+    },
+    {
+        "sentence": "ɐbrɐsʲtʲi",
+        "filename": "rus_barelemma_46"
+    },
+    {
+        "sentence": "Мужчина решил ɐbrɐsʲtʲi",
+        "filename": "rus_lemmasentence_46"
+    },
+    {
+        "sentence": "Вчера мужчина ɐbrɐs",
+        "filename": "rus_pastsentence1_46"
+    },
+    {
+        "sentence": "Вчера мужчина ɐbros",
+        "filename": "rus_pastsentence2_46"
+    },
+    {
+        "sentence": "dɐrpʲitsːə",
+        "filename": "rus_barelemma_47"
+    },
+    {
+        "sentence": "Мужчина решил dɐrpʲitsːə",
+        "filename": "rus_lemmasentence_47"
+    },
+    {
+        "sentence": "Вчера мужчина dɐrpʲilˠsʲə",
+        "filename": "rus_pastsentence1_47"
+    },
+    {
+        "sentence": "Вчера мужчина dərpʲɪlˠsʲa",
+        "filename": "rus_pastsentence2_47"
+    },
+    {
+        "sentence": "vɨdʲɪxnʊtʲ",
+        "filename": "rus_barelemma_48"
+    },
+    {
+        "sentence": "Мужчина решил vɨdʲɪxnʊtʲ",
+        "filename": "rus_lemmasentence_48"
+    },
+    {
+        "sentence": "Вчера мужчина vɨdʲɪxnʊlˠ",
+        "filename": "rus_pastsentence1_48"
+    },
+    {
+        "sentence": "Вчера мужчина vɨdʲɪx",
+        "filename": "rus_pastsentence2_48"
+    },
+    {
+        "sentence": "vzvʲiknʊtʲ",
+        "filename": "rus_barelemma_49"
+    },
+    {
+        "sentence": "Мужчина решил vzvʲiknʊtʲ",
+        "filename": "rus_lemmasentence_49"
+    },
+    {
+        "sentence": "Вчера мужчина vzvʲiknʊlˠ",
+        "filename": "rus_pastsentence1_49"
+    },
+    {
+        "sentence": "Вчера мужчина vzvʲik",
+        "filename": "rus_pastsentence2_49"
+    },
+    {
+        "sentence": "ɐbɐzatsːə",
+        "filename": "rus_barelemma_50"
+    },
+    {
+        "sentence": "Мужчина решил ɐbɐzatsːə",
+        "filename": "rus_lemmasentence_50"
+    },
+    {
+        "sentence": "Вчера мужчина ɐbɐzalˠsʲə",
+        "filename": "rus_pastsentence1_50"
+    },
+    {
+        "sentence": "Вчера мужчина obɐzalˠsʲə",
+        "filename": "rus_pastsentence2_50"
+    },
+    {
+        "sentence": "ʊtrʲepnʊtʲ",
+        "filename": "rus_barelemma_51"
+    },
+    {
+        "sentence": "Мужчина решил ʊtrʲepnʊtʲ",
+        "filename": "rus_lemmasentence_51"
+    },
+    {
+        "sentence": "Вчера мужчина ʊtrʲepnʊlˠ",
+        "filename": "rus_pastsentence1_51"
+    },
+    {
+        "sentence": "Вчера мужчина ʊtrʲep",
+        "filename": "rus_pastsentence2_51"
+    },
+    {
+        "sentence": "grɐsʲtʲi",
+        "filename": "rus_barelemma_52"
+    },
+    {
+        "sentence": "Мужчина решил grɐsʲtʲi",
+        "filename": "rus_lemmasentence_52"
+    },
+    {
+        "sentence": "Вчера мужчина grɐs",
+        "filename": "rus_pastsentence1_52"
+    },
+    {
+        "sentence": "Вчера мужчина gros",
+        "filename": "rus_pastsentence2_52"
+    },
+    {
+        "sentence": "prʲɪbatsːə",
+        "filename": "rus_barelemma_53"
+    },
+    {
+        "sentence": "Мужчина решил prʲɪbatsːə",
+        "filename": "rus_lemmasentence_53"
+    },
+    {
+        "sentence": "Вчера мужчина prʲɪbalˠsʲə",
+        "filename": "rus_pastsentence1_53"
+    },
+    {
+        "sentence": "Вчера мужчина prʲɪbɐlˠsʲa",
+        "filename": "rus_pastsentence2_53"
+    },
+    {
+        "sentence": "sɐzvatsːə",
+        "filename": "rus_barelemma_54"
+    },
+    {
+        "sentence": "Мужчина решил sɐzvatsːə",
+        "filename": "rus_lemmasentence_54"
+    },
+    {
+        "sentence": "Вчера мужчина sɐzvalˠsʲə",
+        "filename": "rus_pastsentence1_54"
+    },
+    {
+        "sentence": "Вчера мужчина səzvɐlˠsʲa",
+        "filename": "rus_pastsentence2_54"
+    },
+    {
+        "sentence": "pɐlʲisʲtʲ",
+        "filename": "rus_barelemma_55"
+    },
+    {
+        "sentence": "Мужчина решил pɐlʲisʲtʲ",
+        "filename": "rus_lemmasentence_55"
+    },
+    {
+        "sentence": "Вчера мужчина pɐlʲilˠ",
+        "filename": "rus_pastsentence1_55"
+    },
+    {
+        "sentence": "Вчера мужчина pɐlʲis",
+        "filename": "rus_pastsentence2_55"
+    },
+    {
+        "sentence": "ɐsʲtʲɪrʲitʲ",
+        "filename": "rus_barelemma_56"
+    },
+    {
+        "sentence": "Мужчина решил ɐsʲtʲɪrʲitʲ",
+        "filename": "rus_lemmasentence_56"
+    },
+    {
+        "sentence": "Вчера мужчина ɐsʲtʲɪrʲilˠ",
+        "filename": "rus_pastsentence1_56"
+    },
+    {
+        "sentence": "Вчера мужчина ɐsʲtʲɵr",
+        "filename": "rus_pastsentence2_56"
+    },
+    {
+        "sentence": "krʲepnʊtʲ",
+        "filename": "rus_barelemma_57"
+    },
+    {
+        "sentence": "Мужчина решил krʲepnʊtʲ",
+        "filename": "rus_lemmasentence_57"
+    },
+    {
+        "sentence": "Вчера мужчина krʲepnʊlˠ",
+        "filename": "rus_pastsentence1_57"
+    },
+    {
+        "sentence": "Вчера мужчина krʲep",
+        "filename": "rus_pastsentence2_57"
+    },
+    {
+        "sentence": "vɨpəxnʊtʲ",
+        "filename": "rus_barelemma_58"
+    },
+    {
+        "sentence": "Мужчина решил vɨpəxnʊtʲ",
+        "filename": "rus_lemmasentence_58"
+    },
+    {
+        "sentence": "Вчера мужчина vɨpəx",
+        "filename": "rus_pastsentence1_58"
+    },
+    {
+        "sentence": "Вчера мужчина vɨpəxnʊlˠ",
+        "filename": "rus_pastsentence2_58"
+    },
+    {
+        "sentence": "stapnʊtʲ",
+        "filename": "rus_barelemma_59"
+    },
+    {
+        "sentence": "Мужчина решил stapnʊtʲ",
+        "filename": "rus_lemmasentence_59"
+    },
+    {
+        "sentence": "Вчера мужчина stapnʊlˠ",
+        "filename": "rus_pastsentence1_59"
+    },
+    {
+        "sentence": "Вчера мужчина stap",
+        "filename": "rus_pastsentence2_59"
+    },
+    {
+        "sentence": "svʲisʲtʲ",
+        "filename": "rus_barelemma_60"
+    },
+    {
+        "sentence": "Мужчина решил svʲisʲtʲ",
+        "filename": "rus_lemmasentence_60"
+    },
+    {
+        "sentence": "Вчера мужчина svʲilˠ",
+        "filename": "rus_pastsentence1_60"
+    },
+    {
+        "sentence": "Вчера мужчина svʲɵs",
+        "filename": "rus_pastsentence2_60"
+    },
+    {
+        "sentence": "prətʲɪrʲetʲ",
+        "filename": "rus_barelemma_61"
+    },
+    {
+        "sentence": "Мужчина решил prətʲɪrʲetʲ",
+        "filename": "rus_lemmasentence_61"
+    },
+    {
+        "sentence": "Вчера мужчина prɐtʲɵr",
+        "filename": "rus_pastsentence1_61"
+    },
+    {
+        "sentence": "Вчера мужчина prətʲɪrʲelˠ",
+        "filename": "rus_pastsentence2_61"
+    },
+    {
+        "sentence": "zətʲɪrʲetʲ",
+        "filename": "rus_barelemma_62"
+    },
+    {
+        "sentence": "Мужчина решил zətʲɪrʲetʲ",
+        "filename": "rus_lemmasentence_62"
+    },
+    {
+        "sentence": "Вчера мужчина zɐtʲɵr",
+        "filename": "rus_pastsentence1_62"
+    },
+    {
+        "sentence": "Вчера мужчина zətʲɪrʲelˠ",
+        "filename": "rus_pastsentence2_62"
+    },
+    {
+        "sentence": "zətɕɪrʲetʲ",
+        "filename": "rus_barelemma_63"
+    },
+    {
+        "sentence": "Мужчина решил zətɕɪrʲetʲ",
+        "filename": "rus_lemmasentence_63"
+    },
+    {
+        "sentence": "Вчера мужчина zətɕɪrʲelˠ",
+        "filename": "rus_pastsentence1_63"
+    },
+    {
+        "sentence": "Вчера мужчина zɐtɕɵr",
+        "filename": "rus_pastsentence2_63"
+    },
+    {
+        "sentence": "dɐʂatsːə",
+        "filename": "rus_barelemma_64"
+    },
+    {
+        "sentence": "Мужчина решил dɐʂatsːə",
+        "filename": "rus_lemmasentence_64"
+    },
+    {
+        "sentence": "Вчера мужчина dɐʂalˠsʲə",
+        "filename": "rus_pastsentence1_64"
+    },
+    {
+        "sentence": "Вчера мужчина dəʂɐlˠsʲa",
+        "filename": "rus_pastsentence2_64"
+    },
+    {
+        "sentence": "pɐboxnʊtʲ",
+        "filename": "rus_barelemma_65"
+    },
+    {
+        "sentence": "Мужчина решил pɐboxnʊtʲ",
+        "filename": "rus_lemmasentence_65"
+    },
+    {
+        "sentence": "Вчера мужчина pɐbox",
+        "filename": "rus_pastsentence1_65"
+    },
+    {
+        "sentence": "Вчера мужчина pɐboxnʊlˠ",
+        "filename": "rus_pastsentence2_65"
+    },
+    {
+        "sentence": "ɐtasnʊtʲ",
+        "filename": "rus_barelemma_66"
+    },
+    {
+        "sentence": "Мужчина решил ɐtasnʊtʲ",
+        "filename": "rus_lemmasentence_66"
+    },
+    {
+        "sentence": "Вчера мужчина ɐtasnʊlˠ",
+        "filename": "rus_pastsentence1_66"
+    },
+    {
+        "sentence": "Вчера мужчина ɐtas",
+        "filename": "rus_pastsentence2_66"
+    },
+    {
+        "sentence": "trʲepnʊtʲ",
+        "filename": "rus_barelemma_67"
+    },
+    {
+        "sentence": "Мужчина решил trʲepnʊtʲ",
+        "filename": "rus_lemmasentence_67"
+    },
+    {
+        "sentence": "Вчера мужчина trʲepnʊlˠ",
+        "filename": "rus_pastsentence1_67"
+    },
+    {
+        "sentence": "Вчера мужчина trʲep",
+        "filename": "rus_pastsentence2_67"
+    },
+    {
+        "sentence": "ɐdɐlʲitʲ",
+        "filename": "rus_barelemma_68"
+    },
+    {
+        "sentence": "Мужчина решил ɐdɐlʲitʲ",
+        "filename": "rus_lemmasentence_68"
+    },
+    {
+        "sentence": "Вчера мужчина ɐdɐlʲilˠ",
+        "filename": "rus_pastsentence1_68"
+    },
+    {
+        "sentence": "Вчера мужчина ɐdolʲɪlˠ",
+        "filename": "rus_pastsentence2_68"
+    },
+    {
+        "sentence": "supnʊtʲ",
+        "filename": "rus_barelemma_69"
+    },
+    {
+        "sentence": "Мужчина решил supnʊtʲ",
+        "filename": "rus_lemmasentence_69"
+    },
+    {
+        "sentence": "Вчера мужчина supnʊlˠ",
+        "filename": "rus_pastsentence1_69"
+    },
+    {
+        "sentence": "Вчера мужчина sup",
+        "filename": "rus_pastsentence2_69"
+    },
+    {
+        "sentence": "zɐvaknʊtʲ",
+        "filename": "rus_barelemma_70"
+    },
+    {
+        "sentence": "Мужчина решил zɐvaknʊtʲ",
+        "filename": "rus_lemmasentence_70"
+    },
+    {
+        "sentence": "Вчера мужчина zɐvaknʊlˠ",
+        "filename": "rus_pastsentence1_70"
+    },
+    {
+        "sentence": "Вчера мужчина zɐvak",
+        "filename": "rus_pastsentence2_70"
+    },
+    {
+        "sentence": "zɐpʲitʲɪsʲ",
+        "filename": "rus_barelemma_71"
+    },
+    {
+        "sentence": "Мужчина решил zɐpʲitʲɪsʲ",
+        "filename": "rus_lemmasentence_71"
+    },
+    {
+        "sentence": "Вчера мужчина zɐpʲilˠsʲə",
+        "filename": "rus_pastsentence1_71"
+    },
+    {
+        "sentence": "Вчера мужчина zɐpʲisʲːə",
+        "filename": "rus_pastsentence2_71"
+    },
+    {
+        "sentence": "ɐblˠɐsʲitʲ",
+        "filename": "rus_barelemma_72"
+    },
+    {
+        "sentence": "Мужчина решил ɐblˠɐsʲitʲ",
+        "filename": "rus_lemmasentence_72"
+    },
+    {
+        "sentence": "Вчера мужчина ɐblˠɐsʲilˠ",
+        "filename": "rus_pastsentence1_72"
+    },
+    {
+        "sentence": "Вчера мужчина ɐblˠosʲɪlˠ",
+        "filename": "rus_pastsentence2_72"
+    },
+    {
+        "sentence": "ɐbʲɪdatsːə",
+        "filename": "rus_barelemma_73"
+    },
+    {
+        "sentence": "Мужчина решил ɐbʲɪdatsːə",
+        "filename": "rus_lemmasentence_73"
+    },
+    {
+        "sentence": "Вчера мужчина ɐbʲɪdalˠsʲə",
+        "filename": "rus_pastsentence1_73"
+    },
+    {
+        "sentence": "Вчера мужчина ɐbʲɪdɐlˠsʲa",
+        "filename": "rus_pastsentence2_73"
+    },
+    {
+        "sentence": "ɐsvʲisʲtʲ",
+        "filename": "rus_barelemma_74"
+    },
+    {
+        "sentence": "Мужчина решил ɐsvʲisʲtʲ",
+        "filename": "rus_lemmasentence_74"
+    },
+    {
+        "sentence": "Вчера мужчина ɐsvʲilˠ",
+        "filename": "rus_pastsentence1_74"
+    },
+    {
+        "sentence": "Вчера мужчина ɐsvʲis",
+        "filename": "rus_pastsentence2_74"
+    },
+    {
+        "sentence": "nɐlʲisʲtʲ",
+        "filename": "rus_barelemma_75"
+    },
+    {
+        "sentence": "Мужчина решил nɐlʲisʲtʲ",
+        "filename": "rus_lemmasentence_75"
+    },
+    {
+        "sentence": "Вчера мужчина nɐlʲilˠ",
+        "filename": "rus_pastsentence1_75"
+    },
+    {
+        "sentence": "Вчера мужчина nɐlʲis",
+        "filename": "rus_pastsentence2_75"
+    },
+    {
+        "sentence": "susʲtʲ",
+        "filename": "rus_barelemma_76"
+    },
+    {
+        "sentence": "Мужчина решил susʲtʲ",
+        "filename": "rus_lemmasentence_76"
+    },
+    {
+        "sentence": "Вчера мужчина susʲə",
+        "filename": "rus_pastsentence1_76"
+    },
+    {
+        "sentence": "Вчера мужчина sulˠ",
+        "filename": "rus_pastsentence2_76"
+    },
+    {
+        "sentence": "trɐsʲtʲi",
+        "filename": "rus_barelemma_77"
+    },
+    {
+        "sentence": "Мужчина решил trɐsʲtʲi",
+        "filename": "rus_lemmasentence_77"
+    },
+    {
+        "sentence": "Вчера мужчина tros",
+        "filename": "rus_pastsentence1_77"
+    },
+    {
+        "sentence": "Вчера мужчина trɐs",
+        "filename": "rus_pastsentence2_77"
+    },
+    {
+        "sentence": "ɐtpʲɪsʲitʲ",
+        "filename": "rus_barelemma_78"
+    },
+    {
+        "sentence": "Мужчина решил ɐtpʲɪsʲitʲ",
+        "filename": "rus_lemmasentence_78"
+    },
+    {
+        "sentence": "Вчера мужчина ɐtpʲɪsʲilˠ",
+        "filename": "rus_pastsentence1_78"
+    },
+    {
+        "sentence": "Вчера мужчина otpʲɪsʲilˠ",
+        "filename": "rus_pastsentence2_78"
+    },
+    {
+        "sentence": "pɐsvʲisʲtʲ",
+        "filename": "rus_barelemma_79"
+    },
+    {
+        "sentence": "Мужчина решил pɐsvʲisʲtʲ",
+        "filename": "rus_lemmasentence_79"
+    },
+    {
+        "sentence": "Вчера мужчина pɐsvʲilˠ",
+        "filename": "rus_pastsentence1_79"
+    },
+    {
+        "sentence": "Вчера мужчина pɐsvʲis",
+        "filename": "rus_pastsentence2_79"
+    },
+    {
+        "sentence": "vɨpaknʊtʲ",
+        "filename": "rus_barelemma_80"
+    },
+    {
+        "sentence": "Мужчина решил vɨpaknʊtʲ",
+        "filename": "rus_lemmasentence_80"
+    },
+    {
+        "sentence": "Вчера мужчина vɨpak",
+        "filename": "rus_pastsentence1_80"
+    },
+    {
+        "sentence": "Вчера мужчина vɨpaknʊlˠ",
+        "filename": "rus_pastsentence2_80"
+    },
+    {
+        "sentence": "zərɐsʲtʲi",
+        "filename": "rus_barelemma_81"
+    },
+    {
+        "sentence": "Мужчина решил zərɐsʲtʲi",
+        "filename": "rus_lemmasentence_81"
+    },
+    {
+        "sentence": "Вчера мужчина zɐros",
+        "filename": "rus_pastsentence1_81"
+    },
+    {
+        "sentence": "Вчера мужчина zərɐs",
+        "filename": "rus_pastsentence2_81"
+    },
+    {
+        "sentence": "zɐbotnʊtʲ",
+        "filename": "rus_barelemma_82"
+    },
+    {
+        "sentence": "Мужчина решил zɐbotnʊtʲ",
+        "filename": "rus_lemmasentence_82"
+    },
+    {
+        "sentence": "Вчера мужчина zɐbot",
+        "filename": "rus_pastsentence1_82"
+    },
+    {
+        "sentence": "Вчера мужчина zɐbotnʊlˠ",
+        "filename": "rus_pastsentence2_82"
+    },
+    {
+        "sentence": "tʲisʲtʲ",
+        "filename": "rus_barelemma_83"
+    },
+    {
+        "sentence": "Мужчина решил tʲisʲtʲ",
+        "filename": "rus_lemmasentence_83"
+    },
+    {
+        "sentence": "Вчера мужчина tʲilˠ",
+        "filename": "rus_pastsentence1_83"
+    },
+    {
+        "sentence": "Вчера мужчина tʲis",
+        "filename": "rus_pastsentence2_83"
+    },
+    {
+        "sentence": "pədɐlʲitʲ",
+        "filename": "rus_barelemma_84"
+    },
+    {
+        "sentence": "Мужчина решил pədɐlʲitʲ",
+        "filename": "rus_lemmasentence_84"
+    },
+    {
+        "sentence": "Вчера мужчина pədɐlʲilˠ",
+        "filename": "rus_pastsentence1_84"
+    },
+    {
+        "sentence": "Вчера мужчина pɐdolʲɪlˠ",
+        "filename": "rus_pastsentence2_84"
+    },
+    {
+        "sentence": "smɐdatsːə",
+        "filename": "rus_barelemma_85"
+    },
+    {
+        "sentence": "Мужчина решил smɐdatsːə",
+        "filename": "rus_lemmasentence_85"
+    },
+    {
+        "sentence": "Вчера мужчина smɐdalˠsʲə",
+        "filename": "rus_pastsentence1_85"
+    },
+    {
+        "sentence": "Вчера мужчина smodəlˠsʲə",
+        "filename": "rus_pastsentence2_85"
+    },
+    {
+        "sentence": "dɐlʲitʲ",
+        "filename": "rus_barelemma_86"
+    },
+    {
+        "sentence": "Мужчина решил dɐlʲitʲ",
+        "filename": "rus_lemmasentence_86"
+    },
+    {
+        "sentence": "Вчера мужчина dɐlʲilˠ",
+        "filename": "rus_pastsentence1_86"
+    },
+    {
+        "sentence": "Вчера мужчина dolʲɪlˠ",
+        "filename": "rus_pastsentence2_86"
+    },
+    {
+        "sentence": "pʲitʲɪsʲ",
+        "filename": "rus_barelemma_87"
+    },
+    {
+        "sentence": "Мужчина решил pʲitʲɪsʲ",
+        "filename": "rus_lemmasentence_87"
+    },
+    {
+        "sentence": "Вчера мужчина pʲilˠsʲə",
+        "filename": "rus_pastsentence1_87"
+    },
+    {
+        "sentence": "Вчера мужчина pʲɵlˠsʲə",
+        "filename": "rus_pastsentence2_87"
+    },
+    {
+        "sentence": "dɐvatsːə",
+        "filename": "rus_barelemma_88"
+    },
+    {
+        "sentence": "Мужчина решил dɐvatsːə",
+        "filename": "rus_lemmasentence_88"
+    },
+    {
+        "sentence": "Вчера мужчина dɐvalˠsʲə",
+        "filename": "rus_pastsentence1_88"
+    },
+    {
+        "sentence": "Вчера мужчина dəvɐlˠsʲa",
+        "filename": "rus_pastsentence2_88"
+    },
+    {
+        "sentence": "zɐgrʲesʲtʲ",
+        "filename": "rus_barelemma_89"
+    },
+    {
+        "sentence": "Мужчина решил zɐgrʲesʲtʲ",
+        "filename": "rus_lemmasentence_89"
+    },
+    {
+        "sentence": "Вчера мужчина zɐgrʲelˠ",
+        "filename": "rus_pastsentence1_89"
+    },
+    {
+        "sentence": "Вчера мужчина zɐgrʲes",
+        "filename": "rus_pastsentence2_89"
+    },
+    {
+        "sentence": "ɐbuknʊtʲ",
+        "filename": "rus_barelemma_90"
+    },
+    {
+        "sentence": "Мужчина решил ɐbuknʊtʲ",
+        "filename": "rus_lemmasentence_90"
+    },
+    {
+        "sentence": "Вчера мужчина ɐbuknʊlˠ",
+        "filename": "rus_pastsentence1_90"
+    },
+    {
+        "sentence": "Вчера мужчина ɐbuk",
+        "filename": "rus_pastsentence2_90"
+    },
+    {
+        "sentence": "ɐtvʲiknʊtʲ",
+        "filename": "rus_barelemma_91"
+    },
+    {
+        "sentence": "Мужчина решил ɐtvʲiknʊtʲ",
+        "filename": "rus_lemmasentence_91"
+    },
+    {
+        "sentence": "Вчера мужчина ɐtvʲik",
+        "filename": "rus_pastsentence1_91"
+    },
+    {
+        "sentence": "Вчера мужчина ɐtvʲiknʊlˠ",
+        "filename": "rus_pastsentence2_91"
+    },
+    {
+        "sentence": "zəvʲɪrʲetʲ",
+        "filename": "rus_barelemma_92"
+    },
+    {
+        "sentence": "Мужчина решил zəvʲɪrʲetʲ",
+        "filename": "rus_lemmasentence_92"
+    },
+    {
+        "sentence": "Вчера мужчина zɐvʲɵr",
+        "filename": "rus_pastsentence1_92"
+    },
+    {
+        "sentence": "Вчера мужчина zəvʲɪrʲelˠ",
+        "filename": "rus_pastsentence2_92"
+    },
+    {
+        "sentence": "stupnʊtʲ",
+        "filename": "rus_barelemma_93"
+    },
+    {
+        "sentence": "Мужчина решил stupnʊtʲ",
+        "filename": "rus_lemmasentence_93"
+    },
+    {
+        "sentence": "Вчера мужчина stupnʊlˠ",
+        "filename": "rus_pastsentence1_93"
+    },
+    {
+        "sentence": "Вчера мужчина stup",
+        "filename": "rus_pastsentence2_93"
+    },
+    {
+        "sentence": "vʲitʲɪsʲ",
+        "filename": "rus_barelemma_94"
+    },
+    {
+        "sentence": "Мужчина решил vʲitʲɪsʲ",
+        "filename": "rus_lemmasentence_94"
+    },
+    {
+        "sentence": "Вчера мужчина vʲilˠsʲə",
+        "filename": "rus_pastsentence1_94"
+    },
+    {
+        "sentence": "Вчера мужчина vʲɵlˠsʲə",
+        "filename": "rus_pastsentence2_94"
+    },
+    {
+        "sentence": "vʲisʲtʲ",
+        "filename": "rus_barelemma_95"
+    },
+    {
+        "sentence": "Мужчина решил vʲisʲtʲ",
+        "filename": "rus_lemmasentence_95"
+    },
+    {
+        "sentence": "Вчера мужчина vʲilˠ",
+        "filename": "rus_pastsentence1_95"
+    },
+    {
+        "sentence": "Вчера мужчина vʲis",
+        "filename": "rus_pastsentence2_95"
+    },
+    {
+        "sentence": "zɐvʲisnʊtʲ",
+        "filename": "rus_barelemma_96"
+    },
+    {
+        "sentence": "Мужчина решил zɐvʲisnʊtʲ",
+        "filename": "rus_lemmasentence_96"
+    },
+    {
+        "sentence": "Вчера мужчина zɐvʲis",
+        "filename": "rus_pastsentence1_96"
+    },
+    {
+        "sentence": "Вчера мужчина zɐvʲisnʊlˠ",
+        "filename": "rus_pastsentence2_96"
+    },
+    {
+        "sentence": "zɐbasnʊtʲ",
+        "filename": "rus_barelemma_97"
+    },
+    {
+        "sentence": "Мужчина решил zɐbasnʊtʲ",
+        "filename": "rus_lemmasentence_97"
+    },
+    {
+        "sentence": "Вчера мужчина zɐbas",
+        "filename": "rus_pastsentence1_97"
+    },
+    {
+        "sentence": "Вчера мужчина zɐbasnʊlˠ",
+        "filename": "rus_pastsentence2_97"
+    },
+    {
+        "sentence": "prɐdatsːə",
+        "filename": "rus_barelemma_98"
+    },
+    {
+        "sentence": "Мужчина решил prɐdatsːə",
+        "filename": "rus_lemmasentence_98"
+    },
+    {
+        "sentence": "Вчера мужчина prɐdalˠsʲə",
+        "filename": "rus_pastsentence1_98"
+    },
+    {
+        "sentence": "Вчера мужчина prədɐlˠsʲa",
+        "filename": "rus_pastsentence2_98"
+    },
+    {
+        "sentence": "ɐpɐrʲitʲ",
+        "filename": "rus_barelemma_99"
+    },
+    {
+        "sentence": "Мужчина решил ɐpɐrʲitʲ",
+        "filename": "rus_lemmasentence_99"
+    },
+    {
+        "sentence": "Вчера мужчина ɐpɐrʲilˠ",
+        "filename": "rus_pastsentence1_99"
+    },
+    {
+        "sentence": "Вчера мужчина opɐrʲilˠ",
+        "filename": "rus_pastsentence2_99"
+    },
+    {
+        "sentence": "ɐpɐlʲitʲ",
+        "filename": "rus_barelemma_100"
+    },
+    {
+        "sentence": "Мужчина решил ɐpɐlʲitʲ",
+        "filename": "rus_lemmasentence_100"
+    },
+    {
+        "sentence": "Вчера мужчина ɐpɐlʲilˠ",
+        "filename": "rus_pastsentence1_100"
+    },
+    {
+        "sentence": "Вчера мужчина ɐpolʲɪlˠ",
+        "filename": "rus_pastsentence2_100"
+    },
+    {
+        "sentence": "smasnʊtʲ",
+        "filename": "rus_barelemma_101"
+    },
+    {
+        "sentence": "Мужчина решил smasnʊtʲ",
+        "filename": "rus_lemmasentence_101"
+    },
+    {
+        "sentence": "Вчера мужчина smasnʊlˠ",
+        "filename": "rus_pastsentence1_101"
+    },
+    {
+        "sentence": "Вчера мужчина smas",
+        "filename": "rus_pastsentence2_101"
+    },
+    {
+        "sentence": "prʲixnʊtʲ",
+        "filename": "rus_barelemma_102"
+    },
+    {
+        "sentence": "Мужчина решил prʲixnʊtʲ",
+        "filename": "rus_lemmasentence_102"
+    },
+    {
+        "sentence": "Вчера мужчина prʲixnʊlˠ",
+        "filename": "rus_pastsentence1_102"
+    },
+    {
+        "sentence": "Вчера мужчина prʲix",
+        "filename": "rus_pastsentence2_102"
+    },
+    {
+        "sentence": "rɐlʲitʲ",
+        "filename": "rus_barelemma_103"
+    },
+    {
+        "sentence": "Мужчина решил rɐlʲitʲ",
+        "filename": "rus_lemmasentence_103"
+    },
+    {
+        "sentence": "Вчера мужчина rɐlʲilˠ",
+        "filename": "rus_pastsentence1_103"
+    },
+    {
+        "sentence": "Вчера мужчина rolʲɪlˠ",
+        "filename": "rus_pastsentence2_103"
+    },
+    {
+        "sentence": "puxnʊtʲ",
+        "filename": "rus_barelemma_104"
+    },
+    {
+        "sentence": "Мужчина решил puxnʊtʲ",
+        "filename": "rus_lemmasentence_104"
+    },
+    {
+        "sentence": "Вчера мужчина puxnʊlˠ",
+        "filename": "rus_pastsentence1_104"
+    },
+    {
+        "sentence": "Вчера мужчина pux",
+        "filename": "rus_pastsentence2_104"
+    },
+    {
+        "sentence": "smʲenʊtʲ",
+        "filename": "rus_barelemma_105"
+    },
+    {
+        "sentence": "Мужчина решил smʲenʊtʲ",
+        "filename": "rus_lemmasentence_105"
+    },
+    {
+        "sentence": "Вчера мужчина smʲenʊlˠ",
+        "filename": "rus_pastsentence1_105"
+    },
+    {
+        "sentence": "Вчера мужчина smʲelˠ",
+        "filename": "rus_pastsentence2_105"
+    },
+    {
+        "sentence": "dɐsʲtʲe",
+        "filename": "rus_barelemma_106"
+    },
+    {
+        "sentence": "Мужчина решил dɐsʲtʲe",
+        "filename": "rus_lemmasentence_106"
+    },
+    {
+        "sentence": "Вчера мужчина krʲɪsʲilˠ",
+        "filename": "rus_pastsentence1_106"
+    },
+    {
+        "sentence": "Вчера мужчина krʲesʲɪlˠ",
+        "filename": "rus_pastsentence2_106"
+    },
+    {
+        "sentence": "zɐbognʊtʲ",
+        "filename": "rus_barelemma_107"
+    },
+    {
+        "sentence": "Мужчина решил zɐbognʊtʲ",
+        "filename": "rus_lemmasentence_107"
+    },
+    {
+        "sentence": "Вчера мужчина zɐbog",
+        "filename": "rus_pastsentence1_107"
+    },
+    {
+        "sentence": "Вчера мужчина zɐbognʊlˠ",
+        "filename": "rus_pastsentence2_107"
+    },
+    {
+        "sentence": "ʂɨtʲi",
+        "filename": "rus_barelemma_108"
+    },
+    {
+        "sentence": "Мужчина решил ʂɨtʲi",
+        "filename": "rus_lemmasentence_108"
+    },
+    {
+        "sentence": "Вчера мужчина ʂɨtʲilˠ",
+        "filename": "rus_pastsentence1_108"
+    },
+    {
+        "sentence": "Вчера мужчина ʂɨlˠ",
+        "filename": "rus_pastsentence2_108"
+    },
+    {
+        "sentence": "ɐbvʲisnʊtʲ",
+        "filename": "rus_barelemma_109"
+    },
+    {
+        "sentence": "Мужчина решил ɐbvʲisnʊtʲ",
+        "filename": "rus_lemmasentence_109"
+    },
+    {
+        "sentence": "Вчера мужчина ɐbvʲis",
+        "filename": "rus_pastsentence1_109"
+    },
+    {
+        "sentence": "Вчера мужчина ɐbvʲisnʊlˠ",
+        "filename": "rus_pastsentence2_109"
+    },
+    {
+        "sentence": "nɐvʲisnʊtʲ",
+        "filename": "rus_barelemma_110"
+    },
+    {
+        "sentence": "Мужчина решил nɐvʲisnʊtʲ",
+        "filename": "rus_lemmasentence_110"
+    },
+    {
+        "sentence": "Вчера мужчина nɐvʲis",
+        "filename": "rus_pastsentence1_110"
+    },
+    {
+        "sentence": "Вчера мужчина nɐvʲisnʊlˠ",
+        "filename": "rus_pastsentence2_110"
+    },
+    {
+        "sentence": "zaknʊtʲ",
+        "filename": "rus_barelemma_111"
+    },
+    {
+        "sentence": "Мужчина решил zaknʊtʲ",
+        "filename": "rus_lemmasentence_111"
+    },
+    {
+        "sentence": "Вчера мужчина zaknʊlˠ",
+        "filename": "rus_pastsentence1_111"
+    },
+    {
+        "sentence": "Вчера мужчина zak",
+        "filename": "rus_pastsentence2_111"
+    },
+    {
+        "sentence": "ɐbɐlʲitʲ",
+        "filename": "rus_barelemma_112"
+    },
+    {
+        "sentence": "Мужчина решил ɐbɐlʲitʲ",
+        "filename": "rus_lemmasentence_112"
+    },
+    {
+        "sentence": "Вчера мужчина ɐbɐlʲilˠ",
+        "filename": "rus_pastsentence1_112"
+    },
+    {
+        "sentence": "Вчера мужчина ɐbolʲɪlˠ",
+        "filename": "rus_pastsentence2_112"
+    },
+    {
+        "sentence": "krɐsʲtʲi",
+        "filename": "rus_barelemma_113"
+    },
+    {
+        "sentence": "Мужчина решил krɐsʲtʲi",
+        "filename": "rus_lemmasentence_113"
+    },
+    {
+        "sentence": "Вчера мужчина krɐs",
+        "filename": "rus_pastsentence1_113"
+    },
+    {
+        "sentence": "Вчера мужчина krosʲːə",
+        "filename": "rus_pastsentence2_113"
+    },
+    {
+        "sentence": "brʲɪsʲitʲ",
+        "filename": "rus_barelemma_114"
+    },
+    {
+        "sentence": "Мужчина решил brʲɪsʲitʲ",
+        "filename": "rus_lemmasentence_114"
+    },
+    {
+        "sentence": "Вчера мужчина brʲɪsʲilˠ",
+        "filename": "rus_pastsentence1_114"
+    },
+    {
+        "sentence": "Вчера мужчина brʲesʲɪlˠ",
+        "filename": "rus_pastsentence2_114"
+    },
+    {
+        "sentence": "ʊvʲɪrʲetʲ",
+        "filename": "rus_barelemma_115"
+    },
+    {
+        "sentence": "Мужчина решил ʊvʲɪrʲetʲ",
+        "filename": "rus_lemmasentence_115"
+    },
+    {
+        "sentence": "Вчера мужчина ʊvʲɪrʲelˠ",
+        "filename": "rus_pastsentence1_115"
+    },
+    {
+        "sentence": "Вчера мужчина ʊvʲɵr",
+        "filename": "rus_pastsentence2_115"
+    },
+    {
+        "sentence": "tʲiknʊtʲ",
+        "filename": "rus_barelemma_116"
+    },
+    {
+        "sentence": "Мужчина решил tʲiknʊtʲ",
+        "filename": "rus_lemmasentence_116"
+    },
+    {
+        "sentence": "Вчера мужчина tʲiknʊlˠ",
+        "filename": "rus_pastsentence1_116"
+    },
+    {
+        "sentence": "Вчера мужчина tʲik",
+        "filename": "rus_pastsentence2_116"
+    },
+    {
+        "sentence": "pɐrʲitʲ",
+        "filename": "rus_barelemma_117"
+    },
+    {
+        "sentence": "Мужчина решил pɐrʲitʲ",
+        "filename": "rus_lemmasentence_117"
+    },
+    {
+        "sentence": "Вчера мужчина pɐrʲilˠ",
+        "filename": "rus_pastsentence1_117"
+    },
+    {
+        "sentence": "Вчера мужчина porʲɪlˠ",
+        "filename": "rus_pastsentence2_117"
+    },
+    {
+        "sentence": "prɐlʲitʲ",
+        "filename": "rus_barelemma_118"
+    },
+    {
+        "sentence": "Мужчина решил prɐlʲitʲ",
+        "filename": "rus_lemmasentence_118"
+    },
+    {
+        "sentence": "Вчера мужчина prɐlʲilˠ",
+        "filename": "rus_pastsentence1_118"
+    },
+    {
+        "sentence": "Вчера мужчина prolʲɪlˠ",
+        "filename": "rus_pastsentence2_118"
+    },
+    {
+        "sentence": "ɐdːatʲ",
+        "filename": "rus_barelemma_119"
+    },
+    {
+        "sentence": "Мужчина решил ɐdːatʲ",
+        "filename": "rus_lemmasentence_119"
+    },
+    {
+        "sentence": "Вчера мужчина ɐdːɐlˠ",
+        "filename": "rus_pastsentence1_119"
+    },
+    {
+        "sentence": "Вчера мужчина ɐdːalˠ",
+        "filename": "rus_pastsentence2_119"
+    },
+    {
+        "sentence": "ʊdatsːə",
+        "filename": "rus_barelemma_120"
+    },
+    {
+        "sentence": "Мужчина решил ʊdatsːə",
+        "filename": "rus_lemmasentence_120"
+    },
+    {
+        "sentence": "Вчера мужчина ʊdɐlˠsʲa",
+        "filename": "rus_pastsentence1_120"
+    },
+    {
+        "sentence": "Вчера мужчина ʊdalˠsʲə",
+        "filename": "rus_pastsentence2_120"
+    },
+    {
+        "sentence": "prʲɪlʲæsʲtʲ",
+        "filename": "rus_barelemma_121"
+    },
+    {
+        "sentence": "Мужчина решил prʲɪlʲæsʲtʲ",
+        "filename": "rus_lemmasentence_121"
+    },
+    {
+        "sentence": "Вчера мужчина prʲɪlʲalˠ",
+        "filename": "rus_pastsentence1_121"
+    },
+    {
+        "sentence": "Вчера мужчина prʲɪlʲas",
+        "filename": "rus_pastsentence2_121"
+    },
+    {
+        "sentence": "klˠɐsʲtʲi",
+        "filename": "rus_barelemma_122"
+    },
+    {
+        "sentence": "Мужчина решил klˠɐsʲtʲi",
+        "filename": "rus_lemmasentence_122"
+    },
+    {
+        "sentence": "Вчера мужчина klˠos",
+        "filename": "rus_pastsentence1_122"
+    },
+    {
+        "sentence": "Вчера мужчина klˠosʲːə",
+        "filename": "rus_pastsentence2_122"
+    },
+    {
+        "sentence": "smanʊtʲ",
+        "filename": "rus_barelemma_123"
+    },
+    {
+        "sentence": "Мужчина решил smanʊtʲ",
+        "filename": "rus_lemmasentence_123"
+    },
+    {
+        "sentence": "Вчера мужчина smanʊlˠ",
+        "filename": "rus_pastsentence1_123"
+    },
+    {
+        "sentence": "Вчера мужчина smalˠ",
+        "filename": "rus_pastsentence2_123"
+    },
+    {
+        "sentence": "gɐtʲi",
+        "filename": "rus_barelemma_124"
+    },
+    {
+        "sentence": "Мужчина решил gɐtʲi",
+        "filename": "rus_lemmasentence_124"
+    },
+    {
+        "sentence": "Вчера мужчина gɐtʲilˠ",
+        "filename": "rus_pastsentence1_124"
+    },
+    {
+        "sentence": "Вчера мужчина gotʲɪlˠ",
+        "filename": "rus_pastsentence2_124"
+    },
+    {
+        "sentence": "prʲexnʊtʲ",
+        "filename": "rus_barelemma_125"
+    },
+    {
+        "sentence": "Мужчина решил prʲexnʊtʲ",
+        "filename": "rus_lemmasentence_125"
+    },
+    {
+        "sentence": "Вчера мужчина prʲex",
+        "filename": "rus_pastsentence1_125"
+    },
+    {
+        "sentence": "Вчера мужчина prʲexnʊlˠ",
+        "filename": "rus_pastsentence2_125"
+    },
+    {
+        "sentence": "pʲisʲtʲ",
+        "filename": "rus_barelemma_126"
+    },
+    {
+        "sentence": "Мужчина решил pʲisʲtʲ",
+        "filename": "rus_lemmasentence_126"
+    },
+    {
+        "sentence": "Вчера мужчина pʲilˠ",
+        "filename": "rus_pastsentence1_126"
+    },
+    {
+        "sentence": "Вчера мужчина pʲɵlˠ",
+        "filename": "rus_pastsentence2_126"
+    },
+    {
+        "sentence": "nɐlʲitʲ",
+        "filename": "rus_barelemma_127"
+    },
+    {
+        "sentence": "Мужчина решил nɐlʲitʲ",
+        "filename": "rus_lemmasentence_127"
+    },
+    {
+        "sentence": "Вчера мужчина nɐlʲilˠ",
+        "filename": "rus_pastsentence1_127"
+    },
+    {
+        "sentence": "Вчера мужчина nolʲɪlˠ",
+        "filename": "rus_pastsentence2_127"
+    },
+    {
+        "sentence": "daknʊtʲ",
+        "filename": "rus_barelemma_128"
+    },
+    {
+        "sentence": "Мужчина решил daknʊtʲ",
+        "filename": "rus_lemmasentence_128"
+    },
+    {
+        "sentence": "Вчера мужчина dak",
+        "filename": "rus_pastsentence1_128"
+    },
+    {
+        "sentence": "Вчера мужчина daknʊlˠ",
+        "filename": "rus_pastsentence2_128"
+    },
+    {
+        "sentence": "zɐlʲitʲ",
+        "filename": "rus_barelemma_129"
+    },
+    {
+        "sentence": "Мужчина решил zɐlʲitʲ",
+        "filename": "rus_lemmasentence_129"
+    },
+    {
+        "sentence": "Вчера мужчина zɐlʲilˠ",
+        "filename": "rus_pastsentence1_129"
+    },
+    {
+        "sentence": "Вчера мужчина zalʲɪlˠ",
+        "filename": "rus_pastsentence2_129"
+    },
+    {
+        "sentence": "tɐlʲitʲ",
+        "filename": "rus_barelemma_130"
+    },
+    {
+        "sentence": "Мужчина решил tɐlʲitʲ",
+        "filename": "rus_lemmasentence_130"
+    },
+    {
+        "sentence": "Вчера мужчина tɐlʲilˠ",
+        "filename": "rus_pastsentence1_130"
+    },
+    {
+        "sentence": "Вчера мужчина tolʲɪlˠ",
+        "filename": "rus_pastsentence2_130"
+    },
+    {
+        "sentence": "sɐlʲitʲ",
+        "filename": "rus_barelemma_131"
+    },
+    {
+        "sentence": "Мужчина решил sɐlʲitʲ",
+        "filename": "rus_lemmasentence_131"
+    },
+    {
+        "sentence": "Вчера мужчина sɐlʲilˠ",
+        "filename": "rus_pastsentence1_131"
+    },
+    {
+        "sentence": "Вчера мужчина səlʲɪlˠ",
+        "filename": "rus_pastsentence2_131"
+    },
+    {
+        "sentence": "dɐlʲetʲ",
+        "filename": "rus_barelemma_132"
+    },
+    {
+        "sentence": "Мужчина решил dɐlʲetʲ",
+        "filename": "rus_lemmasentence_132"
+    },
+    {
+        "sentence": "Вчера мужчина dɐlʲelˠ",
+        "filename": "rus_pastsentence1_132"
+    },
+    {
+        "sentence": "Вчера мужчина dolʲɪlˠ",
+        "filename": "rus_pastsentence2_132"
+    },
+    {
+        "sentence": "ʂusʲtʲ",
+        "filename": "rus_barelemma_133"
+    },
+    {
+        "sentence": "Мужчина решил ʂusʲtʲ",
+        "filename": "rus_lemmasentence_133"
+    },
+    {
+        "sentence": "Вчера мужчина ʂulˠ",
+        "filename": "rus_pastsentence1_133"
+    },
+    {
+        "sentence": "Вчера мужчина ʂus",
+        "filename": "rus_pastsentence2_133"
+    },
+    {
+        "sentence": "sɐrʲitʲ",
+        "filename": "rus_barelemma_134"
+    },
+    {
+        "sentence": "Мужчина решил sɐrʲitʲ",
+        "filename": "rus_lemmasentence_134"
+    },
+    {
+        "sentence": "Вчера мужчина sɐrʲilˠ",
+        "filename": "rus_pastsentence1_134"
+    },
+    {
+        "sentence": "Вчера мужчина sorʲɪlˠ",
+        "filename": "rus_pastsentence2_134"
+    },
+    {
+        "sentence": "obnʊtʲ",
+        "filename": "rus_barelemma_135"
+    },
+    {
+        "sentence": "Мужчина решил obnʊtʲ",
+        "filename": "rus_lemmasentence_135"
+    },
+    {
+        "sentence": "Вчера мужчина ɐbax",
+        "filename": "rus_pastsentence1_135"
+    },
+    {
+        "sentence": "Вчера мужчина ɐbaxnʊlˠ",
+        "filename": "rus_pastsentence2_135"
+    },
+    {
+        "sentence": "prɐsʲesʲtʲ",
+        "filename": "rus_barelemma_136"
+    },
+    {
+        "sentence": "Мужчина решил prɐsʲesʲtʲ",
+        "filename": "rus_lemmasentence_136"
+    },
+    {
+        "sentence": "Вчера мужчина prɐsʲelˠ",
+        "filename": "rus_pastsentence1_136"
+    },
+    {
+        "sentence": "Вчера мужчина prɐsʲes",
+        "filename": "rus_pastsentence2_136"
+    },
+    {
+        "sentence": "ɐtlʲetʲ",
+        "filename": "rus_barelemma_137"
+    },
+    {
+        "sentence": "Мужчина решил ɐtlʲetʲ",
+        "filename": "rus_lemmasentence_137"
+    },
+    {
+        "sentence": "Вчера мужчина ɐtlʲelˠ",
+        "filename": "rus_pastsentence1_137"
+    },
+    {
+        "sentence": "Вчера мужчина otlʲɪlˠ",
+        "filename": "rus_pastsentence2_137"
+    },
+    {
+        "sentence": "paxnʊtʲ",
+        "filename": "rus_barelemma_138"
+    },
+    {
+        "sentence": "Мужчина решил paxnʊtʲ",
+        "filename": "rus_lemmasentence_138"
+    },
+    {
+        "sentence": "Вчера мужчина pax",
+        "filename": "rus_pastsentence1_138"
+    },
+    {
+        "sentence": "Вчера мужчина paxnʊlˠ",
+        "filename": "rus_pastsentence2_138"
+    },
+    {
+        "sentence": "ɐsvʲesnʊtʲ",
+        "filename": "rus_barelemma_139"
+    },
+    {
+        "sentence": "Мужчина решил ɐsvʲesnʊtʲ",
+        "filename": "rus_lemmasentence_139"
+    },
+    {
+        "sentence": "Вчера мужчина ɐsvʲes",
+        "filename": "rus_pastsentence1_139"
+    },
+    {
+        "sentence": "Вчера мужчина ɐsvʲesnʊlˠ",
+        "filename": "rus_pastsentence2_139"
+    },
+    {
+        "sentence": "ɐtvʲesʲtʲ",
+        "filename": "rus_barelemma_140"
+    },
+    {
+        "sentence": "Мужчина решил ɐtvʲesʲtʲ",
+        "filename": "rus_lemmasentence_140"
+    },
+    {
+        "sentence": "Вчера мужчина ɐtvʲelˠ",
+        "filename": "rus_pastsentence1_140"
+    },
+    {
+        "sentence": "Вчера мужчина ɐtvʲes",
+        "filename": "rus_pastsentence2_140"
+    },
+    {
+        "sentence": "vʲaxnʊtʲ",
+        "filename": "rus_barelemma_141"
+    },
+    {
+        "sentence": "Мужчина решил vʲaxnʊtʲ",
+        "filename": "rus_lemmasentence_141"
+    },
+    {
+        "sentence": "Вчера мужчина vʲax",
+        "filename": "rus_pastsentence1_141"
+    },
+    {
+        "sentence": "Вчера мужчина vʲaxnʊlˠ",
+        "filename": "rus_pastsentence2_141"
+    },
+    {
+        "sentence": "dʲiknʊtʲ",
+        "filename": "rus_barelemma_142"
+    },
+    {
+        "sentence": "Мужчина решил dʲiknʊtʲ",
+        "filename": "rus_lemmasentence_142"
+    },
+    {
+        "sentence": "Вчера мужчина dʲik",
+        "filename": "rus_pastsentence1_142"
+    },
+    {
+        "sentence": "Вчера мужчина dʲiknʊlˠ",
+        "filename": "rus_pastsentence2_142"
+    },
+    {
+        "sentence": "tɕesʲtʲ",
+        "filename": "rus_barelemma_143"
+    },
+    {
+        "sentence": "Мужчина решил tɕesʲtʲ",
+        "filename": "rus_lemmasentence_143"
+    },
+    {
+        "sentence": "Вчера мужчина tɕelˠ",
+        "filename": "rus_pastsentence1_143"
+    },
+    {
+        "sentence": "Вчера мужчина tɕɵlˠ",
+        "filename": "rus_pastsentence2_143"
+    },
+    {
+        "sentence": "ʊtʲɪrʲetʲ",
+        "filename": "rus_barelemma_144"
+    },
+    {
+        "sentence": "Мужчина решил ʊtʲɪrʲetʲ",
+        "filename": "rus_lemmasentence_144"
+    },
+    {
+        "sentence": "Вчера мужчина ʊtʲɵr",
+        "filename": "rus_pastsentence1_144"
+    },
+    {
+        "sentence": "Вчера мужчина ʊtrʲɵr",
+        "filename": "rus_pastsentence2_144"
+    },
+    {
+        "sentence": "ɐtɕitʲ",
+        "filename": "rus_barelemma_145"
+    },
+    {
+        "sentence": "Мужчина решил ɐtɕitʲ",
+        "filename": "rus_lemmasentence_145"
+    },
+    {
+        "sentence": "Вчера мужчина ɐtɕilˠ",
+        "filename": "rus_pastsentence1_145"
+    },
+    {
+        "sentence": "Вчера мужчина otɕɪlˠ",
+        "filename": "rus_pastsentence2_145"
+    },
+    {
+        "sentence": "tɕɪsʲtʲi",
+        "filename": "rus_barelemma_146"
+    },
+    {
+        "sentence": "Мужчина решил tɕɪsʲtʲi",
+        "filename": "rus_lemmasentence_146"
+    },
+    {
+        "sentence": "Вчера мужчина tɕɵlˠ",
+        "filename": "rus_pastsentence1_146"
+    },
+    {
+        "sentence": "Вчера мужчина tɕɵs",
+        "filename": "rus_pastsentence2_146"
+    },
+    {
+        "sentence": "vlʲepnʊtʲ",
+        "filename": "rus_barelemma_147"
+    },
+    {
+        "sentence": "Мужчина решил vlʲepnʊtʲ",
+        "filename": "rus_lemmasentence_147"
+    },
+    {
+        "sentence": "Вчера мужчина vlʲep",
+        "filename": "rus_pastsentence1_147"
+    },
+    {
+        "sentence": "Вчера мужчина vlʲepnʊlˠ",
+        "filename": "rus_pastsentence2_147"
+    },
+    {
+        "sentence": "ʊvʲepnʊtʲ",
+        "filename": "rus_barelemma_148"
+    },
+    {
+        "sentence": "Мужчина решил ʊvʲepnʊtʲ",
+        "filename": "rus_lemmasentence_148"
+    },
+    {
+        "sentence": "Вчера мужчина ʊvʲep",
+        "filename": "rus_pastsentence1_148"
+    },
+    {
+        "sentence": "Вчера мужчина ʊvʲepnʊlˠ",
+        "filename": "rus_pastsentence2_148"
+    },
+    {
+        "sentence": "svʲesnʊtʲ",
+        "filename": "rus_barelemma_149"
+    },
+    {
+        "sentence": "Мужчина решил svʲesnʊtʲ",
+        "filename": "rus_lemmasentence_149"
+    },
+    {
+        "sentence": "Вчера мужчина svʲes",
+        "filename": "rus_pastsentence1_149"
+    },
+    {
+        "sentence": "Вчера мужчина svʲesnʊlˠ",
+        "filename": "rus_pastsentence2_149"
+    },
+    {
+        "sentence": "vʲisnʊtʲ",
+        "filename": "rus_barelemma_150"
+    },
+    {
+        "sentence": "Мужчина решил vʲisnʊtʲ",
+        "filename": "rus_lemmasentence_150"
+    },
+    {
+        "sentence": "Вчера мужчина vʲis",
+        "filename": "rus_pastsentence1_150"
+    },
+    {
+        "sentence": "Вчера мужчина vʲisnʊlˠ",
+        "filename": "rus_pastsentence2_150"
+    },
+    
+    {
+        "sentence": "tsɨpʲitʲ",
+        "filename": "rus_barelemma_153"
+    },
+    {
+        "sentence": "Мужчина решил tsɨpʲitʲ",
+        "filename": "rus_lemmasentence_153"
+    },
+    {
+        "sentence": "Вчера мужчина tsɨpʲilˠ",
+        "filename": "rus_pastsentence1_153"
+    },
+    {
+        "sentence": "Вчера мужчина tsɨp",
+        "filename": "rus_pastsentence2_153"
+    },
+    {
+        "sentence": "zətʲɪratsːə",
+        "filename": "rus_barelemma_154"
+    },
+    {
+        "sentence": "Мужчина решил zətʲɪratsːə",
+        "filename": "rus_lemmasentence_154"
+    },
+    {
+        "sentence": "Вчера мужчина zətʲɪralˠsʲə",
+        "filename": "rus_pastsentence1_154"
+    },
+    {
+        "sentence": "Вчера мужчина zətʲɪralˠsʲa",
+        "filename": "rus_pastsentence2_154"
+    },
+    {
+        "sentence": "pɐpolˠzətʲ",
+        "filename": "rus_barelemma_155"
+    },
+    {
+        "sentence": "Мужчина решил pɐpolˠzətʲ",
+        "filename": "rus_lemmasentence_155"
+    },
+    {
+        "sentence": "Вчера мужчина pɐpolˠzəlˠ",
+        "filename": "rus_pastsentence1_155"
+    },
+    {
+        "sentence": "Вчера мужчина pɐpolˠz",
+        "filename": "rus_pastsentence2_155"
+    },
+    {
+        "sentence": "Переместите ползунок вправо до упора и нажмите «отправить».",
+        "filename": "rus_barelemma_151"
+    },
+    {
+        "sentence": "Переместите ползунок до упора влево и нажмите «Отправить».",
+        "filename": "rus_barelemma_152"
+    },
 ]
 }
